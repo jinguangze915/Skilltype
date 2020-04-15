@@ -1,0 +1,1226 @@
+[
+  {
+    "NAME": "Intro to Open Access",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://www.youtube.com/watch?v=_fme9wi0-yk",
+    "PUBLICATION_DATE": "9-8-2017",
+    "TAGS": "Open Access; UKSG",
+    "MORE_INFO":
+      "UKSG volunteers discuss some of the issues around open access publishing."
+  },
+  {
+    "NAME":
+      "The State of Digital Preservation: A Snapshot of Triumphs, Gaps, and Open Research Questions",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://vimeo.com/308311561",
+    "PUBLICATION_DATE": "12-7-2018",
+    "TAGS": "Digital Preservation; CNI; ITHAKA S+R",
+    "MORE_INFO":
+      "Ensuring the long-term preservation of digital information for future users has been one of the key aspirations of the research library community. Ithaka S+R has been exploring the current state of digital preservation in order to identify research questions and areas for action. Based on interviews with 21 subject experts, we gathered perspectives on the successes, gaps, outstanding issues, and emerging needs in digital preservation. Although the conversations were open-ended, they were framed with questions to probe what seems to be working well now, new research workflows or cultural practices that require novel preservation strategies, and areas that need further attention and research. Our study shows areas of significant progress in the preservation landscape as the community has grown and has established important collaborations. However, the interviews revealed a number of concerns with the pace and nature of these developments and identified several issues that would benefit from further exploration. For this session, we plan to share what we have learned and gather feedback and additional perspectives, as we work to generate a research agenda for Ithaka S+R on digital preservation."
+  },
+  {
+    "NAME":
+      "NCSU Libraries Digital and Data Science Skills Workshops: Building Capacity and Meeting Campus Needs",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://vimeo.com/276071101",
+    "PUBLICATION_DATE": "3-13-2018",
+    "TAGS":
+      "North Carolina State University; Data Visualization; Digital Initiatives"
+  },
+  {
+    "NAME": "Artificial Intelligence (AI) in the Library",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://vimeo.com/255388664",
+    "PUBLICATION_DATE": "12-10-2017",
+    "TAGS":
+      "Artificial Intelligence; Machine Learning; CNI; Yewno; University of Rhode Island; North Carolina State University",
+    "MORE_INFO":
+      "This session will explore how artificial intelligence (AI) is used and how it is going to be deployed in the library, museum, and archives fields. The presentation will include an exploration of new AI opportunities using current and future projects, discussion of opening an interdisciplinary AI lab in a library (the first of its kind in the United States), and the description of how an AI-based framework is mimicking the way human brains absorb information and create dynamic knowledge."
+  },
+  {
+    "NAME": "Open Access Explained!",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://youtu.be/L5rVH1KGBCY",
+    "PUBLICATION_DATE": "10-25-2012",
+    "TAGS": "Open Access; Scholarly Publishing",
+    "MORE_INFO":
+      "What is open access? Nick Shockey and Jonathan Eisen take us through the world of open access publishing and explain just what it's all about."
+  },
+  {
+    "NAME": "Should You Publish? by Open Textbook Network",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://youtu.be/Nzdr0hKLLX0",
+    "PUBLICATION_DATE": "3-10-2019",
+    "TAGS": "Open Educational Resources",
+    "MORE_INFO":
+      "Hosted by the Open Textbook Network, this is the first of a series of three webinars on building an open textbook publishing program. In this video is John Warren, Director and Associate Professor, Masters of Professional Studies in Publishing at George Washington University."
+  },
+  {
+    "NAME":
+      "Software Carpentry in the Library: Partnering to Give Researchers Needed Technical Skills",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://vimeo.com/220344798",
+    "PUBLICATION_DATE": "3-29-2017",
+    "TAGS": "Software Development; University of Oklahoma",
+    "MORE_INFO":
+      "Basic programming and data management skills have become invaluable for creating reproducible research; however, this training is rarely included in graduate curriculum. Major grant-funded projects may be able to hire someone to provide these services, but the majority cannot. Recognizing this need, the University of Oklahoma Libraries has partnered with Software Carpentry, a non-profit foundation that offers two-day, hands-on workshops on basic programming skills designed to help researchers automate and track their research processes. The University Libraries has offered 12 local workshops since 2014 with over 300 faculty, graduate students, and staff from over 30 departments and research groups participating. We offer the workshops multiple times each semester — one before the semester starts, one during the middle of the semester, and one at the end of the semester. We have found that offering the mid-semester workshop during the week of Thanksgiving or Spring Break increases attendance since participants are more likely to be able to have two full days available. Each workshop is taught by library staff including experts in data management, informatics, and digital scholarship. By having library staff teach and attend the workshops, our team has gained a better understanding of our local researchers’ needs. The sessions also allow researchers to connect and develop relationships with specialists in the library, who can guide them through more advanced data and programming issues. Developing these relationships has helped to position the University Libraries as a nucleus for research on campus. During this briefing, attendees will learn best practices that have resulted from our experiences in planning and implementing such a program."
+  },
+  {
+    "NAME":
+      "Migrating Library Collections and Operations to Linked Data: Assessment, Planning and Experimentation",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://vimeo.com/200853878",
+    "PUBLICATION_DATE": "12-13-2016",
+    "TAGS":
+      "Linked Data; Collection Development; Assessment; University of California at Davis"
+  },
+  {
+    "NAME": "Building the Better eBook and Beyond",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://vimeo.com/203016568",
+    "PUBLICATION_DATE": "11-30-2016",
+    "TAGS":
+      "eBooks; Columbia University; Emory University; University of Michigan",
+    "MORE_INFO":
+      "This session brings together several initiatives that are exploring the evolution of the monograph: (1) JSTOR Labs, an experimental platform development group, convened at Columbia University by a group of scholars, librarians, and publishers in October 2016. Together, they tackled this design question: if we applied data visualization and design thinking techniques to the existing corpus of digitized monograph files, how could we improve the discovery and user experience for scholars, students, and general readers? The first presentation will discuss the design principles and challenges that the expert group identified, demonstrate the working prototype created during a “flash build” at Columbia in November by JSTOR Labs, and explain how CNI attendees and others can take advantage of this openly available development. The lean, user-oriented product design process used for this project will also be outlined; a design process that any library or publisher can take advantage of for their own technology and innovation projects. (2) Emory University and the University of Michigan are working together on interrelated projects supported by The Andrew W. Mellon Foundation that explore how publishers can best support and sustain digital scholarship. Emory is leading a project to create a “Model Contract for Digital Scholarship” that can be used to set out roles and responsibilities around the selection, production, marketing, and preservation of a publication that takes full advantage of digital affordances, including open access. Michigan is developing a publishing platform optimized for digital scholarship, Fulcrum, built on the Hydra/Fedora framework. To ground the conversation, a concrete example of one new work of digital scholarship published by University of Michigan Press will be presented (“A Mid-Republican House from Gabii”). This is a multimodal work that cannot be presented in print and involves integrated narrative, datasets, and 3D models."
+  },
+  {
+    "NAME":
+      "DRASTIC Measures: Digital Repository at Scale that Invites Computation (To Improve Collections)",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://vimeo.com/206243022",
+    "PUBLICATION_DATE": "11-29-2016",
+    "TAGS": "Digital Repositories; University of Maryland",
+    "MORE_INFO":
+      "DRASTIC (digital repository at scale that invites computation), is an open source digital repository platform for creating horizontally scaling archives that serve the national library, archives, and scientific data management communities. Through the emerging DRASTIC community project we intend to provide a credible solution for Big Data management in large organizations in the cultural heritage, business, and scientific research communities. DRASTIC was developed by Archives Analytics Solutions ltd., in collaboration with the University of Maryland’s Digital Curation Innovation Center (DCIC) in the College of Information Studies as the result of a $10.5 M National Science Foundation grant. The software is based on the most widely used distributed database, Apache Cassandra, created to meet the scaling needs of companies like Facebook. DRASTIC supports integration by providing a standard RESTful Cloud Data Management Interface (CDMI), a command-line interface, web interface, and messaging as contents are changed (MQTT). We will introduce the project, show participants how we use it today, and explain our plans to enhance archival data, perform computational analyses, and integrate with other archival platforms."
+  },
+  {
+    "NAME": "Linked Data Implementations-Who, What and Why?",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://vimeo.com/171578255",
+    "PUBLICATION_DATE": "11-29-2016",
+    "TAGS": "Linked Data; OCLC"
+  },
+  {
+    "NAME": "Readers Advisory Chicago Public Library",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://www.youtube.com/watch?v=K4J2YlFxaUE",
+    "PUBLICATION_DATE": "8-30-2018",
+    "TAGS": "Design Thinking; Chicago Public Library",
+    "MORE_INFO":
+      "A Design Thinking team from the Chicago Public Library created a video of their final project presentation. It provides an example of how to structure your story."
+  },
+  {
+    "NAME":
+      "The Future of Linked Data in Libraries: Assessing BIBFRAME Against Best Practices",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://vimeo.com/152611387",
+    "PUBLICATION_DATE": "12-14-2015",
+    "TAGS": "Linked Data; Stanford University"
+  },
+  {
+    "NAME":
+      "Building a Deeper Bench: Training Students to Provide Digital Scholarship Support",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://vimeo.com/220321311",
+    "PUBLICATION_DATE": "4-4-2017",
+    "TAGS":
+      "Professional Development; University of North Carolina at Chapel Hill",
+    "MORE_INFO":
+      "This program highlights one new way that University of North Carolina Libraries services are enabling pedagogical and curricular change: by training Library student employees to provide substantial digital scholarship support. Historically, the Libraries have helped drive pedagogical change in four ways: 1.) Working directly with instructors on courses, assignments, and in curricular groups, 2.) Partnering with campus support organizations (e.g., teaching & learning center) to deliver programming, 3.) Introducing students to new skills and technologies through direct consultation and instruction, and 4.) Providing and integrating technology-enabled spaces into research and instruction. Recently, we have identified a fifth method: training and mentoring student employees in the delivery of digital scholarship research assistance. Training students to provide significant digital scholarship support gives them a hands-on work experience, engages them in new types of research, and develops their skills with emerging tools and practices. It also allows the Library’s many digital scholarship services to scale more readily, providing librarians with more time to engage with researchers on larger, complex projects and questions. In this session, we discuss the kind of work our students engage in, the growth of our training programs, and the curriculum that is beginning to emerge through our experience. We will draw from three examples: o Graduate students in the Science Library’s Makerspace providing 3D printing and 3D scanning consultations and instruction to faculty and students. o Graduate students in the Undergraduate Library developing tutorials and teaching workshops on digital media creation, including social media graphics and infographics. o Graduate and undergraduate students in the Davis Library Research Hub providing consultations and project support on a range of tools, from Tableau to Python. Co-authors, not presenting: Suchi Mohanty, Head, R.B. House Undergraduate Library Amanda Henley, Head, Digital Research Services Danianne Mizzy, Head, Kenan Science Information Services"
+  },
+  {
+    "NAME": "Why Diversity is Not Enough",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://www.youtube.com/watch?v=rvyIHpMmCuM",
+    "PUBLICATION_DATE": "5-21-2013",
+    "TAGS": "Diversity; Equity; Inclusion"
+  },
+  {
+    "NAME":
+      "NASIG Webinar: DIY E-Resource Management: Basics of Information Architecture",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://www.youtube.com/watch?v=WqkHaETDh4o",
+    "PUBLICATION_DATE": "4-3-2018",
+    "TAGS": "E-Resource Management; NASIG",
+    "MORE_INFO":
+      "This webinar provides an introduction (or refresher) to concepts in information architecture and strategies for the design of homegrown e-resource management systems (ERMS). While both commercial and open source ERMS are available, sometimes the resources needed to license or support these systems are not. This session prepares attendees with information, tools, and strategies to design and implement homegrown ERMS using software such as Microsoft Access. The information in this session can also be applied to evaluate commercial or open source systems."
+  },
+  {
+    "NAME":
+      "Racing to the Crossroads of Scholarly Communication: But Who Are We Leaving Behind?",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://www.youtube.com/watch?v=BhLC8w8OLww",
+    "PUBLICATION_DATE": "7-5-2017",
+    "TAGS":
+      "Scholarly Communication; Diversity; Equity; Inclusion; NASIG; New York University",
+    "MORE_INFO":
+      "April Hathcock is the Scholarly Communications Librarian at NYU where she educates the campus community on issues of ownership, access, and rights in the research lifecycle. Before entering librarianship, she practiced intellectual property and antitrust law for a global private firm. Her research interests include diversity and inclusion in librarianship, cultural creation and exchange, and the ways in which social and legal infrastructures benefit the works of certain groups over others. She is the author of the article “White Librarianship in Blackface: Diversity Initiatives in LIS” and the blog At the Intersection, which examines issues at the intersection of feminism, libraries, social justice, and the law."
+  },
+  {
+    "NAME": "Influence and Innovation",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://facebook.design/videos/larryjackson",
+    "PUBLICATION_DATE": "7/6/2017",
+    "TAGS": "Design; Innovation; Strategy"
+  },
+  {
+    "NAME": "Skilltype February 2019 Product Update",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://vimeo.com/320646575",
+    "PUBLICATION_DATE": "3/1/2019",
+    "TAGS": "Skilltype; Recruitment; Professional Development",
+    "MORE_INFO":
+      "In this update, we announce the upcoming release of Organizations v1, introduce our public product roadmap, and have a debate about encouraging users to use personal vs. work emails. Attendees were present from Gonzaga University, Wayne State University, and the Skilltype team."
+  },
+  {
+    "NAME": "Growing the Archives Profession",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://www.youtube.com/watch?v=r6D53yIx_Wc",
+    "PUBLICATION_DATE": "8-9-2012",
+    "TAGS": "Professional Development; Archives; SAA",
+    "MORE_INFO":
+      "SAA Vice President Jackie Dooley with Adriana Cuervo, Terry Baxter, Carol Bartels, Robin Chandler, and Laura Tatum. Recorded at SAA's 2012 Annual Meeting in San Diego."
+  },
+  {
+    "NAME": "\"Algorithms of Oppression...\" Safiya Noble, USC",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://www.youtube.com/watch?v=oqelqdDIDSs",
+    "PUBLICATION_DATE": "12-11-2017",
+    "TAGS": "Equity; Organizational Development; Knowledge Management",
+    "MORE_INFO":
+      "The landscape of information is rapidly shifting as new imperatives and demands push to the fore increasing investment in digital technologies. Yet, critical information scholars continue to demonstrate how digital technology and its narratives are shaped by and infused with values that are not impartial, disembodied, or lacking positionality. Technologies consist of a set of social practices, situated within the dynamics of race, gender, class, and politics, and in the service of something -- a position, a profit motive, a means to an end. In this talk, Safiya Umoja Noble, Assistant Professor in the Annenberg School of Communication at USC, will examine the power struggles over representation on the web, and the consequences of marginalization and misrepresentation in commercial information platforms like Google search."
+  },
+  {
+    "NAME": "Simple Prototyping",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://www.youtube.com/watch?v=IaX3izBZSlc",
+    "PUBLICATION_DATE": "8-30-2018",
+    "TAGS": "Design Thinking; Prototyping",
+    "MORE_INFO":
+      "A prototype is an early sample, model, or release of a product built to test a concept or process or to act as a thing to be replicated or learned from. It is a term used in a variety of contexts, including semantics, design, electronics, and software programming."
+  },
+  {
+    "NAME": "IDEO Brainstorming Video from IDEO U",
+    "MEDIA_TYPE": "video",
+    "SOURCE": "https://www.youtube.com/watch?v=VvdJzeO9yN8",
+    "PUBLICATION_DATE": "7-10-2017",
+    "TAGS": "Design Thinking; Brainstorming; Management",
+    "MORE_INFO":
+      "Want to learn by seeing how experts brainstorm? See brainstorming in action with IDEO's Toy Lab. This brainstorm - about attracting more visitors to a zoo - was recorded as part of a course by IDEO U: From Ideas to Action. In the larger lesson on Ideation, we share more about Brainstorming and other IDEO favorite ideation methods. We also share more about the philosophy around Ideation as a key part of Design Thinking."
+  },
+  {
+    "NAME":
+      "The State of Digital Preservation: An Interview with Roger Schonfeld",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://soundcloud.com/educause/cni-podcast-the-state-of-digital-preservation",
+    "PUBLICATION_DATE": "12-7-2018",
+    "TAGS": "Digital Preservation; CNI; ITHAKA S+R"
+  },
+  {
+    "NAME": "Open Discovery Initiative",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://www.niso.org/sites/default/files/audio/2019-01/Open%20Telecon%20ODI%20January%2014%2C%202019.m4a",
+    "PUBLICATION_DATE": "1-14-2019",
+    "TAGS": "Discovery; NISO",
+    "MORE_INFO":
+      "The Open Discovery Initiative (ODI) Recommended Practice defines best practices for the new generation of library discovery services that are based on indexed search. These discovery services are primarily based upon indexes derived from journals, ebooks and other electronic information of a scholarly nature. The content comes from a range of information providers and products--commercial, open access, institutional, etc. Given the growing interest and activity in the interactions between information providers and discovery services, a more standard set of practices is required for the ways that content is represented in discovery services and for the interactions between the creators of these services and the information providers whose resources they represent."
+  },
+  {
+    "NAME": "AI and the Value of Expertise",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=8781584",
+    "PUBLICATION_DATE": "2-26-2019",
+    "TAGS": "Artificial Intelligence",
+    "MORE_INFO":
+      "AI has been predicted to replace humans in professions ranging from customer service representatives to medical doctors. But many have pointed out elements of human work that would be difficult to imagine being performed by AI. HBS Professor Raj Choudhury discusses his investigations into uses of technologies based on machine learning. AI, he says, will be a valuable tool in the hands of experts. Listen to hear why."
+  },
+  {
+    "NAME": "Speaking the Language of Skills",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=8524835",
+    "PUBLICATION_DATE": "02-05-2019",
+    "TAGS":
+      "Management; Recruiting; Professional Development; Organizational Development",
+    "MORE_INFO":
+      "As jobs change faster and faster and companies work to prepare their employees for the future, it is more important than ever for firms to assess the talent they have and understand skills they need to compete. David Blake, founder and Executive Chairman of Degreed and author of the new book The Expertise Economy, talks to Joe about how companies can learn to speak the language of skills and empower employees working to gain them."
+  },
+  {
+    "NAME": "Retraining Road Trip: New Skills for Older Workers",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=7628675",
+    "PUBLICATION_DATE": "11-20-2018",
+    "TAGS": "Organizational Development; Management; Succession Planning",
+    "MORE_INFO":
+      "From South Carolina, to Appalachia, to Wisconsin, Professor Willy Shih set out across the country to understand the plight of older workers coping with the changing nature of jobs. His conclusion: the challenges are enormous, but finally, a grassroots movement is taking shape to retrain workers across communities in America. Professor Shih, who has a background in American manufacturing, shares his road-trip findings with Bill in this podcast as well as an HBR article."
+  },
+  {
+    "NAME":
+      "Work without borders: How digital platforms are transforming the way firms get things done",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=7069777",
+    "PUBLICATION_DATE": "9-20-2018",
+    "TAGS": "Skilltype; Recruitment; Organizational Development",
+    "MORE_INFO":
+      "As the world gets smaller, the talent pools available to firms are getting much, much bigger. By bringing employers and workers together and solving key challenges of contracting at a distance, digital labor platforms are changing the way work is done. Professor Chris Stanton, who has studied them for over a decade, discusses the ins and outs of tapping into these labor sources, how workers on these marketplaces compete, and how platforms are disrupting management. Are physical offices a thing of the past?"
+  },
+  {
+    "NAME":
+      "NYPL Podcasts: Five Episodes to Listen to This Black History Month",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://www.nypl.org/blog/2019/02/01/nypl-podcasts-black-history-month",
+    "PUBLICATION_DATE": "2-1-2019",
+    "TAGS": "NYPL; Diversity; Inclusion",
+    "MORE_INFO":
+      "To celebrate Black History Month, NYPL Podcasts compiled a list of favorite episodes from the past year—from both The Librarian Is In and Library Talks—featuring influential Black authors, educators, and activists. These conversations shed light on Black history made in politics, literature, and pop culture."
+  },
+  {
+    "NAME": "#FixMyLibrary Ep: 2: I'm Good Enough, I'm Smart Enough",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://soundcloud.com/fixmylibrary/ep-2-im-good-enough-im-smart-enough",
+    "PUBLICATION_DATE": "11-16-2018",
+    "TAGS":
+      "Credentialing; Professional Development; Recruitment; Organizational Development; Assessment",
+    "MORE_INFO":
+      "A perennial discussion in LIS centers the value of the terminal degree for the field, and one way that value is challenged is through the ever-encroaching \"preferred qualification\" of a second master's degree. In this episode, we hash out the issues related to library degree value -- including pride, perceptions, and pay. Can it be fixed? Join the conversation: twitter.com/fixmylibrary. Want something in LIS fixed? Email: fixmylibrarypodcast@gmail.com"
+  },
+  {
+    "NAME": "CNI Podcast: Blockchain: What's Not to Like?",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://soundcloud.com/educause/cni-podcast-blockchain-whats-not-to-like",
+    "PUBLICATION_DATE": "3-1-2019",
+    "TAGS": "Blockchain; Technology; CNI; Stanford University; LOCKSS",
+    "MORE_INFO":
+      "Dr. David S. H. Rosenthal is recently retired after nearly two decades as chief scientist of the LOCKSS (Lots Of Copies Keep Stuff Safe) Program at the Stanford University Libraries. We’re in a period when blockchain or “distributed ledger technology” is the Solution to Everything™, so it is inevitable that it will be proposed as the solution to problems in academic communication and digital preservation. But there are those who have strong doubts about the implementation of this technology."
+  },
+  {
+    "NAME": "Artificial Intelligence (AI) in the Library",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://soundcloud.com/educause/cni-podcastartificial-intelligence-in-the-library",
+    "PUBLICATION_DATE": "12-11-2017",
+    "TAGS":
+      "Artificial Intelligence; Machine Learning; CNI; University of Rhode Island; North Carolina State University",
+    "MORE_INFO":
+      "Karim Boughida is dean of university libraries at the University of Rhode Island. Chris Erdmann is chief strategist for research collaboration at North Carolina State University. Artificial intelligence is being used in and developed for the library, museum, and archives fields. And as the technology becomes more advanced and widespread, it’s important to see the uses AI can bring to the library."
+  },
+  {
+    "NAME": "Amanda Rust on Designing for Diversity",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://soundcloud.com/educause/cni-podcast-amanda-rust-on-designing-for-diversity",
+    "PUBLICATION_DATE": "3-1-2018",
+    "TAGS":
+      "Diversity; Design; Northeastern University; Boston Library Consortium",
+    "MORE_INFO":
+      "Amanda Rust is assistant director of the Digital Scholarship Group at Northeastern University. We spoke about Design for Diversity, a project supported by an Institute of Museum and Library Services (IMLS) National Forums grant that focuses on the ways in which information systems embody and reinforce cultural norms, and asks how we can design systems that account for diverse cultural materials and ways of knowing."
+  },
+  {
+    "NAME": "The Intersection of Machine Learning and Higher Education",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://soundcloud.com/educause/the-intersection-of-machine-learning-and-higher-ed",
+    "PUBLICATION_DATE": "3-23-2019",
+    "TAGS":
+      "Machine Learning; Artificial Intelligence; Higher Education; Management; Information Technology",
+    "MORE_INFO":
+      "Ray Blackwood, Vice President, Product Management, at Campus Management about the intersection of AI and machine learning in higher ed specifically and how colleges can leverage both to improve their institutions and help students."
+  },
+  {
+    "NAME": "Mentoring as a Professional Development Tool",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://soundcloud.com/educause/mentoring-as-a-professional-development-tool",
+    "PUBLICATION_DATE": "3-1-2017",
+    "TAGS": "Professional Development; Mentoring; Organizational Development",
+    "MORE_INFO":
+      "Mentoring can be a great tool for both mentor and mentee to enrich their professional development. Having a person to bounce off ideas and to give advice is an invaluable tool in sharpening one's skills. In this podcast we hear about one such relationship and share resources on getting started finding a mentor or becoming one. Learn all about effective mentoring and the ways it can boost your career, whether you are a mentor or a mentee."
+  },
+  {
+    "NAME": "Educause: Analytics Examined",
+    "MEDIA_TYPE": "audio",
+    "SOURCE": "https://soundcloud.com/educause/podcast-analytics-examined",
+    "PUBLICATION_DATE": "1-1-2016",
+    "TAGS": "Analytics; Big Data; Data Science; Higher Education"
+  },
+  {
+    "NAME": "Research Libraries Collaborate to Compete",
+    "MEDIA_TYPE": "audio",
+    "SOURCE": "https://soundcloud.com/educause/ero-carl-grant",
+    "PUBLICATION_DATE": "3-1-2016",
+    "TAGS": "University of Oklahoma; Consortial Relations; Collaboration",
+    "MORE_INFO":
+      "Learn how Oklahoma's two largest research institutions were able to leverage federal and state directives to a tangible and funded project: ShareOK.org"
+  },
+  {
+    "NAME": "Dale Askey On Digital Scholarship and the Library",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://soundcloud.com/educause/dale-askey-on-digital-scholarship-and-the-library",
+    "PUBLICATION_DATE": "1-1-2016",
+    "TAGS": "Digital Scholarship; McMaster University",
+    "MORE_INFO":
+      "Dale Askey is the Associate University Librarian for Library and Learning Technologies, at McMaster University. He also serves as Administrative Director of the Lewis & Ruth Sherman Centre for Digital Scholarship."
+  },
+  {
+    "NAME":
+      "Interview: Heather McCullough, Head of Digital Scholarship at UNC Charlotte",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://soundcloud.com/educause/interview-heather-mccullough-head-of-digital-scholarship-at-unc-charlotte",
+    "PUBLICATION_DATE": "1-1-2016",
+    "TAGS":
+      "Digital Scholarship; University of North Carolina at Charlotte; UNC Charlotte",
+    "MORE_INFO":
+      "Heather McCullough is head of digital scholarship at the University of North Carolina Charlotte. In this conversation with Marilu Goodyear, she talks about what that position title means in her daily work and details some recent projects in digital scholarship."
+  },
+  {
+    "NAME": "Brown University Libraries Supporting Digital Scholarship",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://soundcloud.com/educause/brown-university-libraries-supporting-digital-scholarship",
+    "PUBLICATION_DATE": "3-1-2015",
+    "TAGS": "Brown University; Digital Scholarship; Digital Scholarship",
+    "MORE_INFO":
+      "This podcast features a conversation with Joukowsky Family University Librarian at Brown University, Harriette Hemmasi. In this interview she discusses the Brown University Library Digital Scholarship Lab and the relationship librarians at Brown are cultivating with research and other forms of digital scholarship."
+  },
+  {
+    "NAME": "Linda Baer on the Promise of Analytics",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://soundcloud.com/educause/podcast-linda-baer-on-the-promise-of-analytics",
+    "PUBLICATION_DATE": "3-1-2015",
+    "TAGS": "Analytics; Big Data; Higher Education"
+  },
+  {
+    "NAME": "Documenting Ferguson: Building a Community Digital Repository",
+    "MEDIA_TYPE": "audio",
+    "SOURCE":
+      "https://soundcloud.com/educause/documenting-ferguson-building-a-community-digital-repository",
+    "PUBLICATION_DATE": "8-15-2016",
+    "TAGS":
+      "Digital Repositories; Digital Scholarship; Washington University at St. Louis",
+    "MORE_INFO":
+      "Shannon Davis is Digital Library Services Manager at Washington University. She helped to coordinate a community digital repository to chronicle the events in Ferguson, Missouri in 2015."
+  },
+  {
+    "NAME": "Big Data Ethics",
+    "MEDIA_TYPE": "audio",
+    "SOURCE": "https://soundcloud.com/educause/big-data-ethics",
+    "PUBLICATION_DATE": "5-12-2016",
+    "TAGS": "Ethics; Big Data",
+    "MORE_INFO":
+      "Bonnie Tijerina is a Researcher at the Data & Society Research Institut. In this conversation she discusses the Supporting Ethics in Data Research project, which explores the current and potential partnerships between computer science researchers, librarians, and support systems on campus to address emerging ethical issues in the research process."
+  },
+  {
+    "NAME": "AI Lab at University of Rhode Island Libraries",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.cni.org/wp-content/uploads/2018/01/cni_ai_boughida.pdf",
+    "PUBLICATION_DATE": "12-11-2017",
+    "TAGS":
+      "Artificial Intelligence; Machine Learning; University of Rhode Island",
+    "MORE_INFO":
+      "Introduction to University of Rhode Island's AI Lab by Karim Boughida"
+  },
+  {
+    "NAME": "Introduction to AI in Libraries",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.cni.org/wp-content/uploads/2017/12/cni_AI_erdmann.pdf",
+    "PUBLICATION_DATE": "12-11-17",
+    "TAGS":
+      "Artificial Intelligence; Machine Learning; North Carolina State University",
+    "MORE_INFO": "Introduction to AI in libraries by Christopher Erdmann"
+  },
+  {
+    "NAME": "AI in Libraries",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.cni.org/wp-content/uploads/2017/12/cni_AI_pickering.pdf",
+    "PUBLICATION_DATE": "12-11-2017",
+    "TAGS": "Artificial Intelligence; Machine Learning; Yewno",
+    "MORE_INFO": "Introdution to Yewno and AI in Libraries, by Ruth Pickering"
+  },
+  {
+    "NAME":
+      "Software Carpentry in the Library: Partnering to Give Researchers Needed Technical Skills",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.cni.org/wp-content/uploads/2017/04/CNI_Software_Clayton.pdf",
+    "PUBLICATION_DATE": "3-29-2017",
+    "TAGS": "Software Development; University of Oklahoma"
+  },
+  {
+    "NAME":
+      "Operationalizing Diversity, Equity, and Inclusion in the Workplace",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.slideshare.net/BaltimoreNISO/operationalizing-diversity-equity-and-inclusion-in-the-workplace",
+    "PUBLICATION_DATE": "3-14-2019",
+    "TAGS":
+      "Diversity; Equity; Inclusion; Organizational Development; Oberlin College; NISO",
+    "MORE_INFO":
+      "This presentation was provided by Alexia Hudson Ward of Oberlin College during the NISO event, \"Building Diversity in the Workforce,\" held on Wednesday, November 14, 2018."
+  },
+  {
+    "NAME":
+      "Diversity and Inclusion in Scholarly Publishing: A Cross-Organizational: Initiative",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.slideshare.net/BaltimoreNISO/diversity-and-inclusion-in-scholarly-publishing-a-crossorganizational-initiative",
+    "PUBLICATION_DATE": "3-12-2019",
+    "TAGS":
+      "Diversity; Equity; Inclusion; Organizational Development; NISO; Baker University",
+    "MORE_INFO":
+      "This presentation was provided by Melanie Dolechek of Baker University during the NISO event, Building Diversity in the Workforce, held on Wednesday, November 14, 2018."
+  },
+  {
+    "NAME":
+      "Diversity, Equity, and Inclusion in Libraries and Cultural Organizations",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.slideshare.net/BaltimoreNISO/diversity-equity-and-inclusion-i-libraries-and-cultural-organizations",
+    "PUBLICATION_DATE": "11-14-2018",
+    "TAGS":
+      "Diversity; Equity; Inclusion; Organizational Development; NISO; ITHAKA S+R",
+    "MORE_INFO":
+      "This presentation was provided by Liam Sweeney of THAKA S&R during the NISO event, \"Building Diversity in the Workforce,\" held on Wednesday, November 14, 2018."
+  },
+  {
+    "NAME": "Intro to EBSCO Discovery Service",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.slideshare.net/slee4000/intro-to-ebsco-discovery-service-eds-114891155",
+    "PUBLICATION_DATE": "9-17-2018",
+    "TAGS": "EBSCO; Discovery; Technology",
+    "MORE_INFO":
+      "A short PowerPoint on using EBSCO Discovery Service at Antelope Valley College."
+  },
+  {
+    "NAME": "FOLIO Service Platform for Libraries",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE": "https://slideplayer.com/slide/13226333/",
+    "PUBLICATION_DATE": "12-8-2017",
+    "TAGS": "FOLIO; Integrated Library System; ILS; Open Source",
+    "MORE_INFO":
+      "FOLIO is an open source software platform created for and by the community. The platform is available – free and with no restrictions – to everyone, regardless of location, type of institution, or business model."
+  },
+  {
+    "NAME":
+      "Discovery Analytics: How Patrons at Three Campuses Interacted With Primo",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.dropbox.com/sh/r8yfxwl7h602au6/AABGaKVbMbEg7AnmijmTOApda?preview=S014+-+Discovery+Analytics_+How+patrons+at+three+campuses+interacted+with+Primo.pdf",
+    "PUBLICATION_DATE": "3-1-2018",
+    "TAGS":
+      "Ex Libris Primo; Discovery; California State University; User Research; Analytics"
+  },
+  {
+    "NAME": "You May Own It...But Can They Find It? ER&L 02018",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.dropbox.com/sh/r8yfxwl7h602au6/AABGaKVbMbEg7AnmijmTOApda?dl=0&preview=S019+-+You+May+Own+It....But+Can+They+Find+It+Panel+Presentation+FINAL.pptx",
+    "PUBLICATION_DATE": "3-11-2018",
+    "TAGS":
+      "Discovery; ER&L; E-Resource Management; PALNI; Claremont Colleges; OCLC; Metadata Management",
+    "MORE_INFO":
+      "Have you purchased eBook or eJournal collections where the metadata was incomplete or unavailable? Please join us for this session where attendees will learn how to: Increase discoverability of e-collections when metadata is unavailable or incomplete, collaboratively create and manage metadata for electronic resources, and receive previously unavailable WorldCat MARC records"
+  },
+  {
+    "NAME":
+      "A Tale of Two Assessments: A Two-Pronged Approach to Improve Your Discovery Tool",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.dropbox.com/sh/r8yfxwl7h602au6/AABGaKVbMbEg7AnmijmTOApda?dl=0&preview=Jennifer+Hill+-+S041-A+Tale+of+Two+Assessments.pdf",
+    "PUBLICATION_DATE": "3-11-2018",
+    "TAGS": "Assessment; Discovery; Johns Hopkins University",
+    "MORE_INFO":
+      "Discovery tools are often users’ first impression of the library, so continuous assessment is critical to identify/solve usability issues. We will share two approaches (usability testing and a survey widget) for determining necessary changes that we used to assess EDS. Both methods can be done entirely online at a distance. Takeaways can be used to enhance your discovery tool effectiveness or to improve future assessment efforts."
+  },
+  {
+    "NAME":
+      "Alma at the Speed of Lihgt: New Ways of Working Together to Improve Interdepartmental Workflows",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.dropbox.com/sh/r8yfxwl7h602au6/AABGaKVbMbEg7AnmijmTOApda?dl=0&preview=S029+-+Alma+at+the+Speed+of+Light.pptx",
+    "PUBLICATION_DATE": "3-11-2018",
+    "TAGS":
+      "Ex Libris Alma; Integrated Library System; Collaboration; Montana State University; Vanderbilt University; Ithaca College",
+    "MORE_INFO":
+      "This session discusses how daily routines at several academic libraries have been impacted by implementing Alma. We will discuss, with information provided by other Alma libraries through interviews, how workflows are being identified and streamlined, improvements to interdepartmental collaboration, and barriers to adopting these changes."
+  },
+  {
+    "NAME":
+      "Combining Forces for E-Resources: How We Organized a Hackfest for Not Necessarily Programmers",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.dropbox.com/sh/r8yfxwl7h602au6/AABGaKVbMbEg7AnmijmTOApda?dl=0&preview=S049+-+Combining+Forces+for+E-Resource+-+How+We+Organized+a+Hackfest+for+Not+Necessarily+Programmers.pptx",
+    "PUBLICATION_DATE": "3-11-2018",
+    "TAGS":
+      "E-Resource Management; SCELC; Claremont Colleges; University of San Francisco; Touro University; Community Development",
+    "MORE_INFO":
+      "SCELC has generously supported grants for hackfests for electronic resource issues for the past two years. These e-resource-focused events welcome all experience levels, and encourage cross-training and creative thinking rather than requiring programming knowledge. We will share our planning, marketing, and program information for productive, collaborative events with tangible takeaways."
+  },
+  {
+    "NAME":
+      "Working With Workflows: Using the FOLIO Workflow App to Support Library Operations",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.dropbox.com/sh/r8yfxwl7h602au6/AABGaKVbMbEg7AnmijmTOApda?dl=0&preview=S097+-+Kristin+Martin+-+Working+with+Workflows+Using+the+FOLIO+Workflow+App+to+Support+Library+Operations.pptx",
+    "PUBLICATION_DATE": "3-11-2018",
+    "TAGS":
+      "FOLIO; University of Chicago; Texas A&M University; ER&L; Integrated Library System; Library Service Platform; Open Source",
+    "MORE_INFO":
+      "The FOLIO project is creating a separate workflow app, designed to provide a unified approach toward workflows. With the ability to create basic checklists, automate or trigger workflows, and share workflows with other institutions, the workflow app will tie together functionality across all of FOLIO to support system-wide operations."
+  },
+  {
+    "NAME":
+      "Point of Need: Using Personas to Meet Users' Research and Scholarship Needs",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.dropbox.com/sh/r8yfxwl7h602au6/AABGaKVbMbEg7AnmijmTOApda?dl=0&preview=S026-02-Point+of+Need+Using+personas+to+meet+users%27+research+and+scholarship+needs.pptx",
+    "PUBLICATION_DATE": "3-11-18",
+    "TAGS": "User Research; Digital Scholarship; Indiana State",
+    "MORE_INFO":
+      "This talk will discuss how the eResources librarian at Indiana State University is working to create user personas to inform the placement/ design of resources across the library's web presence. Participants will learn what user personas are, how they are made, and apply them to fit their institutional needs."
+  },
+  {
+    "NAME":
+      "Moving Beyond IP Authentication: The New Fronteir in Single Sign On",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.dropbox.com/sh/r8yfxwl7h602au6/AABGaKVbMbEg7AnmijmTOApda?dl=0&preview=S080+%E2%80%93+Moving+Beyond+IP+Authentication+The+New+Frontier+in+Single+Sign-On.pptx",
+    "PUBLICATION_DATE": "3-11-2018",
+    "TAGS":
+      "EBSCO; Open Athens; Laredo Community College; Authentication; Information Technology; E-Resource Management; Analytics"
+  },
+  {
+    "NAME": "The Messy Reality of Algorithmic Culture",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://events7.mediasite.com/Mediasite/Play/6f028b3208c94ff39d6c7a924670ed7d1d",
+    "PUBLICATION_DATE": "3-12-2018",
+    "TAGS": "Ethics; Big Data",
+    "MORE_INFO":
+      "Data-driven and algorithmic systems increasingly underpin many decision-making systems, shaping where law enforcement are stationed and what news you are shown on social media. The design of these systems is inscribed with organizational and cultural values. Often, these systems depend on the behavior of everyday people, who may not act as expected. Meanwhile, adversarial actors also seek to manipulate the data upon which these systems are built for personal, political, and economic reasons. In this talk, danah will unpack some of the unique cultural challenges presented by \"big data\" and machine learning, raising critical questions about fairness and accountability. She will argue that we need to develop more sophisticated ways of thinking about technology before jumping to hype and fear."
+  },
+  {
+    "NAME":
+      "Promoting Effective Research Data Management Practices Through Integration of Digital Research Tools",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.caudit.edu.au/system/files/Media%20library/Resources%20and%20Files/THETA%202017/Mon_1320_Helena%20Lynn%20THETA%202017.pdf",
+    "PUBLICATION_DATE": "3-13-2018",
+    "TAGS":
+      "Research Data; Digital Repositories; Research Management; University of Sydney",
+    "MORE_INFO":
+      "While many researchers acknowledge the importance of engaging with research data management policies and practices, their compliance is often hindered by the lack of user-friendly platforms that meet RDM requirements and/or their specific research needs. Building additional functionality into these platforms, including streamlining the way they interact with additional tools/platforms allows for less time to be invested in curating research data. This improves user experiences and removes one of the barriers to researcher engagement with effective RDM."
+  },
+  {
+    "NAME":
+      "Shaping the Future of Academic Libraries: Authentic Learning for the Next Generation",
+    "MEDIA_TYPE": "presentation",
+    "SOURCE":
+      "https://www.caudit.edu.au/system/files/Media%20library/Resources%20and%20Files/THETA%202017/Tue_1340_Jackie%20Edwards%20THETA%202017.pdf",
+    "PUBLICATION_DATE": "3-14-2018",
+    "TAGS":
+      "Faculty Partnerships; University of Technology Sydney; Academic Librarianship; Professional Development; Organizational Development",
+    "MORE_INFO":
+      "The Next Generation Library is changing in the wake of a tertiary education sector trying to adjust for a future skilled workforce that is expected to have a much broader and more flexible set of skills than graduates of just half a generation ago. In this paper, we present a case study which illustrates the onset of a paradigm shift in academic librarianship, disciplinary coursework and integrated learning and teaching. The upcoming challenges are a golden opportunity for evolving the role of academic librarianship, helping universities to shape the degree courses of the future."
+  },
+  {
+    "NAME": "Is the Value of the Big Deal in Decline",
+    "MEDIA_TYPE": "article",
+    "SOURCE":
+      "https://scholarlykitchen.sspnet.org/2019/03/07/value-big-deal-leakage/",
+    "PUBLICATION_DATE": "3-7-2018",
+    "TAGS": "Publisher Relations; Open Access; Analytics; Technology; ",
+    "MORE_INFO":
+      "Last week, the University of California system terminated its license with Elsevier. There has been a great deal of attention to California’s efforts to reach a Publish & Read (P&R) agreement. The what-could-have-been of this deal is interesting and important. But I wish to focus today on the what-no-longer-is of scholarly content licensing, focusing on the big deal model of subscription journals bundled together on a single publisher basis for three to five year deals. In the eyes of major libraries in Europe and the US, the value of the big deal has declined. As a result, we are moving into a new period, in which publisher pricing power has declined and the equilibrium price for content and related services is being reset. What is the principal culprit? I will maintain today that we must look in large part to what publishers call “leakage.”"
+  },
+  {
+    "NAME":
+      "Finding the Right Training and Career Development Opportunities for Your Organization",
+    "MEDIA_TYPE": "article",
+    "SOURCE":
+      "https://scholarlykitchen.sspnet.org/2019/02/28/finding-the-right-training-and-career-development-opportunities-for-your-organization/",
+    "PUBLICATION_DATE": "2-28-2018",
+    "TAGS": "Professional Development; Organizational Development; Assessment;",
+    "MORE_INFO":
+      "With rising pressures for you and your teams to improve your skills for today’s publishing industry needs, these marketing materials should come as welcome notifications. However, with so many options for obtaining different certifications in Scholarly Publishing, how do you decide what is worthwhile for both your departmental and organizational strategic goals?"
+  },
+  {
+    "NAME": "Taking Stock of the Feedback on Plan S Implementation Guidance",
+    "MEDIA_TYPE": "article",
+    "SOURCE":
+      "https://scholarlykitchen.sspnet.org/2019/02/11/with-thousand-of-pages-of-feedback-on-the-plans-s-implementation-guidance-what-themes-emerged-that-might-guide-next-steps/",
+    "PUBLICATION_DATE": "2-11-2019",
+    "TAGS": "Publisher Relations; Open Access; Analytics; Technology; ",
+    "MORE_INFO":
+      "cOALition S members have a large task ahead of themselves to review and engage with the commentary they have received. On the feedback form, the cOAlition stated that “in the spirit of Open Access, all responses received as a part of the feedback on the Guidance on the Implementation of Plan S will be shared in the public domain.” I hope that we will also see some sort of summary report eventually in addition to the full text of the replies."
+  },
+  {
+    "NAME":
+      "From Principles to Implementation: cOAlition S Relesaes Implementation Guidance on Plan S",
+    "MEDIA_TYPE": "article",
+    "SOURCE":
+      "https://www.coalition-s.org/implementation-guidance-on-plan-s-now-open-for-public-feedback/",
+    "PUBLICATION_DATE": "11-27-2018",
+    "TAGS": "Publisher Relations; Open Access; Analytics; Technology; ",
+    "MORE_INFO":
+      "Guidance on how Plan S is to be implemented was presented by cOAlition S yesterday in London. The guidance serves to clarify the Plan S provisions and describes implementation modalities. It also provides responses to questions and comments arising from online discussions and debates on Plan S."
+  },
+  {
+    "NAME": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+    "MEDIA_TYPE": "article",
+    "SOURCE": "https://bitcoin.org/bitcoin.pdf",
+    "PUBLICATION_DATE": "1-1-2011",
+    "TAGS":
+      "Bitcoin; Cryptocurrency; Blockchain; Information Technology; Software Development",
+    "MORE_INFO":
+      "A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. We propose a solution to the double-spending problem using a peer-to-peer network. The network timestamps transactions by hashing them into an ongoing chain of hash-based proof-of-work, forming a record that cannot be changed without redoing the proof-of-work. The longest chain not only serves as proof of the sequence of events witnessed, but proof that it came from the largest pool of CPU power. As long as a majority of CPU power is controlled by nodes that are not cooperating to attack the network, they'll generate the longest chain and outpace attackers. The network itself requires minimal structure. Messages are broadcast on a best effort basis, and nodes can leave and rejoin the network at will, accepting the longest proof-of-work chain as proof of what happened while they were gone."
+  },
+  {
+    "NAME": "Predicting the Role of Library Bookshelves in 2025",
+    "MEDIA_TYPE": "article",
+    "SOURCE": "https://doi.org/10.1016/j.acalib.2017.06.019",
+    "PUBLICATION_DATE": "06-19-2017",
+    "TAGS": "Strategic Planning; Management; ",
+    "MORE_INFO":
+      "University libraries are questioning the added value of open shelves with books. As scientific publications are increasingly available in electronic format, which role do bookshelves have in the future library space? The Utrecht University Library case study invites librarians to fundamentally rethink how they could strengthen the function of open shelves in their library. Based on acquisition and user data, and on interviews with publishers and users, this article suggests that in 2025 bookshelves could play an important role in providing access to those publications which are preferred by users in paper format. However, bookshelves should no longer focus solely on paper publications, but on digital publications too, as most library collections increasingly become hybrid. Moreover, libraries should also think of ways to enhance the inspiring role of bookshelves. Then, the open shelves could have added value within the library space of the future, providing access to a hybrid collection and an inspiring place to study."
+  },
+  {
+    "NAME":
+      "Rationality and politics of algorithms. Will the promise of big data survive the dynamics of public decision making?",
+    "MEDIA_TYPE": "article",
+    "SOURCE": "https://doi.org/10.1016/j.giq.2018.10.011",
+    "PUBLICATION_DATE": "10-15-2018",
+    "TAGS": "Data Science; Algorithms ",
+    "MORE_INFO":
+      "Big data promises to transform public decision-making for the better by making it more responsive to actual needs and policy effects. However, much recent work on big data in public decision-making assumes a rational view of decision-making, which has been much criticized in the public administration debate. In this paper, we apply this view, and a more political one, to the context of big data and offer a qualitative study. We question the impact of big data on decision-making, realizing that big data – including its new methods and functions – must inevitably encounter existing political and managerial institutions. By studying two illustrative cases of big data use processes, we explore how these two worlds meet. Specifically, we look at the interaction between data analysts and decision makers. In this we distinguish between a rational view and a political view, and between an information logic and a decision logic. We find that big data provides ample opportunities for both analysts and decision makers to do a better job, but this doesn't necessarily imply better decision-making, because big data also provides opportunities for actors to pursue their own interests. Big data enables both data analysts and decision makers to act as autonomous agents rather than as links in a functional chain. Therefore, big data's impact cannot be interpreted only in terms of its functional promise; it must also be acknowledged as a phenomenon set to impact our policymaking institutions, including their legitimacy."
+  },
+  {
+    "NAME":
+      "A Library Publishing Hub at University of Michigan: Interview with Jason Colman",
+    "MEDIA_TYPE": "article",
+    "SOURCE":
+      "https://blog.scholasticahq.com/post/library-publishing-hub-university-of-michigan/",
+    "PUBLICATION_DATE": "6-4-2017",
+    "TAGS": "Open Access; Scholarly Publishing",
+    "MORE_INFO":
+      "What’s the role of university libraries in supporting the dissemination of scholarship? Once focused on being keepers of research, university libraries have begun to transition into the role of research producers as well. In recent years, many have initiated open access (OA) scholarly journal publishing programs that offer a variety of services aimed at either launching and running new journals or supporting existing titles."
+  },
+  {
+    "NAME":
+      "Graphic Novels: Collecting, Cataloging and Outreach in an Academic Library",
+    "MEDIA_TYPE": "article",
+    "SOURCE": "https://doi.org/10.1016/j.acalib.2017.01.011",
+    "PUBLICATION_DATE": "1-25-2017",
+    "TAGS": "Collection Management; Acquisitions; Cataloging",
+    "MORE_INFO":
+      "Most major US universities have graphic novels in their library collections. Titles like Maus (Spiegelman, 1986) and Persepolis (Satrapi, 2004) have become staples in the stacks for their academic relevance and accessible style of delivering information through visually striking art. While some libraries have comprehensive collections and budgets to support them, many do not and thus have a collection that lacks cohesion and scope. The Brandeis University collection fell into that latter category, and we aimed to correct that. But beyond titles that have achieved scholarly notoriety and critical acclaim, like Maus and Persepolis, how does an academic library with little to no comprehensive collection create one and how does it engage students with acquired titles? For us, this began as a personal project. We individually enjoy reading graphic novels and were heartened to see our library already had titles like Fun Home (Bechdel, 2007) and Waltz with Bashir (Folman & Polonsky, 2009) in our collection, but there was no discernable method to how titles were acquired. For example, why Waltz with Bashir, but not Fax from Sarajevo (Kubert, 1998) or The Photographer (Guibert, 2009), which covered similar topics? Further exploration into the process uncovered that our system for acquiring graphic novel titles was on an ad hoc basis. We typically acquired titles as the result of faculty requests for course materials, items we received on our approval plan, or included in past donations. As a cataloging librarian and a social sciences librarian, we were in a unique position to do what librarians do best: bring order to chaos, and put together an organized plan to acquire and publicize the resulting collection so students see it and, more importantly, use it. But where to start?"
+  },
+  {
+    "NAME":
+      "Who support open access publishing? Gender, discipline, seniority and other factors associated with academics’ OA practice",
+    "MEDIA_TYPE": "article",
+    "SOURCE": " https://doi.org/10.1007/s11192-017-2316-z",
+    "PUBLICATION_DATE": "3-6-2017",
+    "TAGS": "Open Access; Scholarly Publishing",
+    "MORE_INFO":
+      "This paper presents the findings from a survey study of UK academics and their publishing behaviour. The aim of this study is to investigate academics’ attitudes towards and practice of open access (OA) publishing. The results are based on a survey study of academics at 12 Russell Group universities, and reflect responses from over 1800 researchers. This study found that whilst most academics support the principle of making knowledge freely available to everyone, the use of OA publishing among UK academics was still limited despite relevant established OA policies. The results suggest that there were differences in the extent of OA practice between different universities, academic disciplines, age and seniorities. Academics’ use in OA publishing was also related to their awareness of OA policy and OA repositories, their attitudes towards the importance of OA publishing and their belief in OA citation advantage. The implications of these findings are relevant to the development of strategies for the implementation of OA policies."
+  },
+  {
+    "NAME": "Reframing the Conversation about OER",
+    "MEDIA_TYPE": "article",
+    "SOURCE":
+      "https://www.insidehighered.com/blogs/digital-tweed/reframing-conversation-about-oer",
+    "PUBLICATION_DATE": "2-20-2019",
+    "TAGS": "Open Educational Resources; Open Access; Scholarly Publishing",
+    "MORE_INFO":
+      "It's time to move the OER conversation beyond the cost of course materials to focus primarily on the quality of OER course resources."
+  },
+  {
+    "NAME":
+      "For the Public Good: Our values in a changing scholarly communication landscape",
+    "MEDIA_TYPE": "article",
+    "SOURCE":
+      "https://blogs.uw.edu/uwbsc/2019/03/12/for-the-public-good-our-values-in-a-changing-scholarly-communication-landscape/",
+    "PUBLICATION_DATE": "3-12-2018",
+    "TAGS":
+      "Publisher Relations; Open Access; Analytics; Technology; University of Washington",
+    "MORE_INFO":
+      "Like many of you, we have been following the negotiations between the University of California (UC) and the giant commercial scholarly publisher, Elsevier. UC’s announcement that they have broken off talks with Elsevierhas sparked a wave of interest and commentary reaching beyond the walls of the academy. In a blog post by our colleagues at Duke and Iowa State University, they called this a movement, “closer to a tipping point in the ongoing struggle to correct asymmetries in the scholarly information ecosystem.”"
+  },
+  {
+    "NAME": "Perceptions 2017: An International Survey of Library Automation",
+    "MEDIA_TYPE": "article",
+    "SOURCE": "https://librarytechnology.org/perceptions/2017/",
+    "PUBLICATION_DATE": "3-17-2018",
+    "TAGS": "Library Automation; Discovery; Vendor Relations; Market Research",
+    "MORE_INFO":
+      "This eleventh edition of the International Survey of Library Automation presents the latest data on how libraries perceive the effectiveness of the strategic technology systems upon which they depend for their daily operations and to fulfill the expectations of their patrons. This report presents and interprets survey responses gathered from November 2017 through February 2018. The survey focuses primarily on integrated library systems and library services platforms as the applications used to acquire, describe, manage, and provide access to their collections. It also assesses the quality of support given from the respective vendor and probes interest in migrating to new solutions and attitudes toward open source alternatives."
+  },
+  {
+    "NAME": "Library Systems Report 2018",
+    "MEDIA_TYPE": "article",
+    "SOURCE":
+      "https://americanlibrariesmagazine.org/2018/05/01/library-systems-report-2018/",
+    "PUBLICATION_DATE": "5-1-2018",
+    "TAGS": "Library Automation; Discovery; Vendor Relations; Market Research",
+    "MORE_INFO":
+      "New technologies enable an expanded vision of library services"
+  },
+  {
+    "NAME": "The Future of Libraries Report",
+    "MEDIA_TYPE": "article",
+    "SOURCE": "https://future-of-libraries.mit.edu/",
+    "PUBLICATION_DATE": "2-15-2017",
+    "TAGS": "Strategy; Management; ",
+    "MORE_INFO":
+      "The Ad Hoc Task Force on the Future of Libraries was charged with developing a vision of how the MIT Libraries ought to evolve to best advance the creation, dissemination, and preservation of knowledge, not only to support MIT’s mission but also to position the Institute as a leader in the reinvention of research libraries. The Task Force, composed of faculty, staff, and students from across the Institute, sought input from the broader MIT community through open forums, group discussions, and the Idea Bank."
+  },
+  {
+    "NAME": "University of California Terminates Subscriptions With Elsevier",
+    "MEDIA_TYPE": "article",
+    "SOURCE":
+      "https://www.universityofcalifornia.edu/press-room/uc-terminates-subscriptions-worlds-largest-scientific-publisher-push-open-access-publicly",
+    "PUBLICATION_DATE": "2-28-2019",
+    "TAGS":
+      "Scholarly Publishing; Open Access; Vendor Negotiations; University of California",
+    "MORE_INFO":
+      "UC terminates subscriptions with world’s largest scientific publisher in push for open access to publicly funded research"
+  },
+  {
+    "NAME": "The Future of Libraries Report",
+    "MEDIA_TYPE": "article",
+    "SOURCE":
+      "http://news.mit.edu/2019/open-access-task-force-releases-draft-recommendations-0318",
+    "PUBLICATION_DATE": "03-18-2018",
+    "TAGS": "Open Access; Scholarly Publishing; Publisher Relations",
+    "MORE_INFO":
+      "The Ad Hoc Task Force on Open Access to MIT’s Research is seeking community input on ways to support and increase the open sharing of MIT publications, data, software, and educational materials."
+  },
+  {
+    "NAME": "The Library is The Brand",
+    "MEDIA_TYPE": "article",
+    "SOURCE":
+      "https://scholarlykitchen.sspnet.org/2019/03/20/guest-post-the-library-is-the-brand/",
+    "PUBLICATION_DATE": "3-20-2018",
+    "TAGS": "Marketing; Branding; Publisher Relations; Discovery",
+    "MORE_INFO":
+      "Today’s academic library manages a complex set of online information resources, delivered by a combination of locally managed and externally provided services. It is vital to academic libraries that the digital library services we provide — whatever their source — carry clear university brand identity. This strengthens the library’s position in the university and enables it to secure the budget and political capital necessary to do its work. Both libraries and their vendors have much to gain from this approach to brand. Here is how Columbia University developed a more formal approach for Library branding and achieved success with some of our largest vendors."
+  },
+  {
+    "NAME": "Algorithmic Accountability: A Primer",
+    "MEDIA_TYPE": "article",
+    "SOURCE":
+      "https://datasociety.net/output/algorithmic-accountability-a-primer/",
+    "PUBLICATION_DATE": "4-18-18",
+    "TAGS": "Ethics; Artificial Intelligence;",
+    "MORE_INFO":
+      "There are few consumer or civil rights protections that limit the types of data used to build data profiles or that require the auditing of algorithmic decision-making."
+  },
+  {
+    "NAME": "OSI Brief: Deceptive Publishing",
+    "MEDIA_TYPE": "article",
+    "SOURCE": "http://osiglobal.org/2019/03/19/osi-brief-deceptive-publishing/",
+    "PUBLICATION_DATE": "3-19-2018",
+    "TAGS":
+      "Publishing; Publisher Relations; Open Access; Schoarly Communications",
+    "MORE_INFO":
+      "Deceptive publishing (more commonly known as “predatory publishing”) is an important and troubling issue in scholarly communication. However, its parameters and seriousness are a matter of controversy, and there is not yet any consensus as to how big an issue it is, how fast it is growing, the variety of its manifestations, and what (if anything) can be done to combat it. The broad outlines of deceptive publishing, as described in this brief, are clearer than its exact details."
+  },
+  {
+    "NAME": "SPARC (the Scholarly Publishing and Academic Resources Coalition)",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://sparcopen.org/",
+    "PUBLICATION_DATE": 2007,
+    "TAGS": "Scholarly Publishing; Open Access; Open Educational Resources",
+    "MORE_INFO":
+      "SPARC (the Scholarly Publishing and Academic Resources Coalition) works to enable the open sharing of research outputs and educational materials in order to democratize access to knowledge, accelerate discovery, and increase the return on our investment in research and education. As a catalyst for action, SPARC focuses on collaborating with other stakeholders—including authors, publishers, libraries, students, funders, policymakers and the public—to build on the opportunities created by the Internet, promoting changes to both infrastructure and culture needed to make open the default for research and education."
+  },
+  {
+    "NAME":
+      "The Open Education Consortium: The Global Network for Open Education",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://www.oeconsortium.org/",
+    "PUBLICATION_DATE": 2008,
+    "TAGS": "Open Educational Resources;",
+    "MORE_INFO":
+      "The Open Education Consortium (OEC) is a non-profit, global, members-based network of open education institutions and organizations. OEC represents its members and provides advocacy and leadership around advancement of open education globally. OEC works with its members to build capacity to find, reuse, create and share Open Educational Resources (OER), develop open policy, create sustainable open education models, and enable international collaboration and innovation. OEC annually coordinates and hosts Open Education Week, the Open Education Global Conference, and Open Education Awards for Excellence. Collectively these efforts aim to bring high quality, inclusive education to all learners around the world."
+  },
+  {
+    "NAME": "Innovations Initiative of Urban Libraries Council (ULC)",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://www.urbanlibraries.org/innovations",
+    "PUBLICATION_DATE": 2010,
+    "TAGS": "Innovation;",
+    "MORE_INFO":
+      "ULC's Innovations Initiative showcases out-of-the box thinking and new alignment of resources to further education for people of all ages, address race and social equity in our communities, build digital inclusion and digital literacy and enhance civic engagement for a strong democracy."
+  },
+  {
+    "NAME": "So You Want to Be A Librarian?",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://guides.lib.unc.edu/wanna-be-librarian",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Recruiting;",
+    "MORE_INFO":
+      "This fun, colorful guide is aimed at high school students and undergraduates. But everyone can use this guide to learn more about the library profession and why libraries are awesome."
+  },
+  {
+    "NAME": "Design Thinking for Libraries",
+    "MEDIA_TYPE": "website",
+    "SOURCE":
+      "https://drive.google.com/drive/folders/18FN76ofJLHvRMpwqZQ1nMuV-AeGPvsZK",
+    "PUBLICATION_DATE": "1-1-2016"
+  },
+  {
+    "NAME": "Harvard Library Lab",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://osc.hul.harvard.edu/liblab/projects/",
+    "PUBLICATION_DATE": 2010,
+    "TAGS": "Innovation;"
+  },
+  {
+    "NAME": "Library Technology Guides",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://librarytechnology.org/",
+    "PUBLICATION_DATE": 2009,
+    "TAGS":
+      "Library Automation; Information Technology; Integrated Library System; Discovery; Library Service Platforms; Vendor Relations; Market Research",
+    "MORE_INFO":
+      "Library Technology Guides provides comprehensive and objective information surrounding the many different types of technology products and services used by libraries. It covers the organizations that develop and support library-oriented software and systems. The site offers extensive databases and document repositories to assist libraries as they consider new systems and is an essential resource for professionals in the field to stay current with new developments and trends."
+  },
+  {
+    "NAME": "Library Carpentry",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://librarycarpentry.org/",
+    "PUBLICATION_DATE": 2015,
+    "TAGS":
+      "Information Technology; Software Development; Technical Services; Information Technology",
+    "MORE_INFO":
+      "Software and data skills for people working in library and information-related roles"
+  },
+  {
+    "NAME": "The Carpentries",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://carpentries.org/",
+    "PUBLICATION_DATE": 2015,
+    "TAGS":
+      "Information Technology; Software Development; Technical Services; Information Technology",
+    "MORE_INFO":
+      "We teach foundational coding and data science skills to researchers worldwide."
+  },
+  {
+    "NAME": "Library Workflow Exchange",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "http://www.libraryworkflowexchange.org/",
+    "PUBLICATION_DATE": 2015,
+    "TAGS":
+      "Workflows; Library Technology; E-Resource Management; Acquisitions; Archives; Cataloging; Collection Development; Digital Humanities; Open Access; Preservation",
+    "MORE_INFO":
+      "This site is designed to help librarians share workflows and best practices across institutions. If you are interested in contributing to the site, please let us know!"
+  },
+  {
+    "NAME": "University Librarians of Color",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://twitter.com/zanders/lists/ulc",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Diversity; Leadership; Academic Libraries",
+    "MORE_INFO":
+      "A Twitter List comprising collective commentary from academic research library leaders of color based in the United States"
+  },
+  {
+    "NAME": "The Library Collective",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "http://www.thelibrarycollective.org/",
+    "PUBLICATION_DATE": 2014,
+    "TAGS": "Professional Development; Academic Libraries; Conferences",
+    "MORE_INFO": "Redefining library professional development since 2014."
+  },
+  {
+    "NAME": "Electronic Resources and Libraries",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://www.electroniclibrarian.org/",
+    "PUBLICATION_DATE": 2010,
+    "TAGS": "e-Resource Management; Analytics; Conferences and Events",
+    "MORE_INFO":
+      "Exploring trends, technologies, e-resource management and digital services in libraries."
+  },
+  {
+    "NAME": "Material Design",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://material.io/",
+    "PUBLICATION_DATE": 2018,
+    "TAGS": "Design; Product Management; Web Development; Software Development",
+    "MORE_INFO":
+      "Make beautiful products, faster. Material is a design system – backed by open-source code – that helps teams build digital experiences"
+  },
+  {
+    "NAME": "Apple Developer - Design Resources",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://developer.apple.com/design/resources/",
+    "PUBLICATION_DATE": 2017,
+    "TAGS": "Design; Product Management; Web Development; Software Development",
+    "MORE_INFO":
+      "Design apps quickly and accurately by using Sketch, Photoshop, and XD templates, guides, and other resources."
+  },
+  {
+    "NAME": "Facebook Design",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://facebook.design/",
+    "PUBLICATION_DATE": 2018,
+    "TAGS": "Design; Product Management; Web Development; Software Development",
+    "MORE_INFO":
+      "Collection of articles, videos, and resources made by designers at Facebook."
+  },
+  {
+    "NAME": "Library Education & Training",
+    "MEDIA_TYPE": "website",
+    "SOURCE":
+      "https://libguides.ctstatelibrary.org/dld/professional/othertraining",
+    "PUBLICATION_DATE": 2015,
+    "TAGS": "Professional Development; Academic Libraries; Conferences",
+    "MORE_INFO":
+      "Professional Development and Continuing Education: Library Education & Training"
+  },
+  {
+    "NAME": "Library UX",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://blog.libux.co/",
+    "PUBLICATION_DATE": 2018,
+    "TAGS": "User Experience; Web Development; Design",
+    "MORE_INFO": "Practical Design Thinking for Libraries"
+  },
+  {
+    "NAME": "The Idealis",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://theidealis.org/",
+    "PUBLICATION_DATE": 2014,
+    "TAGS": "Scholarly Communications; E-Resources Management",
+    "MORE_INFO":
+      "The Idealis is a new kind of open access overlay journal, powered by PressForward and curated by librarian-experts working in the arena of scholarly communication. Each week, editors recruit the very best scholarly communication literature from across the Web, working with authors to make their research available, ensuring that librarians are connected to excellent research that’s relevant to their work."
+  },
+  {
+    "NAME": "The 'M' Word - Marketing Libraries",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "http://themwordblog.blogspot.com/",
+    "PUBLICATION_DATE": 2010,
+    "TAGS": "Marketing",
+    "MORE_INFO": "Marketing news, tips and trends for libraries"
+  },
+  {
+    "NAME": "Letters to a Young Librarian",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "http://letterstoayounglibrarian.blogspot.com/",
+    "PUBLICATION_DATE": 2011,
+    "TAGS": "Professional Development;",
+    "MORE_INFO":
+      "Advice to those who are new (or even not so new) to librarianship from someone who has been doing this work for a while now."
+  },
+  {
+    "NAME": "Google Suite Blog",
+    "MEDIA_TYPE": "website",
+    "SOURCE": "https://gsuite.google.com/whatsnew/product-updates/",
+    "PUBLICATION_DATE": 2012,
+    "TAGS": "GSuite; Professional Development; Information Technology",
+    "MORE_INFO":
+      "Get the latest news about G Suite from the G Suite Updates blog and “What’s new in G Suite?” Help Center article. Check back here regularly to see what's new, or subscribe to receive blog updates by email or RSS feed."
+  },
+  {
+    "NAME": "Project Brief",
+    "MEDIA_TYPE": "template",
+    "SOURCE": "https://coda.io/t/Project-Brief_tGtRWDfStAo",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Project Management; Design Thinking; Innovation",
+    "MORE_INFO":
+      "The Project Brief is designed to include an entire Product Story in a single doc - from brainstorming, to task tracking, to having a retrospective. This doc grows as the project does, with users adding their own sections, views, and content as they see fit. This is the template we use at Coda to begin our projects, with some added content to show an example of what it could look like filled in."
+  },
+  {
+    "NAME": "New Hire Checklist",
+    "MEDIA_TYPE": "template",
+    "SOURCE":
+      "https://tettra.co/templates/hr-recruiting/new-hire-checklist-template/",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Recruiting; Talent Management; Human Resources; Teambuilding",
+    "MORE_INFO":
+      "There’s a range of information new team members need, ranging from explicit knowledge (like the wifi password,) to implicit knowledge, (like cultural norms). A good hiring and onboarding process will teach new hires the full range of information. Here are some high-level categories to make sure you include:"
+  },
+  {
+    "NAME": "Decision Making",
+    "MEDIA_TYPE": "template",
+    "SOURCE": "https://tettra.co/templates/decision-making/daci/",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Strategy; Management; Project Management",
+    "MORE_INFO":
+      "DACI (pronounced day-see) is a framework that helps groups improve their decision making process velocity. It’s a system that was originally developed at Intuit and has gained momentum in fast-moving, cooperative companies that are systematically reinventing entire industries."
+  },
+  {
+    "NAME": "Candidate Interviews",
+    "MEDIA_TYPE": "template",
+    "SOURCE": "https://slite.com/templates/candidate-interviews",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Recruiting; Talent Management; Human Resources; Teambuilding",
+    "MORE_INFO":
+      "Use this channel template for your candidate interview process. Get started by centralizing all candidate interview notes in this one channel and sorting them by the status of the candidate interview process."
+  },
+  {
+    "NAME": "Competitors Watch",
+    "MEDIA_TYPE": "template",
+    "SOURCE": "https://slite.com/templates/competitors-watch",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Market Research; Management; Strategy",
+    "MORE_INFO":
+      "Check out this channel template to centralize all your research, analysis and benchmarking on your competition. Notes will be automatically shared with other people on your team."
+  },
+  {
+    "NAME": "User Feedback",
+    "MEDIA_TYPE": "template",
+    "SOURCE": "https://slite.com/templates/user-feedback",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "User Research; Marketing; Customer Service; Strategy;",
+    "MORE_INFO":
+      "Talking to users is one of the most essential parts of building the right product for your users. What are you nailing? What should be improved?"
+  },
+  {
+    "NAME": "Gamestorming: A Toolkit for Meetings",
+    "MEDIA_TYPE": "template",
+    "SOURCE":
+      "https://coda.io/t/Gamestorming-A-Toolkit-for-Meetings_tuMikflefAs",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Management; Design Thinking; Innovation; Project Management",
+    "MORE_INFO":
+      "Gamestorming collects and makes recipes of emerging methods and approaches to work that have been germinating since the 1970s and are deeply intertwined with the burgeoning Information Age. Meetings give us the opportunity for outcomes unique to any other form of work. Take time, add to it ideas and put smart people in a room to discuss them and you’ve created the conditions to produce wonderfully emergent, brilliantly innovative and contagiously creative ideas. Meetings inspire us when they work. Too often, they don’t."
+  },
+  {
+    "NAME": "Betterment's Launch Marketing",
+    "MEDIA_TYPE": "template",
+    "SOURCE":
+      "https://coda.io/t/Betterments-Launch-Marketing-Template_tskehujftcc",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Marketing; Digital Scholarship; Project Management; Strategy",
+    "MORE_INFO":
+      "This Product Marketing Template from maker Liz Derby organizes and calms the groundhog-day chaos of launching products. At its center is a feature called Tiers, based on the Pragmatic Marketing Framework, which categorizes launches by priority, and based on that, helps generate marketing playbooks. It also has a place for messaging and content strategy, a calendar view for execution, and a place for Product to flag at-risk features. So Product and Marketing stay on the same page throughout the launch, from kickoff to narrative learnings."
+  },
+  {
+    "NAME": "Repeating Checklists",
+    "MEDIA_TYPE": "template",
+    "SOURCE": "https://coda.io/t/Repeating-Checklists-Subtasks_tpsNLDnKZ6J",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Productivity; Management; Professional Development",
+    "MORE_INFO": "This doc allows you to track tasks and subtasks."
+  },
+  {
+    "NAME": "Marketer Starter Kit",
+    "MEDIA_TYPE": "template",
+    "SOURCE": "https://coda.io/t/Marketer-Starter-Kit_tGSdL9MzBH3",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Marketing; Strategy; Management",
+    "MORE_INFO":
+      "This marketer starter kit will help you acquire users and customers for your product or service. Your job involves moving deadlines, massive amounts of team communication and coordination, and asset creation involving multiple stakeholders (aka herding cats)."
+  },
+  {
+    "NAME": "Org Chart",
+    "MEDIA_TYPE": "template",
+    "SOURCE": "https://coda.io/t/Org-Chart_tr75P5nUbCf",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Management; Organizational Development; Recruitment",
+    "MORE_INFO":
+      "Every team and company has some structure in how people are organized. Use this handy org chart maker to keep track of your current structure and changes as your teams evolve. This template has three key features. The first feature is a handy section that enables you to quickly enter in new employees. The second feature is a look up of an individual employee so you can make changes as needed. The third feature is a set of different layouts to visualize the full organization. As always with Coda, you can extend and customize information that you want to track across an employee, team, or company!"
+  },
+  {
+    "NAME": "Customer Journey Map",
+    "MEDIA_TYPE": "template",
+    "SOURCE":
+      "https://www.milanote.com/templates/customer-journey-map-template",
+    "PUBLICATION_DATE": 2019,
+    "TAGS":
+      "User Research; Digital Scholarship; Web Development; Design Thinking",
+    "MORE_INFO":
+      "Creating a customer journey map can help you to design better products and services. By drilling down into the pain points and frustrations during a customer's experience, you can quickly identify what needs to change, and brainstorm possible solutions."
+  },
+  {
+    "NAME": "Project Workflow",
+    "MEDIA_TYPE": "template",
+    "SOURCE": "https://www.milanote.com/templates/project-workflow-template",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Project Managment; Design Thinking; Management",
+    "MORE_INFO":
+      "A project workflow board helps to keep everybody updated on the project. In busy studios, having full visibility over the status of a project makes it much easier for everybody to stay on track and avoid missed deadlines."
+  },
+  {
+    "NAME": "All Hands Meeting Q&A Tradker",
+    "MEDIA_TYPE": "template",
+    "SOURCE":
+      "https://coda.io/t/Dory-All-Hands-Meeting-Q-A-Tracker_tRlEOimN6EU",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Management; Organizational Development; ",
+    "MORE_INFO":
+      "Inspired by the ‘Dory’ all hands format started at Google. this template lets you solicit questions or topics for an all-hands meeting, with the opportunity for participants to vote up 👍 or down 👎 those topics."
+  },
+  {
+    "NAME": "Simple 1:1s",
+    "MEDIA_TYPE": "template",
+    "SOURCE": "https://coda.io/t/Simple-1-1s_tHXLaMXIfMR",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Management; Organizational Development",
+    "MORE_INFO":
+      "Sometimes it can be hard to keep notes on your professional development progress. This document makes it easier to track conversations with your manager, so you’re keeping them up-to-speed on your latest accomplishments and challenges. To-dos are organized by individual so each person can focus on only the areas they are working on."
+  },
+  {
+    "NAME": "Growth Experiments Tracker",
+    "MEDIA_TYPE": "template",
+    "SOURCE": "https://trello.com/b/fkAIgE4v/growth-experiments",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Design Thinking; Project Management"
+  },
+  {
+    "NAME": "Product Catalog",
+    "MEDIA_TYPE": "template",
+    "SOURCE":
+      "https://airtable.com/templates/featured/expZvMLT9L6c4yeBX/product-catalog",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Product Management; e-Resource Management",
+    "MORE_INFO":
+      "Use this template to keep your product catalog and order form tracker in the same place for easy access. Add product details, additional images, and other important product information and save time by keeping everything you need in one place."
+  },
+  {
+    "NAME": "Project Value",
+    "MEDIA_TYPE": "template",
+    "SOURCE": "https://airtable.com/universe/expqit150o9Jb0mcI/project-value",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Project Management; Management; Strategy",
+    "MORE_INFO": "Very simple and clear table to create a project value."
+  },
+  {
+    "NAME": "User Research",
+    "MEDIA_TYPE": "template",
+    "SOURCE":
+      "https://airtable.com/templates/featured/expwA47rLvwTu3SiF/user-research",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "User Research; Design Thinking",
+    "MORE_INFO":
+      "User research is the lifeblood of any product organization, and learning from your customers through a thoughtful UX research program is essential for product evolution. This user research template is a great way to to keep track of all your research in one place, from user outreach, to scheduling usability testing sessions and customer interviews, to synthesizing your findings into a research report, to integrating with the product development process and suggesting features to address user needs."
+  },
+  {
+    "NAME": "Tasks and Issues",
+    "MEDIA_TYPE": "template",
+    "SOURCE":
+      "https://www.notion.so/Tasks-Issues-bbb80617e6af40c6a1b4f9ea8ed9612d",
+    "PUBLICATION_DATE": 2019,
+    "TAGS": "Project Management; Productivity; Management",
+    "MORE_INFO":
+      "A no-frills task board where each team member can easily create new tasks, see which tasks they're assigned to, and monitor how things are progressing."
+  }
+]

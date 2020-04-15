@@ -1,0 +1,127 @@
+[
+  {
+    "affiliationType": "staff",
+    "headerBlocks": [
+      {
+        "type": "callout",
+        "style": "warning",
+        "description":
+          "You are requesting an affiliation with {{organizationName}} as a <strong>member</strong>. Below describes what Skilltype will do with your data"
+      }
+    ],
+    "columns": [
+      [
+        {
+          "title": "What you’re sharing",
+          "blocks": [
+            {
+              "type": "bullet",
+              "style": "positive",
+              "description": "Your personally identifiable information"
+            },
+            {
+              "type": "bullet",
+              "style": "positive",
+              "description": "Your personal demographics"
+            },
+            {
+              "type": "callout",
+              "style": "info",
+              "description":
+                "Once accepted, you will select which expertise and activity you want to share with this organization."
+            }
+          ]
+        },
+        {
+          "title": "What you’re <strong>not</strong> sharing",
+          "blocks": [
+            {
+              "type": "bullet",
+              "style": "negative",
+              "description": "Your private uploads"
+            },
+            {
+              "type": "bullet",
+              "style": "negative",
+              "description": "Your personal activity"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "What’s being shared with you",
+          "blocks": [
+            {
+              "type": "bullet",
+              "style": "positive",
+              "description": "The organization's profile data"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "affiliationType": "follower",
+    "headerBlocks": [
+      {
+        "type": "callout",
+        "style": "warning",
+        "description":
+          "You are requesting an affiliation with {{organizationName}} as a <strong>follower</strong>. Below describes what Skilltype will do with your data"
+      }
+    ],
+    "columns": [
+      [
+        {
+          "title": "What you’re sharing",
+          "blocks": [
+            {
+              "type": "bullet",
+              "style": "positive",
+              "description": "Your personally identifiable information"
+            },
+            {
+              "type": "bullet",
+              "style": "positive",
+              "description": "Your personal demographics"
+            }
+          ]
+        },
+        {
+          "title": "What you’re <strong>not</strong> sharing",
+          "blocks": [
+            {
+              "type": "bullet",
+              "style": "negative",
+              "description": "Your private uploads"
+            },
+            {
+              "type": "bullet",
+              "style": "negative",
+              "description": "Your personal activity"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "What’s <strong>not</strong> being shared with you",
+          "blocks": [
+            {
+              "type": "bullet",
+              "style": "negative",
+              "description": "Access to the organization's profile"
+            },
+            {
+              "type": "bullet",
+              "style": "negative",
+              "description": "The organization's profile data"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "memberships": {
+    "title": "Memberships",
+    "placeholder":
+      "Which consortia are you a member of? Memberships enables these organizations to receive data across its membership.",
+    "searchPlaceholder": "Search memberships",
+    "noResults": {
+      "message": "No memberships found.",
+      "suggest": {
+        "message": "Suggest a new membership",
+        "url": "https://www.skilltype.com/addtag"
+      }
+    },
+    "noTags": {
+      "message": "No organizations yet"
+    }
+  },
+  "strategicDirections": {
+    "title": "Strategic Directions",
+    "placeholder":
+      "What are your current strategic priorities? Skilltype uses these to align staff skills and activity to track progress.",
+    "searchPlaceholder": "Search strategic directions",
+    "noResults": {
+      "message": "No strategic directions found.",
+      "suggest": {
+        "message": "Suggest a new strategic direction",
+        "url": "https://www.skilltype.com/addtag"
+      }
+    },
+    "noTags": {
+      "message": "No strategic directions yet"
+    }
+  },
+  "productsAndServices": {
+    "title": "Products and Services",
+    "placeholder":
+      "What products and services does your organization purchase? Skilltype uses these to track instituitonal knowledge across your teams.",
+    "searchPlaceholder": "Search products and services",
+    "noResults": {
+      "message": "No products or services found.",
+      "suggest": {
+        "message": "Suggest a new product or service",
+        "url": "https://www.skilltype.com/addtag"
+      }
+    },
+    "noTags": {
+      "message": "No products and services yet"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+```js
+<PrimaryTextButton>Ok</PrimaryTextButton>
+```

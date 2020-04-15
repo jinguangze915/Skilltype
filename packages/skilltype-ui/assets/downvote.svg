@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Downvote</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home/Active/Desktop/Portrait" transform="translate(-746.000000, -216.000000)">
+            <g id="Middle-Area" transform="translate(238.000000, 76.000000)">
+                <g id="Webpage" transform="translate(1.000000, 132.000000)">
+                    <g id="Actions" transform="translate(433.000000, 6.000000)">
+                        <g id="Downvote" transform="translate(74.000000, 0.000000)">
+                            <path d="M0,0 L20,0 L20,20 L0,20 L0,0 Z M0,0 L20,0 L20,20 L0,20 L0,0 Z" id="Shape"></path>
+                            <path d="M12.5,2.5 L5,2.5 C4.30833333,2.5 3.71666667,2.91666667 3.46666667,3.51666667 L0.95,9.39166667 C0.875,9.58333333 0.833333333,9.78333333 0.833333333,10 L0.833333333,11.6666667 C0.833333333,12.5833333 1.58333333,13.3333333 2.5,13.3333333 L7.75833333,13.3333333 L6.96666667,17.1416667 L6.94166667,17.4083333 C6.94166667,17.75 7.08333333,18.0666667 7.30833333,18.2916667 L8.19166667,19.1666667 L13.6833333,13.675 C13.9833333,13.375 14.1666667,12.9583333 14.1666667,12.5 L14.1666667,4.16666667 C14.1666667,3.25 13.4166667,2.5 12.5,2.5 Z M12.5,12.5 L8.88333333,16.1166667 L10,11.6666667 L2.5,11.6666667 L2.5,10 L5,4.16666667 L12.5,4.16666667 L12.5,12.5 Z M15.8333333,2.5 L19.1666667,2.5 L19.1666667,12.5 L15.8333333,12.5 L15.8333333,2.5 Z" id="Shape" fill="#BDC3C7" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

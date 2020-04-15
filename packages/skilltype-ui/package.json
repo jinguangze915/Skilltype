@@ -1,0 +1,10 @@
+{
+  "name": "@skilltype/ui",
+  "version": "1.4.99",
+  "private": true,
+  "module": "index.js",
+  "peerDependencies": {
+    "@skilltype/services": "1.4.99",
+    "@skilltype/data": "1.4.99"
+  }
+}

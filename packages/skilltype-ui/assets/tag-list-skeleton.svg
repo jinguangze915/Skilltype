@@ -1,0 +1,16 @@
+<svg width="536px" height="73px" viewBox="0 0 536 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Skills-skeleton" fill="#FFFFFF">
+            <g id="Skills-Cluster-0">
+                <path d="M494,40 L533,40 C534.656854,40 536,41.3431458 536,43 L536,70 C536,71.6568542 534.656854,73 533,73 L494,73 C492.343146,73 491,71.6568542 491,70 L491,43 C491,41.3431458 492.343146,40 494,40 Z" id="Skill-8" fill-opacity="0.7"></path>
+                <rect id="Skill-7" fill-opacity="0.7" x="360" y="40" width="124" height="33" rx="3"></rect>
+                <rect id="Skill-6" fill-opacity="0.7" x="250" y="40" width="102" height="33" rx="3"></rect>
+                <rect id="Skill-5" fill-opacity="0.6" x="120" y="40" width="119" height="33" rx="3"></rect>
+                <rect id="Skill-4" fill-opacity="0.6" x="0" y="40" width="112" height="33" rx="3"></rect>
+                <rect id="Skill-3" fill-opacity="0.7" x="170" y="0" width="83" height="33" rx="3"></rect>
+                <path d="M73,0 L159,0 C160.656854,-3.04359188e-16 162,1.34314575 162,3 L162,30 C162,31.6568542 160.656854,33 159,33 L73,33 C71.3431458,33 70,31.6568542 70,30 L70,3 C70,1.34314575 71.3431458,2.08071603e-15 73,1.77635684e-15 Z" id="Skill-2" fill-opacity="0.7"></path>
+                <rect id="Skill-1" fill-opacity="0.7" x="0" y="0" width="62" height="33" rx="3"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

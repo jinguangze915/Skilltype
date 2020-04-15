@@ -1,0 +1,34 @@
+[
+  {
+    "label": "profile",
+    "heroImageSource":
+      "https://uploads-ssl.webflow.com/5d73005a34bd367a51de8161/5db3b85a56a8610a7da9fd51_profile.png",
+    "heading": "Profile",
+    "content": "Manage your data privately",
+    "path": "/profile"
+  },
+  {
+    "label": "organizations",
+    "heroImageSource":
+      "https://uploads-ssl.webflow.com/5d73005a34bd367a51de8161/5db3b7da2f480919c394ca55_organizations.png",
+    "heading": "Organizations",
+    "content": "Share your data securely",
+    "path": "/organizations"
+  },
+  {
+    "label": "feed",
+    "heroImageSource":
+      "https://uploads-ssl.webflow.com/5d73005a34bd367a51de8161/5db3b7a213810c16f5415e63_feed.png",
+    "heading": "Feed",
+    "content": "Develop your expertise",
+    "path": "/feed"
+  },
+  {
+    "label": "settings",
+    "heroImageSource":
+      "https://uploads-ssl.webflow.com/5d73005a34bd367a51de8161/5db3b753aad4b5ef9ae7c407_settings.png",
+    "heading": "Settings",
+    "content": "Configure your experience",
+    "path": "/settings"
+  }
+]

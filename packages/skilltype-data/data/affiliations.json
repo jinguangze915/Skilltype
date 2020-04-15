@@ -1,0 +1,3839 @@
+[
+  {
+    "name": "Agnes Scott College",
+    "display": "Agnes Scott College",
+    "shortName": "ASC",
+    "id": "agnes-scott-college",
+    "index": 1,
+    "latlng": "@33.7692226,-84.2967424,17z",
+    "location": "Decatur, Georgia"
+  },
+  {
+    "name": "Albion College",
+    "display": "Albion College",
+    "shortName": "AC",
+    "id": "albion-college",
+    "index": 2,
+    "latlng": "@42.244777,-84.745677,17z",
+    "location": "Albion, Michigan"
+  },
+  {
+    "name": "Allegheny College",
+    "display": "Allegheny College",
+    "shortName": "AC",
+    "id": "allegheny-college",
+    "index": 3,
+    "latlng": "@41.6492142,-80.1473366,17z",
+    "location": "Meadville, Pennsylvania"
+  },
+  {
+    "name": "Alma College",
+    "display": "Alma College",
+    "shortName": "AC",
+    "id": "alma-college",
+    "index": 4,
+    "latlng": "@43.3807565,-84.674993,17z",
+    "location": "Alma, Michigan"
+  },
+  {
+    "name": "American University",
+    "display": "American University",
+    "shortName": "AU",
+    "id": "american-university",
+    "index": 5,
+    "latlng": "@38.9374948,-77.0909916,17z",
+    "location": "Washington, District of Columbia"
+  },
+  {
+    "name": "Amherst College",
+    "display": "Amherst College",
+    "shortName": "AC",
+    "id": "amherst-college",
+    "index": 6,
+    "latlng": "@42.3709104,-72.5191915,17z",
+    "location": "Amherst, Massachusetts"
+  },
+  {
+    "name": "Ancilla College",
+    "display": "Ancilla College",
+    "shortName": "AC",
+    "id": "ancilla-college",
+    "index": 7,
+    "latlng": "@41.3383494,-86.448022,17z",
+    "location": "Donaldson, Indiana"
+  },
+  {
+    "name": "Anderson University",
+    "display": "Anderson University",
+    "shortName": "AU",
+    "id": "anderson-university",
+    "index": 8,
+    "latlng": "@34.5145743,-82.64157,17z",
+    "location": "Anderson, South Carolina"
+  },
+  {
+    "name": "Appalachian State University",
+    "display": "Appalachian State University",
+    "shortName": "APP",
+    "id": "appalachian-state-university",
+    "index": 9,
+    "latlng": "@36.2140249,-81.6940991,15z",
+    "location": "Boone, North Carolina"
+  },
+  {
+    "name": "Arizona State University",
+    "display": "Arizona State University",
+    "shortName": "ASU",
+    "id": "arizona-state-university",
+    "index": 10,
+    "latlng": "@34.1319266,-113.0998294,7z",
+    "location": "Tempe, Arizona"
+  },
+  {
+    "name": "Anabaptist Mennonite Biblical Seminary",
+    "display": "Associated Mennonite Biblical Seminary",
+    "shortName": "MENN",
+    "id": "associated-mennonite-biblical-seminary",
+    "index": 11,
+    "latlng": "@41.655814,-85.9743687,17z",
+    "location": "Concord Township, Indiana"
+  },
+  {
+    "name": "Auburn University ",
+    "display": "Auburn University ",
+    "shortName": "AU",
+    "id": "auburn-university",
+    "index": 12,
+    "latlng": "@32.5933574,-85.497355,17z",
+    "location": "Auburn, Alabama"
+  },
+  {
+    "name": "Augustana College",
+    "display": "Augustana College",
+    "shortName": "AC",
+    "id": "augustana-college",
+    "index": 13,
+    "latlng": "@41.5051093,-90.5528931,17z",
+    "location": "Rock Island, Illinois"
+  },
+  {
+    "name": "Austin College",
+    "display": "Austin College",
+    "shortName": "AC",
+    "id": "austin-college",
+    "index": 14,
+    "latlng": "@33.6463035,-96.5946333,5z",
+    "location": "Sherman, Texas"
+  },
+  {
+    "name": "Babson College ",
+    "display": "Babson College ",
+    "shortName": "BC",
+    "id": "babson-college",
+    "index": 15,
+    "latlng": "@42.296446,-71.267891,17z",
+    "location": "Wellesley, Massachusetts"
+  },
+  {
+    "name": "Bard College",
+    "display": "Bard College",
+    "shortName": "BC",
+    "id": "bard-college",
+    "index": 16,
+    "latlng": "@42.0203937,-73.9122377,17z",
+    "location": "Red Hook, New York"
+  },
+  {
+    "name": "Barnard College ",
+    "display": "Barnard College ",
+    "shortName": "BC",
+    "id": "barnard-college",
+    "index": 17,
+    "latlng": "@40.8091014,-73.9661465,17z",
+    "location": "New York, New York"
+  },
+  {
+    "name": "Baruch College ",
+    "display": "Baruch College ",
+    "shortName": "BC",
+    "id": "baruch-college",
+    "index": 18,
+    "latlng": "@40.7404913,-73.98534,17z",
+    "location": "New York, New York"
+  },
+  {
+    "name": "Bates College ",
+    "display": "Bates College ",
+    "shortName": "BC",
+    "id": "bates-college",
+    "index": 19,
+    "latlng": "@44.1057254,-70.2043698,17z",
+    "location": "Lewiston, Maine"
+  },
+  {
+    "name": "Beloit College",
+    "display": "Beloit College",
+    "shortName": "BC",
+    "id": "beloit-college",
+    "index": 20,
+    "latlng": "@42.5030333,-89.0330935,17z",
+    "location": "Beloit, Wisconsin"
+  },
+  {
+    "name": "Berea College",
+    "display": "Berea College",
+    "shortName": "BC",
+    "id": "berea-college",
+    "index": 21,
+    "latlng": "@37.5723409,-84.2929118,17z",
+    "location": "Berea, Kentucky"
+  },
+  {
+    "name": "Bethel College",
+    "display": "Bethel College",
+    "shortName": "BC",
+    "id": "bethel-college",
+    "index": 22,
+    "latlng": "@41.678301,-86.1983823,17z",
+    "location": "Penn Township, Indiana"
+  },
+  {
+    "name": "Bibliotheque de l' Universite Laval",
+    "display": "Bibliotheque de l' Universite Laval",
+    "shortName": "LAV",
+    "id": "bibliotheque-de-l-universite-laval",
+    "index": 23,
+    "latlng": "@46.7802737,-71.2759793,17z",
+    "location": "Montréal, Quebec"
+  },
+  {
+    "name": "Binghamton University ",
+    "display": "Binghamton University ",
+    "shortName": "BING",
+    "id": "binghamton-university",
+    "index": 24,
+    "latlng": "@42.0893593,-75.9718882,17z",
+    "location": "Binghamton, New York"
+  },
+  {
+    "name": "Boston College ",
+    "display": "Boston College ",
+    "shortName": "BC",
+    "id": "boston-college",
+    "index": 25,
+    "latlng": "@42.3355527,-71.1706778,17z",
+    "location": "Boston, Massachusetts"
+  },
+  {
+    "name": "Boston Public Library",
+    "display": "Boston Public Library",
+    "shortName": "BPL",
+    "id": "boston-public-library",
+    "index": 26,
+    "latlng": "@42.3493175,-71.0803708,17z",
+    "location": "Boston, Massachusetts"
+  },
+  {
+    "name": "Boston University ",
+    "display": "Boston University ",
+    "shortName": "BU",
+    "id": "boston-university",
+    "index": 27,
+    "latlng": "@42.3505036,-71.1075824,17z",
+    "location": "Boston, Massachusetts"
+  },
+  {
+    "name": "Bowdoin College ",
+    "display": "Bowdoin College ",
+    "shortName": "BC",
+    "id": "bowdoin-college",
+    "index": 28,
+    "latlng": "@43.9090549,-69.9659783,16z",
+    "location": "Brunswick, Maine"
+  },
+  {
+    "name": "Brandeis University ",
+    "display": "Brandeis University ",
+    "shortName": "BRAN",
+    "id": "brandeis-university",
+    "index": 29,
+    "latlng": "@42.3654835, -71.2608842,17z",
+    "location": "Waltham, Massachusetts"
+  },
+  {
+    "name": "Brigham Young University ",
+    "display": "Brigham Young University ",
+    "shortName": "BYU",
+    "id": "brigham-young-university",
+    "index": 30,
+    "latlng": "@40.2518476,-111.6514989,17z",
+    "location": "Provo, Utah"
+  },
+  {
+    "name": "Brooklyn Public Library",
+    "display": "Brooklyn Public Library",
+    "shortName": "BPL",
+    "id": "brooklyn-public-library",
+    "index": 31,
+    "latlng": "@40.6724848,-73.9703917,17z",
+    "location": "Brooklyn, New York"
+  },
+  {
+    "name": "Broward County Libraries Division",
+    "display": "Broward County Libraries Division",
+    "shortName": "BRO",
+    "id": "broward-county-libraries-division",
+    "index": 32,
+    "latlng": "@26.140146,-80.531686,10z",
+    "location": "Miami, Florida"
+  },
+  {
+    "name": "Brown University ",
+    "display": "Brown University ",
+    "shortName": "BU",
+    "id": "brown-university",
+    "index": 33,
+    "latlng": "@41.8267758,-71.4047315,17z",
+    "location": "Providence, Rhode Island"
+  },
+  {
+    "name": "Bryn Mawr College ",
+    "display": "Bryn Mawr College ",
+    "shortName": "BRYN",
+    "id": "bryn-mawr-college",
+    "index": 34,
+    "latlng": "@40.0281106,-75.3174174,17z",
+    "location": "Bryn Mawr, Pennsylvania"
+  },
+  {
+    "name": "Bucknell University ",
+    "display": "Bucknell University ",
+    "shortName": "BUCK",
+    "id": "bucknell-university",
+    "index": 35,
+    "latlng": "@40.9547761,-76.8872593,17z",
+    "location": "Lewisburg, Pennsylvania"
+  },
+  {
+    "name": "Butler University",
+    "display": "Butler University",
+    "shortName": "BUT",
+    "id": "butler-university",
+    "index": 36,
+    "latlng": "@39.8411276,-86.1733741,17z",
+    "location": "Indianapolis, Indiana"
+  },
+  {
+    "name": "California Institute of Technology ",
+    "display": "California Institute of Technology ",
+    "shortName": "CALT",
+    "id": "california-institute-of-technology",
+    "index": 37,
+    "latlng": "@34.137662,-118.1274523,17z",
+    "location": "Pasadena, California"
+  },
+  {
+    "name": "California Polytechnic University ",
+    "display": "California Polytechnic University ",
+    "shortName": "POLY",
+    "id": "california-polytechnic-university",
+    "index": 38,
+    "latlng": "@35.3050097,-120.6646775,17z",
+    "location": "San Luis Obispo, California"
+  },
+  {
+    "name": "California State Los Angeles",
+    "display": "California State Los Angeles",
+    "shortName": "CSL",
+    "id": "california-state-los-angeles",
+    "index": 39,
+    "latlng": "@34.0667742,-118.1706225,17z",
+    "location": "Los Angeles, California"
+  },
+  {
+    "name": "California State University Fullerton ",
+    "display": "California State University Fullerton ",
+    "shortName": "CSU",
+    "id": "california-state-university-fullerton",
+    "index": 40,
+    "latlng": "@33.882927,-117.8891094,17z",
+    "location": "Fullerton, California"
+  },
+  {
+    "name": "California State University Long Beach",
+    "display": "California State University Long Beach",
+    "shortName": "CSU",
+    "id": "california-state-university-long-beach",
+    "index": 41,
+    "latlng": "@33.7838279,-118.1162737,17z",
+    "location": "Long Beach, California"
+  },
+  {
+    "name": "Carleton College ",
+    "display": "Carleton College ",
+    "shortName": "CC",
+    "id": "carleton-college",
+    "index": 42,
+    "latlng": "@44.4613692,-93.1580097,17z",
+    "location": "Northfield, Minnesota "
+  },
+  {
+    "name": "Carnegie Mellon University ",
+    "display": "Carnegie Mellon University ",
+    "shortName": "CMU",
+    "id": "carnegie-mellon-university",
+    "index": 43,
+    "latlng": "@40.4428122,-79.9451961,17z",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "name":
+      "Carnegie Mellon University, Heinz College: School of Information Systems and Management School of Public Policy and Management",
+    "display": "Carnegie Mellon iSchool",
+    "shortName": "CMS",
+    "id": "carnegie-mellon-ischool",
+    "index": 44,
+    "latlng": "@40.4443535,-79.9477287,17z",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "name": "Case Western Reserve University ",
+    "display": "Case Western Reserve University ",
+    "shortName": "CWR",
+    "id": "case-western-reserve-university",
+    "index": 45,
+    "latlng": "@41.5043453,-81.6105671,17z",
+    "location": "Cleveland, Ohio"
+  },
+  {
+    "name": "Catawba College",
+    "display": "Catawba College",
+    "shortName": "CC",
+    "id": "catawba-college",
+    "index": 46,
+    "latlng": "@35.6913744,-80.4846312,17z",
+    "location": "Salisbury, North Carolina"
+  },
+  {
+    "name":
+      "Catholic University of America: Department of Library and Information Science",
+    "display": "Catholic University iSchool",
+    "shortName": "CUS",
+    "id": "catholic-university-ischool",
+    "index": 47,
+    "latlng": "@38.936097,-76.9989912,17z",
+    "location": "Washington, District of Columbia"
+  },
+  {
+    "name": "Chicago Public Library",
+    "display": "Chicago Public Library",
+    "shortName": "CPL",
+    "id": "chicago-public-library",
+    "index": 48,
+    "latlng": "@41.4687614,-81.7692934,11z",
+    "location": "Chicago, Illinois"
+  },
+  {
+    "name": "Christian Theological Seminary",
+    "display": "Christian Theological Seminary",
+    "shortName": "CTS",
+    "id": "christian-theological-seminary",
+    "index": 49,
+    "latlng": "@39.8331979,-86.180525,17z",
+    "location": "Indianapolis, Indiana"
+  },
+  {
+    "name": "Claremont McKenna College ",
+    "display": "Claremont McKenna College ",
+    "shortName": "CMK",
+    "id": "claremont-mckenna-college",
+    "index": 50,
+    "latlng": "@34.1017811,-117.7101052,17z",
+    "location": "Claremont, California"
+  },
+  {
+    "name": "Clarion University of Pennsylvania: Department of Library Science",
+    "display": "Clarion iSchool",
+    "shortName": "CS",
+    "id": "clarion-ischool",
+    "index": 51,
+    "latlng": "@41.2105794,-79.3823547,17z",
+    "location": "Clarion, Pennsylvania"
+  },
+  {
+    "name": "Clark Atlanta University ",
+    "display": "Clark Atlanta University ",
+    "shortName": "CAU",
+    "id": "clark-atlanta-university",
+    "index": 52,
+    "latlng": "@33.7515702,-84.4134148,17z",
+    "location": "Atlanta, Georgia"
+  },
+  {
+    "name": "Clark University ",
+    "display": "Clark University ",
+    "shortName": "CU",
+    "id": "clark-university",
+    "index": 53,
+    "latlng": "@42.2520354,-71.8255871,17z",
+    "location": "Worcester, Massachusetts"
+  },
+  {
+    "name": "Clemson University ",
+    "display": "Clemson University ",
+    "shortName": "CU",
+    "id": "clemson-university",
+    "index": 54,
+    "latlng": "@34.6761149,-82.8388207,17z",
+    "location": "Clemson, South Carolina"
+  },
+  {
+    "name": "Coe College",
+    "display": "Coe College",
+    "shortName": "CC",
+    "id": "coe-college",
+    "index": 55,
+    "latlng": "@41.9884323,-91.661312,17z",
+    "location": "Cedar Rapids, Iowa"
+  },
+  {
+    "name": "Colby College ",
+    "display": "Colby College ",
+    "shortName": "CC",
+    "id": "colby-college",
+    "index": 56,
+    "latlng": "@44.5638729,-69.6648195,17z",
+    "location": "Waterville, Maine"
+  },
+  {
+    "name": "Colgate University ",
+    "display": "Colgate University ",
+    "shortName": "CU",
+    "id": "colgate-university",
+    "index": 57,
+    "latlng": "@42.8164646,-75.5416213,17z",
+    "location": "Hamilton, New York"
+  },
+  {
+    "name": "College of the Holy Cross ",
+    "display": "College of the Holy Cross ",
+    "shortName": "HC",
+    "id": "college-of-the-holy-cross",
+    "index": 58,
+    "latlng": "@42.2392431,-71.8101441,17z",
+    "location": "Worcester, Massachusetts"
+  },
+  {
+    "name": "College of Wooster",
+    "display": "College of Wooster",
+    "shortName": "CW",
+    "id": "college-of-wooster",
+    "index": 59,
+    "latlng": "@40.811659,-81.9317253,17z",
+    "location": "Wooster, Ohio"
+  },
+  {
+    "name": "Colorado College",
+    "display": "Colorado College",
+    "shortName": "CC",
+    "id": "colorado-college",
+    "index": 60,
+    "latlng": "@38.8465982,-104.8265773,17z",
+    "location": "Colorado Springs, Colorado"
+  },
+  {
+    "name": "Colorado State University ",
+    "display": "Colorado State University ",
+    "shortName": "CSU",
+    "id": "colorado-state-university",
+    "index": 61,
+    "latlng": "@40.5734401,-105.0887306,17z",
+    "location": "Fort Collins, Colorado"
+  },
+  {
+    "name": "Columbia University ",
+    "display": "Columbia University ",
+    "shortName": "CU",
+    "id": "columbia-university",
+    "index": 62,
+    "latlng": "@40.8075395,-73.964756,17z",
+    "location": "New York, New York"
+  },
+  {
+    "name": "Concordia Theological Seminary",
+    "display": "Concordia Theological Seminary",
+    "shortName": "CTS",
+    "id": "concordia-theological-seminary",
+    "index": 63,
+    "latlng": "@41.1390414,-85.1117977,17z",
+    "location": "Fort Wayne, Indiana"
+  },
+  {
+    "name": "Connecticut College",
+    "display": "Connecticut College",
+    "shortName": "CC",
+    "id": "connecticut-college",
+    "index": 64,
+    "latlng": "@41.3788445,-72.1062083,17z",
+    "location": "New London, Connecticut"
+  },
+  {
+    "name": "Cooper Union College ",
+    "display": "Cooper Union College ",
+    "shortName": "CUC",
+    "id": "cooper-union-college",
+    "index": 65,
+    "latlng": "@40.7280862,-73.9937919,17z",
+    "location": "New York, New York"
+  },
+  {
+    "name": "Cornell University ",
+    "display": "Cornell University ",
+    "shortName": "CU",
+    "id": "cornell-university",
+    "index": 66,
+    "latlng": "@42.4534531,-76.475686,17z",
+    "location": "Ithaca, New York"
+  },
+  {
+    "name": "Cornell University: Faculty of Computing and Information Science",
+    "display": "Cornell iSchool",
+    "shortName": "CS",
+    "id": "cornell-ischool",
+    "index": 67,
+    "latlng": "@42.4492286,-76.4860303,15z",
+    "location": "Ithaca, New York"
+  },
+  {
+    "name": "County of Los Angeles Public Library",
+    "display": "Los Angeles Public Library",
+    "shortName": "LAP",
+    "id": "los-angeles-public-library",
+    "index": 68,
+    "latlng": "@34.0502608,-118.5485456,10z",
+    "location": "Los Angeles, California"
+  },
+  {
+    "name": "Dalhousie University: School of Information Management",
+    "display": "Dalhousie iSchool",
+    "shortName": "DS",
+    "id": "dalhousie-ischool",
+    "index": 69,
+    "latlng": "@44.6373984,-63.5896136,17.",
+    "location": "Halifax, Nova Scotia"
+  },
+  {
+    "name": "Dallas Public Library",
+    "display": "Dallas Public Library",
+    "shortName": "DPL",
+    "id": "dallas-public-library",
+    "index": 70,
+    "latlng": "@32.778339,-96.7992306,17z",
+    "location": "Dallas, Texas"
+  },
+  {
+    "name": "Dartmouth College ",
+    "display": "Dartmouth College ",
+    "shortName": "DC",
+    "id": "dartmouth-college",
+    "index": 71,
+    "latlng": "@43.7044445,-72.2908768,17z",
+    "location": "Hanover, New Hampshire"
+  },
+  {
+    "name": "Davidson College ",
+    "display": "Davidson College ",
+    "shortName": "DC",
+    "id": "davidson-college",
+    "index": 72,
+    "latlng": "@35.5008061,-80.8468558,17z",
+    "location": "Davidson, North Carolina"
+  },
+  {
+    "name": "Denison University ",
+    "display": "Denison University ",
+    "shortName": "DU",
+    "id": "denison-university",
+    "index": 73,
+    "latlng": "@40.0734049,-82.5250881,17z",
+    "location": "Granville, Ohio"
+  },
+  {
+    "name": "DePaul University ",
+    "display": "DePaul University ",
+    "shortName": "DPU",
+    "id": "depaul-university",
+    "index": 74,
+    "latlng": "@41.9247599,-87.6588298,17z",
+    "location": "Chicago, Illinois"
+  },
+  {
+    "name": "DePauw University",
+    "display": "DePauw University",
+    "shortName": "DPU",
+    "id": "depauw-university",
+    "index": 75,
+    "latlng": "@39.6393984,-86.8650779,17z",
+    "location": "Greencastle, Indiana"
+  },
+  {
+    "name": "Dickinson College ",
+    "display": "Dickinson College ",
+    "shortName": "DC",
+    "id": "dickinson-college",
+    "index": 76,
+    "latlng": "@40.2027255,-77.1994153,17z",
+    "location": "Carlisle, Pennsylvania"
+  },
+  {
+    "name": "Dillard University ",
+    "display": "Dillard University ",
+    "shortName": "DU",
+    "id": "dillard-university",
+    "index": 77,
+    "latlng": "@29.999374,-90.0837287,14z",
+    "location": "New Orleans, Louisiana"
+  },
+  {
+    "name": "Dominican University: School of Information Studies (USA)",
+    "display": "Dominican iSchool",
+    "shortName": "DS",
+    "id": "dominican-ischool",
+    "index": 78,
+    "latlng": "@41.9024165,-87.8242421,17z",
+    "location": "Chicago, Illinois"
+  },
+  {
+    "name": "Drew University",
+    "display": "Drew University",
+    "shortName": "DU",
+    "id": "drew-university",
+    "index": 79,
+    "latlng": "@40.7605813,-74.4289525,17z",
+    "location": "Madison, New Jersey"
+  },
+  {
+    "name": "Drexel University: College Computing & Informatics",
+    "display": "Drexel iSchool",
+    "shortName": "DS",
+    "id": "drexel-ischool",
+    "index": 80,
+    "latlng": "@39.9566835,-75.1974023,17z",
+    "location": "Philadelphia, Pennsylvania"
+  },
+  {
+    "name": "Duke University ",
+    "display": "Duke University ",
+    "shortName": "DU",
+    "id": "duke-university",
+    "index": 81,
+    "latlng": "@36.0014258,-78.9404173,17z",
+    "location": "Durham, North Carolina"
+  },
+  {
+    "name": "Earlham College",
+    "display": "Earlham College",
+    "shortName": "EC",
+    "id": "earlham-college",
+    "index": 82,
+    "latlng": "@39.8239451,-84.9154243,17z",
+    "location": "Richmond, Indiana"
+  },
+  {
+    "name": "East Baton Rouge Parish Library",
+    "display": "East Baton Rouge Parish Library",
+    "shortName": "EBR",
+    "id": "east-baton-rouge-parish-library",
+    "index": 83,
+    "latlng": "@30.4467247,-91.1901032,17z",
+    "location": "Baton Rouge, Louisiana"
+  },
+  {
+    "name": "East Carolina University: College of Education",
+    "display": "East Carolina iSchool",
+    "shortName": "ECS",
+    "id": "east-carolina-ischool",
+    "index": 84,
+    "latlng": "@35.6055151,-77.3667486,17z",
+    "location": "Greenville, North Carolina"
+  },
+  {
+    "name": "Eckerd College",
+    "display": "Eckerd College",
+    "shortName": "EC",
+    "id": "eckerd-college",
+    "index": 85,
+    "latlng": "@27.8461707,-82.8964796,11z",
+    "location": "St. Petersburg, Florida"
+  },
+  {
+    "name": "Emory University ",
+    "display": "Emory University ",
+    "shortName": "EU",
+    "id": "emory-university",
+    "index": 86,
+    "latlng": "@33.7894947,-84.3289549,17z",
+    "location": "Atlanta, Georgia"
+  },
+  {
+    "name":
+      "Emporia State University: School of Library and Information Management",
+    "display": "Emporia State iSchool",
+    "shortName": "ESU",
+    "id": "emporia-state-ischool",
+    "index": 87,
+    "latlng": "@38.4204344,-96.1855747,16.32z",
+    "location": "Emporia, Kansas"
+  },
+  {
+    "name": "Florida State University ",
+    "display": "Florida State University ",
+    "shortName": "FSU",
+    "id": "florida-state-university",
+    "index": 88,
+    "latlng": "@30.4418824,-84.3006722,17z",
+    "location": "Tallahassee, Florida"
+  },
+  {
+    "name":
+      "Florida State University: College of Communication and Information",
+    "display": "Florida State iSchool",
+    "shortName": "FSU",
+    "id": "florida-state-ischool",
+    "index": 89,
+    "latlng": "@30.4404077,-84.2982776,17.01z",
+    "location": "Tallahassee, Florida"
+  },
+  {
+    "name": "Franklin & Marshall College ",
+    "display": "Franklin & Marshall College ",
+    "shortName": "FMC",
+    "id": "franklin-marshall-college",
+    "index": 90,
+    "latlng": "@40.0482495,-76.3222934,17z",
+    "location": "Lancaster, Pennsylvania"
+  },
+  {
+    "name": "Franklin College",
+    "display": "Franklin College",
+    "shortName": "FC",
+    "id": "franklin-college",
+    "index": 91,
+    "latlng": "@39.4786501,-86.0476623,17z",
+    "location": "Franklin, Indiana"
+  },
+  {
+    "name": "Free Library of Philadelphia",
+    "display": "Free Library of Philadelphia",
+    "shortName": "FLP",
+    "id": "free-library-of-philadelphia",
+    "index": 92,
+    "latlng": "@39.9639044,-75.1933703,17z",
+    "location": "Philadelphia, Pennsylvania"
+  },
+  {
+    "name": "Fresno State University ",
+    "display": "Fresno State University ",
+    "shortName": "FSU",
+    "id": "fresno-state-university",
+    "index": 93,
+    "latlng": "@36.8108327,-119.7484059,17z",
+    "location": "Fresno, California"
+  },
+  {
+    "name": "Furman University ",
+    "display": "Furman University ",
+    "shortName": "FU",
+    "id": "furman-university",
+    "index": 94,
+    "latlng": "@34.9260201,-82.4422557,17z",
+    "location": "Greenville, South Carolina"
+  },
+  {
+    "name": "George Mason University ",
+    "display": "George Mason University ",
+    "shortName": "GMU",
+    "id": "george-mason-university",
+    "index": 95,
+    "latlng": "@38.8314978,-77.3136722,17z",
+    "location": "Fairfax, Virginia"
+  },
+  {
+    "name": "George Washington University ",
+    "display": "George Washington University ",
+    "shortName": "GWU",
+    "id": "george-washington-university",
+    "index": 96,
+    "latlng": "@38.8997504,-77.1492056,12z",
+    "location": "Washington, District of Columbia"
+  },
+  {
+    "name": "Georgetown University ",
+    "display": "Georgetown University ",
+    "shortName": "GU",
+    "id": "georgetown-university",
+    "index": 97,
+    "latlng": "@38.9076131,-77.0744418,17z",
+    "location": "Washington, District of Columbia"
+  },
+  {
+    "name": "Georgia Institute of Technology",
+    "display": "Georgia Institute of Technology",
+    "shortName": "GIT",
+    "id": "georgia-institute-of-technology",
+    "index": 98,
+    "latlng": "@33.7764601,-84.416403,14z",
+    "location": "Atlanta, Georgia"
+  },
+  {
+    "name": "Georgia State University ",
+    "display": "Georgia State University ",
+    "shortName": "GSU",
+    "id": "georgia-state-university",
+    "index": 99,
+    "latlng": "@33.7530724,-84.3874652,17z",
+    "location": "Atlanta, Georgia"
+  },
+  {
+    "name": "Georgia Tech: College of Computing",
+    "display": "Georgia Tech College of Computing",
+    "shortName": "GTC",
+    "id": "georgia-tech-college-of-computing",
+    "index": 100,
+    "latlng": "@33.7774393,-84.3995041,17z",
+    "location": "Atlanta, Georgia"
+  },
+  {
+    "name": "Gettysburg College ",
+    "display": "Gettysburg College ",
+    "shortName": "GC",
+    "id": "gettysburg-college",
+    "index": 101,
+    "latlng": "@39.8356985,-77.2378172,17z",
+    "location": "Gettysburg, Pennsylvania"
+  },
+  {
+    "name": "Gonzaga University ",
+    "display": "Gonzaga University ",
+    "shortName": "GU",
+    "id": "gonzaga-university",
+    "index": 102,
+    "latlng": "@47.6664509,-117.4037041,17z",
+    "location": "Spokane, Washington"
+  },
+  {
+    "name": "Goshen College",
+    "display": "Goshen College",
+    "shortName": "GC",
+    "id": "goshen-college",
+    "index": 103,
+    "latlng": "@41.564371,-85.8305003,17z",
+    "location": "Goshen, Indiana"
+  },
+  {
+    "name": "Grace College and Theological Seminary",
+    "display": "Grace College and Theological Seminary",
+    "shortName": "GCT",
+    "id": "grace-college-and-theological-seminary",
+    "index": 104,
+    "latlng": "@41.2259181,-85.8180552,17z",
+    "location": "Winona Lake, Indiana"
+  },
+  {
+    "name": "Grinnell College ",
+    "display": "Grinnell College ",
+    "shortName": "GC",
+    "id": "grinnell-college",
+    "index": 105,
+    "latlng": "@41.7490611,-92.7223135,17z",
+    "location": "Grinnell, Iowa"
+  },
+  {
+    "name": "Gustavus Adolphus College ",
+    "display": "Gustavus Adolphus College ",
+    "shortName": "GAC",
+    "id": "gustavus-adolphus-college",
+    "index": 106,
+    "latlng": "@44.3221657,-93.9709604,17z",
+    "location": "St. Peter, Minnesota"
+  },
+  {
+    "name": "Hamilton College ",
+    "display": "Hamilton College ",
+    "shortName": "HC",
+    "id": "hamilton-college",
+    "index": 107,
+    "latlng": "@43.05243,-75.4079782,17z",
+    "location": "Clinton, New York"
+  },
+  {
+    "name": "Hampshire College ",
+    "display": "Hampshire College ",
+    "shortName": "HC",
+    "id": "hampshire-college",
+    "index": 108,
+    "latlng": "@42.3258452,-72.5336156,17z",
+    "location": "Amherst, Massachusetts"
+  },
+  {
+    "name": "Hanover College",
+    "display": "Hanover College",
+    "shortName": "HC",
+    "id": "hanover-college",
+    "index": 109,
+    "latlng": "@38.7192544,-85.4645514,17z",
+    "location": "Hanover, Indiana"
+  },
+  {
+    "name": "Harris County Public Library",
+    "display": "Harris County Public Library",
+    "shortName": "HCP",
+    "id": "harris-county-public-library",
+    "index": 110,
+    "latlng": "@29.6891061,-95.3375071,17z",
+    "location": "Houston, Texas"
+  },
+  {
+    "name": "Harvard University ",
+    "display": "Harvard University ",
+    "shortName": "HU",
+    "id": "harvard-university",
+    "index": 111,
+    "latlng": "@42.3770068,-71.1188434,17z",
+    "location": "Cambridge, Massachusetts"
+  },
+  {
+    "name": "Harvey Mudd College ",
+    "display": "Harvey Mudd College ",
+    "shortName": "HMC",
+    "id": "harvey-mudd-college",
+    "index": 112,
+    "latlng": "@34.1060861,-117.7126532,17z",
+    "location": "Claremont, California"
+  },
+  {
+    "name": "Haverford College",
+    "display": "Haverford College",
+    "shortName": "HC",
+    "id": "haverford-college",
+    "index": 113,
+    "latlng": "@40.0093519,-75.3078393,17z",
+    "location": "Haverford, Pennsylvania"
+  },
+  {
+    "name": "Hawaii State Public Library System",
+    "display": "Hawaii State Public Library System",
+    "shortName": "HSP",
+    "id": "hawaii-state-public-library-system",
+    "index": 114,
+    "latlng": "@21.3096034,-157.865298,17z",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "name": "Hennepin County Library",
+    "display": "Hennepin County Library",
+    "shortName": "HCL",
+    "id": "hennepin-county-library",
+    "index": 115,
+    "latlng": "@44.976296,-93.6316941,10z",
+    "location": "Minneapolis, Minnesota"
+  },
+  {
+    "name": "Hope College",
+    "display": "Hope College",
+    "shortName": "HC",
+    "id": "hope-college",
+    "index": 116,
+    "latlng": "@42.7871836,-86.1045407,17z",
+    "location": "Holland, Michigan"
+  },
+  {
+    "name": "Houston Public Library",
+    "display": "Houston Public Library",
+    "shortName": "HPL",
+    "id": "houston-public-library",
+    "index": 117,
+    "latlng": "@29.7355403,-95.3934923,17z",
+    "location": "Houston, Texas"
+  },
+  {
+    "name": "Howard University ",
+    "display": "Howard University ",
+    "shortName": "HU",
+    "id": "howard-university",
+    "index": 118,
+    "latlng": "@38.9231274,-77.0278314,15z",
+    "location": "Washington, DC"
+  },
+  {
+    "name": "Huntington University",
+    "display": "Huntington University",
+    "shortName": "HU",
+    "id": "huntington-university",
+    "index": 119,
+    "latlng": "@40.8983685,-85.5008772,17z",
+    "location": "Huntington, Illinois"
+  },
+  {
+    "name":
+      "Indiana University - Purdue University Indianapolis: School of Informatics and Computing (USA)",
+    "display": "IUPUI iSchool",
+    "shortName": "IUP",
+    "id": "iupui-ischool",
+    "index": 120,
+    "latlng": "@39.7722933,-86.1699727,17.22z",
+    "location": "Indianapolis, Indiana"
+  },
+  {
+    "name": "Indiana University Bloomington",
+    "display": "Indiana University Bloomington",
+    "shortName": "IUB",
+    "id": "indiana-university-bloomington",
+    "index": 121,
+    "latlng": "@39.1754528,-86.5148103,17z",
+    "location": "Bloomington, Indiana"
+  },
+  {
+    "name":
+      "Indiana University: School of Informatics, Computing, and Engineering",
+    "display": "Indiana University iSchool",
+    "shortName": "IUS",
+    "id": "indiana-university-ischool",
+    "index": 122,
+    "latlng": "@39.1729751,-86.5251573,17z",
+    "location": "Bloomington, Indiana"
+  },
+  {
+    "name": "Iowa State University ",
+    "display": "Iowa State University ",
+    "shortName": "ISU",
+    "id": "iowa-state-university",
+    "index": 123,
+    "latlng": "@42.0266227,-93.6486487,17z",
+    "location": "Ames, Iowa"
+  },
+  {
+    "name": "Johns Hopkins University ",
+    "display": "Johns Hopkins University ",
+    "shortName": "JHU",
+    "id": "johns-hopkins-university",
+    "index": 124,
+    "latlng": "@39.3299054,-76.622701,17z",
+    "location": "Baltimore, Maryland"
+  },
+  {
+    "name": "Kalamazoo College",
+    "display": "Kalamazoo College",
+    "shortName": "KC",
+    "id": "kalamazoo-college",
+    "index": 125,
+    "latlng": "@42.2900389,-85.6003283,17z",
+    "location": "Kalamazoo, Michigan"
+  },
+  {
+    "name": "Kent State University ",
+    "display": "Kent State University ",
+    "shortName": "KSU",
+    "id": "kent-state-university",
+    "index": 126,
+    "latlng": "@41.1490669,-81.3436482,17z",
+    "location": "Kent, Ohio"
+  },
+  {
+    "name": "Kent State University: School of Information",
+    "display": "Kent State iSchool",
+    "shortName": "KSS",
+    "id": "kent-state-ischool",
+    "index": 127,
+    "latlng": "@41.1467758,-81.3443593,17z",
+    "location": "Kent, Ohio"
+  },
+  {
+    "name": "Kenyon College ",
+    "display": "Kenyon College ",
+    "shortName": "KC",
+    "id": "kenyon-college",
+    "index": 128,
+    "latlng": "@40.3719006,-82.4004912,17z",
+    "location": "Gambier, Ohio"
+  },
+  {
+    "name": "King County Library System",
+    "display": "King County Library System",
+    "shortName": "KCL",
+    "id": "king-county-library-system",
+    "index": 129,
+    "latlng": "@47.3589514,-122.1236651,17z",
+    "location": "Issaquah, Washington"
+  },
+  {
+    "name": "Knox College",
+    "display": "Knox College",
+    "shortName": "KC",
+    "id": "knox-college",
+    "index": 130,
+    "latlng": "@40.9418932,-90.3740506,17z",
+    "location": "Galesburg, Illinois"
+  },
+  {
+    "name": "Lafayette College ",
+    "display": "Lafayette College ",
+    "shortName": "LC",
+    "id": "lafayette-college",
+    "index": 131,
+    "latlng": "@40.6986242,-75.2109131,17z",
+    "location": "Easton, Pennsylvania"
+  },
+  {
+    "name": "Lake Forest College",
+    "display": "Lake Forest College",
+    "shortName": "LFC",
+    "id": "lake-forest-college",
+    "index": 132,
+    "latlng": "@42.2501888,-87.8308871,17z",
+    "location": "Lake Forest, Illinois"
+  },
+  {
+    "name": "Las Vegas-Clark County Library District",
+    "display": "Las Vegas-Clark County Library District",
+    "shortName": "LVC",
+    "id": "las-vegas-clark-county-library-district",
+    "index": 133,
+    "latlng": "@36.1543212,-115.1795886,13z",
+    "location": "Las Vegas, Nevada"
+  },
+  {
+    "name": "Lawrence University",
+    "display": "Lawrence University",
+    "shortName": "LU",
+    "id": "lawrence-university",
+    "index": 134,
+    "latlng": "@44.2608365,-88.4017715,17z",
+    "location": "Appleton, Wisconsin"
+  },
+  {
+    "name": "Lehigh University ",
+    "display": "Lehigh University ",
+    "shortName": "LU",
+    "id": "lehigh-university",
+    "index": 135,
+    "latlng": "@40.6048728,-75.379702,17z",
+    "location": "Bethleham, Pennsylvania"
+  },
+  {
+    "name": "Library of Congress",
+    "display": "Library of Congress",
+    "shortName": "LC",
+    "id": "library-of-congress",
+    "index": 136,
+    "latlng": "@38.8886882,-77.0069023,17z",
+    "location": "Washington, DC"
+  },
+  {
+    "name":
+      "Long Island University: Palmer School of Library and Information Science",
+    "display": "LIU iSchool",
+    "shortName": "LIU",
+    "id": "liu-ischool",
+    "index": 137,
+    "latlng": "@40.8194622,-73.6012725,17z",
+    "location": "Long Island, New York"
+  },
+  {
+    "name": "Los Angeles Public Library",
+    "display": "Los Angeles Public Library",
+    "shortName": "LAP",
+    "id": "los-angeles-public-library",
+    "index": 138,
+    "latlng": "@34.0144637,-118.3109118,17z",
+    "location": "Los Angeles, California"
+  },
+  {
+    "name": "Louisiana State University ",
+    "display": "Louisiana State University ",
+    "shortName": "LSU",
+    "id": "louisiana-state-university",
+    "index": 139,
+    "latlng": "@30.4132625,-91.1821856,17z",
+    "location": "Baton Rouge, Louisiana"
+  },
+  {
+    "name":
+      "Louisiana State University: School of Library and Information Science",
+    "display": "LSU iSchool",
+    "shortName": "LSU",
+    "id": "lsu-ischool",
+    "index": 140,
+    "latlng": "@30.4138006,-91.1818525,17z",
+    "location": "Baton Rouge, Louisiana"
+  },
+  {
+    "name": "Loyola Marymount University ",
+    "display": "Loyola Marymount University ",
+    "shortName": "LMU",
+    "id": "loyola-marymount-university",
+    "index": 141,
+    "latlng": "@33.9702498,-118.4187812,17z",
+    "location": "Los Angeles, California"
+  },
+  {
+    "name": "Macalester College ",
+    "display": "Macalester College ",
+    "shortName": "MC",
+    "id": "macalester-college",
+    "index": 142,
+    "latlng": "@44.9378965,-93.1712267,17z",
+    "location": "Saint Paul, Minnesota"
+  },
+  {
+    "name": "Manchester College",
+    "display": "Manchester College",
+    "shortName": "MC",
+    "id": "manchester-college",
+    "index": 143,
+    "latlng": "@41.0112168,-85.7626133,17z",
+    "location": "North Manchester, Indiana"
+  },
+  {
+    "name": "Manhattan College",
+    "display": "Manhattan College",
+    "shortName": "MC",
+    "id": "manhattan-college",
+    "index": 144,
+    "latlng": "@40.8898641,-73.9032805,17z",
+    "location": "The Bronx, New York"
+  },
+  {
+    "name": "Marian University",
+    "display": "Marian University",
+    "shortName": "MU",
+    "id": "marian-university",
+    "index": 145,
+    "latlng": "@43.7779059,-88.4236463,17z",
+    "location": "Fond Du Lac, Wisconson"
+  },
+  {
+    "name": "Maricopa County Library District",
+    "display": "Maricopa County Library District",
+    "shortName": "MCL",
+    "id": "maricopa-county-library-district",
+    "index": 146,
+    "latlng": "@43.7779059,-88.4236463,17z",
+    "location": "Phoenix, Arizona"
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "display": "Massachusetts Institute of Technology",
+    "shortName": "MIT",
+    "id": "massachusetts-institute-of-technology",
+    "index": 147,
+    "latlng": "@42.3600949,-71.0963433,17z",
+    "location": "Cambridge, Massachusetts"
+  },
+  {
+    "name": "McGill University ",
+    "display": "McGill University ",
+    "shortName": "MGU",
+    "id": "mcgill-university",
+    "index": 148,
+    "latlng": "@45.5047884,-73.5793344,17z",
+    "location": "Montréal, Quebec"
+  },
+  {
+    "name": "McGill University: School of Information Studies",
+    "display": "McGill iSchool",
+    "shortName": "MGS",
+    "id": "mcgill-ischool",
+    "index": 149,
+    "latlng": "@45.5038928,-73.5810631,18.95z",
+    "location": "Montréal, Quebec"
+  },
+  {
+    "name": "McMaster University ",
+    "display": "McMaster University ",
+    "shortName": "MMU",
+    "id": "mcmaster-university",
+    "index": 150,
+    "latlng": "@43.2608829,-79.9214087,17z",
+    "location": "Hamilton, Ontario"
+  },
+  {
+    "name": "Miami University of Ohio ",
+    "display": "Miami University of Ohio ",
+    "shortName": "MUO",
+    "id": "miami-university-of-ohio",
+    "index": 151,
+    "latlng": "@39.5105375,-84.7330601,17z",
+    "location": "Oxford, Ohio"
+  },
+  {
+    "name": "Miami-Dade Public Library System",
+    "display": "Miami-Dade Public Library System",
+    "shortName": "MDP",
+    "id": "miami-dade-public-library-system",
+    "index": 152,
+    "latlng": "@25.7745684,-80.1990359,17z",
+    "location": "Miami, Florida"
+  },
+  {
+    "name": "Michigan State University ",
+    "display": "Michigan State University ",
+    "shortName": "MSU",
+    "id": "michigan-state-university",
+    "index": 153,
+    "latlng": "@42.7018519,-84.4843552,17z",
+    "location": "Lansing, Michigan"
+  },
+  {
+    "name": "Middlebury College ",
+    "display": "Middlebury College ",
+    "shortName": "MC",
+    "id": "middlebury-college",
+    "index": 154,
+    "latlng": "@2.6205105,-142.4649422,2z",
+    "location": "Middlebury, Vermont"
+  },
+  {
+    "name": "Mills College",
+    "display": "Mills College",
+    "shortName": "MC",
+    "id": "mills-college",
+    "index": 155,
+    "latlng": "@37.7797811,-122.1976403,14z",
+    "location": "Oakland, CA"
+  },
+  {
+    "name": "Mississippi State University ",
+    "display": "Mississippi State University ",
+    "shortName": "MSU",
+    "id": "mississippi-state-university",
+    "index": 156,
+    "latlng": "@33.4528416,-88.8075387,14z",
+    "location": "Starkville, MS"
+  },
+  {
+    "name": "Montana State University ",
+    "display": "Montana State University ",
+    "shortName": "MSU",
+    "id": "montana-state-university",
+    "index": 157,
+    "latlng": "@45.6673561,-111.0568044,17z",
+    "location": "Bozeman, MT"
+  },
+  {
+    "name": "Montclair State University ",
+    "display": "Montclair State University ",
+    "shortName": "MSU",
+    "id": "montclair-state-university",
+    "index": 158,
+    "latlng": "@40.8622598,-74.1999921,17z",
+    "location": "Montclair, NJ"
+  },
+  {
+    "name": "Morehouse College ",
+    "display": "Morehouse College ",
+    "shortName": "MC",
+    "id": "morehouse-college",
+    "index": 159,
+    "latlng": "@33.7474212,-84.4177678,17z",
+    "location": "Atlanta, GA"
+  },
+  {
+    "name": "Morehouse/Spelman Colleges (AUC)",
+    "display": "Morehouse/Spelman Colleges (AUC)",
+    "shortName": "MSC",
+    "id": "morehouse-spelman-colleges-auc",
+    "index": 160,
+    "latlng": "@33.7505746,-84.4140466,17z",
+    "location": "Atlanta, Georgia"
+  },
+  {
+    "name": "Mount Holyoke College ",
+    "display": "Mount Holyoke College ",
+    "shortName": "MHC",
+    "id": "mount-holyoke-college",
+    "index": 161,
+    "latlng": "@42.2532574,-72.5783227,17z",
+    "location": "South Hadley, Massachusetts"
+  },
+  {
+    "name": "National Agricultural Library",
+    "display": "National Agricultural Library",
+    "shortName": "NAL",
+    "id": "national-agricultural-library",
+    "index": 162,
+    "latlng": "@39.0227792,-76.9239349,17z",
+    "location": "Beltsville, Maryland"
+  },
+  {
+    "name": "National Archives and Records Administration",
+    "display": "National Archives and Records Administration",
+    "shortName": "NAR",
+    "id": "national-archives-and-records-administration",
+    "index": 163,
+    "latlng": "@33.6260455,-84.290728,17z",
+    "location": "Ellenwood, GA"
+  },
+  {
+    "name": "National Library of Medicine",
+    "display": "National Library of Medicine",
+    "shortName": "NLM",
+    "id": "national-library-of-medicine",
+    "index": 164,
+    "latlng": "@38.9959549,-77.1010156,17z",
+    "location": "Bethesda, Maryland"
+  },
+  {
+    "name": "New Mexico State University ",
+    "display": "New Mexico State University ",
+    "shortName": "NMS",
+    "id": "new-mexico-state-university",
+    "index": 165,
+    "latlng": "@32.278779,-106.7500892,17z",
+    "location": "Las Cruces, New Mexico"
+  },
+  {
+    "name": "New York Public Library",
+    "display": "New York Public Library",
+    "shortName": "New YorkPL",
+    "id": "new-york-public-library",
+    "index": 166,
+    "latlng": "@40.7531863,-73.9844367,17z",
+    "location": "New York, New York"
+  },
+  {
+    "name": "New York State Library",
+    "display": "New York State Library",
+    "shortName": "NYS",
+    "id": "new-york-state-library",
+    "index": 167,
+    "latlng": "@42.6486179,-73.7635743,17z",
+    "location": "Albany, New York"
+  },
+  {
+    "name": "New York University ",
+    "display": "New York University ",
+    "shortName": "NYU",
+    "id": "new-york-university",
+    "index": 168,
+    "latlng": "@40.7295174,-73.9986442,17z",
+    "location": "New York, New York"
+  },
+  {
+    "name":
+      "North Carolina Central University: School of Library and Information Sciences",
+    "display": "North Carolina Central iSchool",
+    "shortName": "NCC",
+    "id": "north-carolina-central-ischool",
+    "index": 169,
+    "latlng": "@35.9737103,-78.8992555,18.03z",
+    "location": "Durham, North Carolina"
+  },
+  {
+    "name": "North Carolina State University",
+    "display": "North Carolina State University",
+    "shortName": "NCS",
+    "id": "north-carolina-state-university",
+    "index": 170,
+    "latlng": "@35.7846676,-78.6842779,17z",
+    "location": "Raleigh, North Carolina"
+  },
+  {
+    "name": "North Dakota State University ",
+    "display": "North Dakota State University ",
+    "shortName": "NDS",
+    "id": "north-dakota-state-university",
+    "index": 171,
+    "latlng": "@46.896247,-96.8053545,17z",
+    "location": "Fargo, North Dakota"
+  },
+  {
+    "name": "Northeastern University ",
+    "display": "Northeastern University ",
+    "shortName": "NU",
+    "id": "northeastern-university",
+    "index": 172,
+    "latlng": "@42.3398106,-71.091355,17z",
+    "location": "Boston, Massachusetts"
+  },
+  {
+    "name": "Northwestern University (IL)",
+    "display": "Northwestern University (IL)",
+    "shortName": "NUI",
+    "id": "northwestern-university-il",
+    "index": 173,
+    "latlng": "@42.0564634,-87.6774503,17z",
+    "location": "Evanston, Illinois"
+  },
+  {
+    "name": "Oakland City University",
+    "display": "Oakland City University",
+    "shortName": "OCU",
+    "id": "oakland-city-university",
+    "index": 174,
+    "latlng": "@38.3401235,-87.3540952,17z",
+    "location": "Oakland City, Indiana"
+  },
+  {
+    "name": "Oberlin College ",
+    "display": "Oberlin College ",
+    "shortName": "OC",
+    "id": "oberlin-college",
+    "index": 175,
+    "latlng": "@41.2958736,-82.2232723,17z",
+    "location": "Oberlin, Ohio"
+  },
+  {
+    "name": "Occidental College ",
+    "display": "Occidental College ",
+    "shortName": "OC",
+    "id": "occidental-college",
+    "index": 176,
+    "latlng": "@34.127366,-118.2126614,17z",
+    "location": "Los Angeles, California"
+  },
+  {
+    "name": "Ohio University ",
+    "display": "Ohio University ",
+    "shortName": "OU",
+    "id": "ohio-university",
+    "index": 177,
+    "latlng": "@39.3243621,-82.1035722,17z",
+    "location": "Athens, Ohio"
+  },
+  {
+    "name": "Ohio Wesleyan University",
+    "display": "Ohio Wesleyan University",
+    "shortName": "OWU",
+    "id": "ohio-wesleyan-university",
+    "index": 178,
+    "latlng": "@40.2962577,-83.0701749,17z",
+    "location": "Delaware, Ohio"
+  },
+  {
+    "name": "Oklahoma State University ",
+    "display": "Oklahoma State University ",
+    "shortName": "OSU",
+    "id": "oklahoma-state-university",
+    "index": 179,
+    "latlng": "@36.1270279,-97.0759055,17z",
+    "location": "Stillwater, Oklahoma"
+  },
+  {
+    "name": "Orange County Public Libraries",
+    "display": "Orange County Public Libraries",
+    "shortName": "OCP",
+    "id": "orange-county-public-libraries",
+    "index": 180,
+    "latlng": "@33.6858157,-118.1357688,10z",
+    "location": "Orange, California"
+  },
+  {
+    "name": "Pennsylvania State University ",
+    "display": "Penn State College Park",
+    "shortName": "PSC",
+    "id": "penn-state-college-park",
+    "index": 181,
+    "latlng": "@40.7982173,-77.8620917,17z",
+    "location": "State College, Pennsylvania"
+  },
+  {
+    "name": "Phoenix Public Library",
+    "display": "Phoenix Public Library",
+    "shortName": "PPL",
+    "id": "phoenix-public-library",
+    "index": 182,
+    "latlng": "@33.3768251,-112.1407158,17z",
+    "location": "Phoenix, Arizona"
+  },
+  {
+    "name": "Pratt Institute, School of Information",
+    "display": "Pratt iSchool",
+    "shortName": "PS",
+    "id": "pratt-ischool",
+    "index": 183,
+    "latlng": "@40.738077,-74.0011633,17z",
+    "location": "New York, New York"
+  },
+  {
+    "name": "Princeton University ",
+    "display": "Princeton University ",
+    "shortName": "PU",
+    "id": "princeton-university",
+    "index": 184,
+    "latlng": "@40.3430983,-74.6572572,17z",
+    "location": "Princeton, New Jersey"
+  },
+  {
+    "name": "Purdue University ",
+    "display": "Purdue University ",
+    "shortName": "PU",
+    "id": "purdue-university",
+    "index": 185,
+    "latlng": "@40.4237095,-86.9233779,17z",
+    "location": "Lafayette, Indiana"
+  },
+  {
+    "name": "Queen's University ",
+    "display": "Queen's University ",
+    "shortName": "QU",
+    "id": "queen-s-university",
+    "index": 186,
+    "latlng": "@44.2252833,-76.4973245,17z",
+    "location": "Kingston, Ontario"
+  },
+  {
+    "name": "Queens Borough Public Library",
+    "display": "Queens Borough Public Library",
+    "shortName": "QBP",
+    "id": "queens-borough-public-library",
+    "index": 187,
+    "latlng": "@40.6829352,-73.9890231,11z",
+    "location": "Queens, New York"
+  },
+  {
+    "name":
+      "Queens College: Graduate School of Library and Information Studies",
+    "display": "Queens iSchool",
+    "shortName": "QS",
+    "id": "queens-ischool",
+    "index": 188,
+    "latlng": "@40.7362381,-73.8182628,17z",
+    "location": "Flushing, New York"
+  },
+  {
+    "name": "Randolph-Macon College",
+    "display": "Randolph-Macon College",
+    "shortName": "RMC",
+    "id": "randolph-macon-college",
+    "index": 189,
+    "latlng": "@37.7603836,-77.4805351,17z",
+    "location": "Ashland, Virginia"
+  },
+  {
+    "name": "Reed College ",
+    "display": "Reed College ",
+    "shortName": "RC",
+    "id": "reed-college",
+    "index": 190,
+    "latlng": "@45.4816231,-122.6329873,17z",
+    "location": "Portland, Oregon"
+  },
+  {
+    "name": "Rhode Island School of Design ",
+    "display": "Rhode Island School of Design ",
+    "shortName": "RIS",
+    "id": "rhode-island-school-of-design",
+    "index": 191,
+    "latlng": "@41.826115,-71.4096753,17z",
+    "location": "Providence, Rhode Island"
+  },
+  {
+    "name": "Rhodes College ",
+    "display": "Rhodes College ",
+    "shortName": "RC",
+    "id": "rhodes-college",
+    "index": 192,
+    "latlng": "@35.1557041,-89.9911726,17z",
+    "location": "Memphis, Tennessee"
+  },
+  {
+    "name": "Rice University ",
+    "display": "Rice University ",
+    "shortName": "RICE",
+    "id": "rice-university",
+    "index": 193,
+    "latlng": "@29.7173987,-95.4040145,17z",
+    "location": "Houston, Texas"
+  },
+  {
+    "name": "Riverside County Library System",
+    "display": "Riverside County Library System",
+    "shortName": "RCL",
+    "id": "riverside-county-library-system",
+    "index": 194,
+    "latlng": "@34.0000248,-117.4164675,17z",
+    "location": "Riverside, California"
+  },
+  {
+    "name": "Rochester Institute of Technology ",
+    "display": "Rochester Institute of Technology ",
+    "shortName": "RIT",
+    "id": "rochester-institute-of-technology",
+    "index": 195,
+    "latlng": "@43.0845933,-77.6765278,17z",
+    "location": "Rochester, New York"
+  },
+  {
+    "name": "Rollins College",
+    "display": "Rollins College",
+    "shortName": "RC",
+    "id": "rollins-college",
+    "index": 196,
+    "latlng": "@28.5922467,-81.3505093,17z",
+    "location": "Winter Park, Florida"
+  },
+  {
+    "name": "Rutgers University ",
+    "display": "Rutgers University ",
+    "shortName": "RU",
+    "id": "rutgers-university",
+    "index": 197,
+    "latlng": "@40.5005052,-74.4483025,18.84z",
+    "location": "New Bruinswick, New Jersey"
+  },
+  {
+    "name": "Rutgers University: School of Communication and Information",
+    "display": "Rutgers iSchool",
+    "shortName": "RS",
+    "id": "rutgers-ischool",
+    "index": 198,
+    "latlng": "@40.5008186,-74.4473991,18.34z",
+    "location": "New Bruinswick, New Jersey"
+  },
+  {
+    "name": "Sacramento Public Library",
+    "display": "Sacramento Public Library",
+    "shortName": "SPL",
+    "id": "sacramento-public-library",
+    "index": 199,
+    "latlng": "@38.6184593,-121.4063223,17z",
+    "location": "Sacramento, California"
+  },
+  {
+    "name": "Sacramento State University ",
+    "display": "Sacramento State University ",
+    "shortName": "SSU",
+    "id": "sacramento-state-university",
+    "index": 200,
+    "latlng": "@38.561296,-121.4262352,17z",
+    "location": "Sacramento, California"
+  },
+  {
+    "name": "Saint Mary's College",
+    "display": "Saint Mary's College",
+    "shortName": "SMC",
+    "id": "saint-mary-s-college",
+    "index": 201,
+    "latlng": "@41.7082636,-86.2602657,17z",
+    "location": "Notre Dame, Indiana"
+  },
+  {
+    "name": "Saint Meinrad School of Theology",
+    "display": "Saint Meinrad School of Theology",
+    "shortName": "SMS",
+    "id": "saint-meinrad-school-of-theology",
+    "index": 202,
+    "latlng": "@38.1660041,-86.8127983,17z",
+    "location": "St. Meinrad, Indiana"
+  },
+  {
+    "name": "San Antonio Public Library",
+    "display": "San Antonio Public Library",
+    "shortName": "SAP",
+    "id": "san-antonio-public-library",
+    "index": 203,
+    "latlng": "@29.4426265,-98.6631964,17z",
+    "location": "San Antonio, Texas"
+  },
+  {
+    "name": "San Bernardino Public Library",
+    "display": "San Bernardino Public Library",
+    "shortName": "SBP",
+    "id": "san-bernardino-public-library",
+    "index": 204,
+    "latlng": "@34.1095808,-117.2975787,17z",
+    "location": "San Bernadino, California"
+  },
+  {
+    "name": "San Diego Public Library",
+    "display": "San Diego Public Library",
+    "shortName": "SDP",
+    "id": "san-diego-public-library",
+    "index": 205,
+    "latlng": "@32.7001879,-117.1356336,17z",
+    "location": "San Diego, California"
+  },
+  {
+    "name": "San Diego State University ",
+    "display": "San Diego State University ",
+    "shortName": "SDSU",
+    "id": "san-diego-state-university",
+    "index": 206,
+    "latlng": "@32.7757262,-117.0740726,17z",
+    "location": "San Diego, California"
+  },
+  {
+    "name": "San Jose State University ",
+    "display": "San Jose State University ",
+    "shortName": "SJSU",
+    "id": "san-jose-state-university",
+    "index": 207,
+    "latlng": "@37.3351916,-121.8832548,17z",
+    "location": "San Jose, California"
+  },
+  {
+    "name": "San Jose State: School of Information",
+    "display": "San Jose State iSchool",
+    "shortName": "SJSU",
+    "id": "san-jose-state-ischool",
+    "index": 208,
+    "latlng": "@37.3360598,-121.8841196,19.35z",
+    "location": "San Jose, California"
+  },
+  {
+    "name": "Santa Clara University ",
+    "display": "Santa Clara University ",
+    "shortName": "SCU",
+    "id": "santa-clara-university",
+    "index": 209,
+    "latlng": "@37.349646,-121.9411708,17z",
+    "location": "Santa Clara, California"
+  },
+  {
+    "name": "Sarah Lawrence College",
+    "display": "Sarah Lawrence College",
+    "shortName": "SLC",
+    "id": "sarah-lawrence-college",
+    "index": 210,
+    "latlng": "@40.9360564,-73.8455807,17z",
+    "location": "Bronxville, New York"
+  },
+  {
+    "name": "Savannah College of Art and Design ",
+    "display": "Savannah College of Art and Design ",
+    "shortName": "SCAD",
+    "id": "savannah-college-of-art-and-design",
+    "index": 211,
+    "latlng": "@32.0692673,-81.0959726,17z",
+    "location": "Savannah, Georgia"
+  },
+  {
+    "name": "Scripps College ",
+    "display": "Scripps College ",
+    "shortName": "SC",
+    "id": "scripps-college",
+    "index": 212,
+    "latlng": "@34.1039392,-117.7123961,17z",
+    "location": "Claremont, California"
+  },
+  {
+    "name": "Seashore Library",
+    "display": "Seashore Library",
+    "shortName": "SL",
+    "id": "seashore-library",
+    "index": 213,
+    "latlng": "@40.8078739,-74.0588716,10z",
+    "location": "Nandaihe, China"
+  },
+  {
+    "name": "Sewanee: The University of the South",
+    "display": "Sewanee: The University of the South",
+    "shortName": "STU",
+    "id": "sewanee-the-university-of-the-south",
+    "index": 214,
+    "latlng": "@35.2051844,-85.9198438,17z",
+    "location": "Sewanee, Tennessee"
+  },
+  {
+    "name": "Simmons University",
+    "display": "Simmons University",
+    "shortName": "SU",
+    "id": "simmons-university",
+    "index": 215,
+    "latlng": "@42.33937,-71.1021191,17z",
+    "location": "Boston, Massachusetts"
+  },
+  {
+    "name": "Simmons University: School of Library and Information Science",
+    "display": "Simmons iSchool",
+    "shortName": "SS",
+    "id": "simmons-ischool",
+    "index": 216,
+    "latlng": "@42.3382781,-71.1019132,17z",
+    "location": "Boston, Massachusetts"
+  },
+  {
+    "name": "Skidmore College ",
+    "display": "Skidmore College ",
+    "shortName": "SC",
+    "id": "skidmore-college",
+    "index": 217,
+    "latlng": "@43.0992309,-73.7848563,17z",
+    "location": "Saratoga Springs, New York"
+  },
+  {
+    "name": "Smith College ",
+    "display": "Smith College ",
+    "shortName": "SC",
+    "id": "smith-college",
+    "index": 218,
+    "latlng": "@42.3180996,-72.6394174,17z",
+    "location": "Northampton, Massachusetts"
+  },
+  {
+    "name": "Smithsonian Libraries",
+    "display": "Smithsonian Libraries",
+    "shortName": "SL",
+    "id": "smithsonian-libraries",
+    "index": 219,
+    "latlng": "@38.8912041,-77.028263,17z",
+    "location": "Washington, District of Columbia"
+  },
+  {
+    "name": "Southeastern Louisiana University",
+    "display": "Southeastern Louisiana University",
+    "shortName": "SLU",
+    "id": "southeastern-louisiana-university",
+    "index": 220,
+    "latlng": "@30.5173205,-90.4710405,17z",
+    "location": "Hammond, Louisiana"
+  },
+  {
+    "name": "Southern Illinois University Carbondale ",
+    "display": "Southern Illinois University Carbondale ",
+    "shortName": "SIU",
+    "id": "southern-illinois-university-carbondale",
+    "index": 221,
+    "latlng": "@37.7100251,-89.2247774,17z",
+    "location": "Carbondale, Illinois"
+  },
+  {
+    "name": "Southern Methodist University ",
+    "display": "Southern Methodist University ",
+    "shortName": "SMU",
+    "id": "southern-methodist-university",
+    "index": 222,
+    "latlng": "@32.8412223,-96.7867008,17z",
+    "location": "Dallas, Texas"
+  },
+  {
+    "name": "Southern University of Baton Rouge ",
+    "display": "Southern University of Baton Rouge ",
+    "shortName": "SUBR",
+    "id": "southern-university-of-baton-rouge",
+    "index": 223,
+    "latlng": "@30.5267691,-91.1957601,17z",
+    "location": "Baton Rouge, Louisiana"
+  },
+  {
+    "name": "Spelman College ",
+    "display": "Spelman College ",
+    "shortName": "SC",
+    "id": "spelman-college",
+    "index": 224,
+    "latlng": "@33.7463641,-84.4144767,17z",
+    "location": "Atlanta, Georgia"
+  },
+  {
+    "name":
+      "St. Catherine University: School of Business and Professional Studies",
+    "display": "St. Catherine iSchool",
+    "shortName": "SCS",
+    "id": "st-catherine-ischool",
+    "index": 225,
+    "latlng": "@44.9259548,-93.1864213,17z",
+    "location": "Saint Paul, Minnesota"
+  },
+  {
+    "name": "St. John's University / College of St. Benedict",
+    "display": "St. John's University / College of St. Benedict",
+    "shortName": "SJU",
+    "id": "st-john-s-university-college-of-st-benedict",
+    "index": 226,
+    "latlng": "@45.5812075,-94.3965574,17z",
+    "location": "Collegeville, Minnesota"
+  },
+  {
+    "name":
+      "St. John's University: Department of Library and Information Science",
+    "display": "St John's iSchool",
+    "shortName": "SJS",
+    "id": "st-john-s-ischool",
+    "index": 227,
+    "latlng": "@45.581098,-94.3925451,18.8z",
+    "location": "Collegeville, Minnesota"
+  },
+  {
+    "name": "St. Lawrence University",
+    "display": "St. Lawrence University",
+    "shortName": "SLU",
+    "id": "st-lawrence-university",
+    "index": 228,
+    "latlng": "@44.5892157,-75.1630647,17z",
+    "location": "Canton, New York"
+  },
+  {
+    "name": "St. Olaf College ",
+    "display": "St. Olaf College ",
+    "shortName": "SOC",
+    "id": "st-olaf-college",
+    "index": 229,
+    "latlng": "@44.4616672,-93.1848617,17z",
+    "location": "Northfield, Minnesota "
+  },
+  {
+    "name": "Stanford University",
+    "display": "Stanford University",
+    "shortName": "SU",
+    "id": "stanford-university",
+    "index": 230,
+    "latlng": "@37.4274787,-122.1719023,17z",
+    "location": "Stanford, California"
+  },
+  {
+    "name": "State University of New York at Albany",
+    "display": "SUNew York Albany",
+    "shortName": "SUN",
+    "id": "sunew-york-albany",
+    "index": 231,
+    "latlng": "@42.6480358,-73.751859,17z",
+    "location": "Albany, New York"
+  },
+  {
+    "name":
+      "State University of New York at Buffalo: Department of Library and Information Studies (USA)",
+    "display": "SUNew York Buffalo iSchool",
+    "shortName": "SUN",
+    "id": "sunew-york-buffalo-ischool",
+    "index": 232,
+    "latlng": "@43.0008132,-78.791153,17z",
+    "location": "Buffalo, New York"
+  },
+  {
+    "name": "State University of New York at Geneseo",
+    "display": "State University of New York at Geneseo",
+    "shortName": "SUN",
+    "id": "state-university-of-new-york-at-geneseo",
+    "index": 233,
+    "latlng": "@42.7960959,-77.8258862,17z",
+    "location": "Geneseo, New York"
+  },
+  {
+    "name": "Stony Brook University ",
+    "display": "Stony Brook University ",
+    "shortName": "SBU",
+    "id": "stony-brook-university",
+    "index": 234,
+    "latlng": "@40.9123801,-73.1255722,17z",
+    "location": "Stony Brook, New York"
+  },
+  {
+    "name": "Swarthmore College ",
+    "display": "Swarthmore College ",
+    "shortName": "SC",
+    "id": "swarthmore-college",
+    "index": 235,
+    "latlng": "@39.904039,-75.3545004,17z",
+    "location": "Swarthmore, Pennsylvania"
+  },
+  {
+    "name": "Syracuse University ",
+    "display": "Syracuse University ",
+    "shortName": "CUSE",
+    "id": "syracuse-university",
+    "index": 236,
+    "latlng": "@43.0391573,-76.1372991,17z",
+    "location": "Syracuse, New York"
+  },
+  {
+    "name": "Syracuse University: School of Information Studies",
+    "display": "Syracuse iSchool",
+    "shortName": "CUSE",
+    "id": "syracuse-ischool",
+    "index": 237,
+    "latlng": "@43.0382223,-76.1355553,17z",
+    "location": "Syracuse, New York"
+  },
+  {
+    "name": "Tampa-Hillsborough County Public Library",
+    "display": "Tampa-Hillsborough County Public Library",
+    "shortName": "THC",
+    "id": "tampa-hillsborough-county-public-library",
+    "index": 238,
+    "latlng": "@27.9508727,-82.4645373,17z",
+    "location": "Tampa, Florida"
+  },
+  {
+    "name": "Taylor University",
+    "display": "Taylor University",
+    "shortName": "TU",
+    "id": "taylor-university",
+    "index": 239,
+    "latlng": "@40.4558677,-85.5010371,17z",
+    "location": "Upland, Indiana"
+  },
+  {
+    "name": "Temple University ",
+    "display": "Temple University ",
+    "shortName": "TU",
+    "id": "temple-university",
+    "index": 240,
+    "latlng": "@39.9811976,-75.1575345,17z",
+    "location": "Philadelphia, Pennsylvania"
+  },
+  {
+    "name": "Texas A&M University ",
+    "display": "Texas A&M University ",
+    "shortName": "TAMU",
+    "id": "texas-a-m-university",
+    "index": 241,
+    "latlng": "@30.6185356,-96.3386823,17z",
+    "location": "College Station, Texas"
+  },
+  {
+    "name":
+      "Texas A&M University - Kingsville: Department of Electrical Engineering & Computer Science",
+    "display": "TAMU Kingsville iSchool",
+    "shortName": "TAMU",
+    "id": "tamu-kingsville-ischool",
+    "index": 242,
+    "latlng": "@27.5260789,-97.8811213,17z",
+    "location": "Kingsville, Texas"
+  },
+  {
+    "name": "Texas Tech University ",
+    "display": "Texas Tech University ",
+    "shortName": "TTU",
+    "id": "texas-tech-university",
+    "index": 243,
+    "latlng": "@33.5842635,-101.8804655,17z",
+    "location": "Lubbock, Texas"
+  },
+  {
+    "name":
+      "Texas Woman's University: School of Library and Information Studies",
+    "display": "Texas Woman's iSchool",
+    "shortName": "TWS",
+    "id": "texas-woman-s-ischool",
+    "index": 244,
+    "latlng": "@33.2271024,-97.1302089,17z",
+    "location": "Denton, Texas"
+  },
+  {
+    "name": "The College of New Jersey ",
+    "display": "The College of New Jersey ",
+    "shortName": "TCN",
+    "id": "the-college-of-new-jersey",
+    "index": 245,
+    "latlng": "@40.2683119,-74.7800457,17z",
+    "location": "Ewing Township, New Jersey"
+  },
+  {
+    "name": "The Ohio State University ",
+    "display": "The Ohio State University ",
+    "shortName": "OSU",
+    "id": "the-ohio-state-university",
+    "index": 246,
+    "latlng": "@40.0141946,-83.0330976,17z",
+    "location": "Columbus, Ohio"
+  },
+  {
+    "name": "Trine University",
+    "display": "Trine University",
+    "shortName": "TU",
+    "id": "trine-university",
+    "index": 247,
+    "latlng": "@41.631334,-85.0156556,17z",
+    "location": "Angola, Indiana"
+  },
+  {
+    "name": "Trinity College ",
+    "display": "Trinity College ",
+    "shortName": "TC",
+    "id": "trinity-college",
+    "index": 248,
+    "latlng": "@41.7479372,-72.6925178,17z",
+    "location": "Hartford, Connecticut"
+  },
+  {
+    "name": "Trinity University ",
+    "display": "Trinity University ",
+    "shortName": "TU",
+    "id": "trinity-university",
+    "index": 249,
+    "latlng": "@29.4618491,-98.4853455,17z",
+    "location": "San Antonio, Texas"
+  },
+  {
+    "name": "Tulane University ",
+    "display": "Tulane University ",
+    "shortName": "TU",
+    "id": "tulane-university",
+    "index": 250,
+    "latlng": "@29.9403523,-90.1229112,17z",
+    "location": "New Orleans, Louisiana"
+  },
+  {
+    "name":
+      "UNorth Carolina Chapel Hill: School of Information and Library Science",
+    "display": "UNorth Carolina Chapel Hill iSchool",
+    "shortName": "UNC",
+    "id": "unorth-carolina-chapel-hill-ischool",
+    "index": 251,
+    "latlng": "@35.9112396,-79.0514935,17z",
+    "location": "Chapel Hill, North Carolina"
+  },
+  {
+    "name": "UNorth Carolina Greensboro: School of Education",
+    "display": "UNorth Carolina Greensboro iSchool",
+    "shortName": "UNorth CarolinaG",
+    "id": "unorth-carolina-greensboro-ischool",
+    "index": 252,
+    "latlng": "@36.0659203,-79.814304,17z",
+    "location": "Greensboro, North Carolina"
+  },
+  {
+    "name": "Union College ",
+    "display": "Union College ",
+    "shortName": "UC",
+    "id": "union-college",
+    "index": 253,
+    "latlng": "@42.8177164,-73.931782,17z",
+    "location": "Schenectady, New York"
+  },
+  {
+    "name": "Universite de Montreal: Graduate Program in Information",
+    "display": "UMontreal iSchool",
+    "shortName": "UMS",
+    "id": "umontreal-ischool",
+    "index": 254,
+    "latlng": "@45.5022116,-73.6197001,16z",
+    "location": "Montréal, Quebec"
+  },
+  {
+    "name":
+      "University at Albany: College of Emergency Preparedness, Homeland Security and Cybersecurity",
+    "display": "SUNew York Albany iSchool",
+    "shortName": "SUN",
+    "id": "sunew-york-albany-ischool",
+    "index": 255,
+    "latlng": "@42.6850312,-73.8269736,17z",
+    "location": "Albany, New York"
+  },
+  {
+    "name": "University of Alabama ",
+    "display": "University of Alabama ",
+    "shortName": "UA",
+    "id": "university-of-alabama",
+    "index": 256,
+    "latlng": "@33.2031619,-87.5540956,13z",
+    "location": "Tuscaloosa, Alabama"
+  },
+  {
+    "name": "University of Alabama: School of Library and Information Studies",
+    "display": "UAlabama iSchool",
+    "shortName": "BAMassachusetts",
+    "id": "ualabama-ischool",
+    "index": 257,
+    "latlng": "33.2118128,-87.5527711,15z",
+    "location": "Tuscaloosa, Alabama"
+  },
+  {
+    "name": "University of Alaska at Anchorage",
+    "display": "University of Alaska Anchorage",
+    "shortName": "BAMassachusetts",
+    "id": "university-of-alaska-anchorage",
+    "index": 258,
+    "latlng": "@61.1910447,-149.8217431,17z",
+    "location": "Anchorage, Alaska"
+  },
+  {
+    "name": "University of Alaska at Fairbanks ",
+    "display": "University of Alaska Fairbanks ",
+    "shortName": "UAF",
+    "id": "university-of-alaska-fairbanks",
+    "index": 259,
+    "latlng": "@64.8376029,-147.9175759,12z",
+    "location": "Fairbanks, Alaska"
+  },
+  {
+    "name": "University of Alberta ",
+    "display": "University of Alberta ",
+    "shortName": "UA",
+    "id": "university-of-alberta",
+    "index": 260,
+    "latlng": "@53.5257371,-113.5289181,16.35z",
+    "location": "Edmonton, Alberta"
+  },
+  {
+    "name": "University of Alberta: School of Library and Information Studies",
+    "display": "UAlberta iSchool",
+    "shortName": "UAS",
+    "id": "ualberta-ischool",
+    "index": 261,
+    "latlng": "@53.5235241,-113.5268874,17z",
+    "location": "Edmonton, Alberta"
+  },
+  {
+    "name": "University of Arizona ",
+    "display": "University of Arizona ",
+    "shortName": "UA",
+    "id": "university-of-arizona",
+    "index": 262,
+    "latlng": "@32.2318896,-110.9522927,17z",
+    "location": "Tucson, Arizona"
+  },
+  {
+    "name": "University of Arizona: School of Information",
+    "display": "UArizona iSchool",
+    "shortName": "UA",
+    "id": "uarizona-ischool",
+    "index": 263,
+    "latlng": "@32.2343562,-110.956595,17z",
+    "location": "Tucson, Arizona"
+  },
+  {
+    "name": "University of Arkansas ",
+    "display": "University of Arkansas ",
+    "shortName": "UA",
+    "id": "university-of-arkansas",
+    "index": 264,
+    "latlng": "@36.0686938,-94.1770304,17z",
+    "location": "Fayetteville, Arkansas"
+  },
+  {
+    "name": "University of British Columbia ",
+    "display": "University of British Columbia ",
+    "shortName": "UBC",
+    "id": "university-of-british-columbia",
+    "index": 265,
+    "latlng": "@49.2624055,-123.2539588,16z",
+    "location": "Vancouver, British Columbia"
+  },
+  {
+    "name":
+      "University of British Columbia: The School of Library, Archival & Information Studies",
+    "display": "UBC iSchool",
+    "shortName": "UBC",
+    "id": "ubc-ischool",
+    "index": 266,
+    "latlng": "@49.2676766,-123.2549587,17z",
+    "location": "Vancouver, British Columbia"
+  },
+  {
+    "name": "University of Buffalo",
+    "display": "University of Buffalo",
+    "shortName": "UB",
+    "id": "university-of-buffalo",
+    "index": 267,
+    "latlng": "@43.0008132,-78.791153,17z",
+    "location": "Buffalo, New York"
+  },
+  {
+    "name": "University of Calgary",
+    "display": "University of Calgary",
+    "shortName": "UC",
+    "id": "university-of-calgary",
+    "index": 268,
+    "latlng": "@51.1030392,-114.379062,10z",
+    "location": "Calgary, Alberta"
+  },
+  {
+    "name": "University of California at Berkeley",
+    "display": "University of California at Berkeley",
+    "shortName": "CAL",
+    "id": "university-of-california-at-berkeley",
+    "index": 269,
+    "latlng": "@37.8719034,-122.2607232,17z",
+    "location": "Berkley, California"
+  },
+  {
+    "name": "University of California at Davis",
+    "display": "University of California at Davis",
+    "shortName": "UCD",
+    "id": "university-of-california-at-davis",
+    "index": 270,
+    "latlng": "@38.5382364,-121.7638958,17z",
+    "location": "Davis, California"
+  },
+  {
+    "name": "University of California at Irvine",
+    "display": "University of California at Irvine",
+    "shortName": "UCI",
+    "id": "university-of-california-at-irvine",
+    "index": 271,
+    "latlng": "@33.6404996,-117.8464795,17z",
+    "location": "Irvine, California"
+  },
+  {
+    "name": "University of California at Los Angeles",
+    "display": "University of California at Los Angeles",
+    "shortName": "UCLA",
+    "id": "university-of-california-at-los-angeles",
+    "index": 272,
+    "latlng": "@34.0689254,-118.4473644,17z",
+    "location": "Los Angeles, California"
+  },
+  {
+    "name": "University of California at Riverside",
+    "display": "University of California at Riverside",
+    "shortName": "UCR",
+    "id": "university-of-california-at-riverside",
+    "index": 273,
+    "latlng": "@33.9737099,-117.3302477,17z",
+    "location": "Riverside, California"
+  },
+  {
+    "name": "University of California at San Diego",
+    "display": "University of California at San Diego",
+    "shortName": "UCSD",
+    "id": "university-of-california-at-san-diego",
+    "index": 274,
+    "latlng": "@32.8800649,-117.2361968,17z",
+    "location": "San Diego, California"
+  },
+  {
+    "name": "University of California at Santa Barbara",
+    "display": "University of California at Santa Barbara",
+    "shortName": "UCSB",
+    "id": "university-of-california-at-santa-barbara",
+    "index": 275,
+    "latlng": "@34.4139673,-119.8511303,17z",
+    "location": "Santa Barbara, California"
+  },
+  {
+    "name": "University of California, Berkeley: School of Information",
+    "display": "UC Berkeley iSchool",
+    "shortName": "CAL",
+    "id": "uc-berkeley-ischool",
+    "index": 276,
+    "latlng": "@37.8713625,-122.2607039,17z",
+    "location": "Berkley, California"
+  },
+  {
+    "name":
+      "University of California, Irvine: Donald Bren School of Information and Computer Sciences",
+    "display": "UC Irvine iSchool",
+    "shortName": "UCI",
+    "id": "uc-irvine-ischool",
+    "index": 277,
+    "latlng": "@33.6431644,-117.8441713,17z",
+    "location": "Irvine, California"
+  },
+  {
+    "name":
+      "University of California, Los Angeles: Graduate School of Education and Information Studies",
+    "display": "UCLA iSchool",
+    "shortName": "UCLA",
+    "id": "ucla-ischool",
+    "index": 278,
+    "latlng": "@34.0750948,-118.4443075,17z",
+    "location": "Los Angeles"
+  },
+  {
+    "name": "University of Central Florida ",
+    "display": "University of Central Florida ",
+    "shortName": "UCF",
+    "id": "university-of-central-florida",
+    "index": 279,
+    "latlng": "@28.6024321,-81.2022432,17z",
+    "location": "Orlando, Florida"
+  },
+  {
+    "name": "University of Chicago ",
+    "display": "University of Chicago ",
+    "shortName": "UC",
+    "id": "university-of-chicago",
+    "index": 280,
+    "latlng": "@41.7886119,-87.6008966,17z",
+    "location": "Chicago, Illinois"
+  },
+  {
+    "name": "University of Cincinnati ",
+    "display": "University of Cincinnati ",
+    "shortName": "UC",
+    "id": "university-of-cincinnati",
+    "index": 281,
+    "latlng": "@39.132926,-84.5171337,17z",
+    "location": "Cincinnati, Kentucky"
+  },
+  {
+    "name": "University of Colorado Boulder",
+    "display": "University of Colorado Boulder",
+    "shortName": "CU",
+    "id": "university-of-colorado-boulder",
+    "index": 282,
+    "latlng": "@40.0075851,-105.268125,17z",
+    "location": "Boluder, Colorado"
+  },
+  {
+    "name":
+      "University of Colorado: Boulder: Department of Information Science",
+    "display": "CU Boulder iSchool",
+    "shortName": "CU",
+    "id": "cu-boulder-ischool",
+    "index": 283,
+    "latlng": "@40.0108917,-105.2760815,17z",
+    "location": "Boluder, Colorado"
+  },
+  {
+    "name": "University of Connecticut ",
+    "display": "University of Connecticut ",
+    "shortName": "UC",
+    "id": "university-of-connecticut",
+    "index": 284,
+    "latlng": "@41.5625092,-72.9874085,9z",
+    "location": "Mannsfield, Connecticut"
+  },
+  {
+    "name": "University of Delaware ",
+    "display": "University of Delaware ",
+    "shortName": "UD",
+    "id": "university-of-delaware",
+    "index": 285,
+    "latlng": "@39.677831,-75.7544409,17z",
+    "location": "Newark, Delaware"
+  },
+  {
+    "name": "University of Denver: Morgridge College of Education",
+    "display": "UDenver Morgridge",
+    "shortName": "UD",
+    "id": "udenver-morgridge",
+    "index": 286,
+    "latlng": "@39.6788315,-104.9670369,17z",
+    "location": "Denver, Colorado"
+  },
+  {
+    "name": "University of Florida ",
+    "display": "University of Florida ",
+    "shortName": "UF",
+    "id": "university-of-florida",
+    "index": 287,
+    "latlng": "@29.6436371,-82.3571135,17z",
+    "location": "Gainesville, Florida"
+  },
+  {
+    "name": "University of Georgia ",
+    "display": "University of Georgia ",
+    "shortName": "UG",
+    "id": "university-of-georgia",
+    "index": 288,
+    "latlng": "@33.9480097,-83.3795054,17z",
+    "location": "Athens, Georgia"
+  },
+  {
+    "name": "University of Guelph ",
+    "display": "University of Guelph ",
+    "shortName": "UG",
+    "id": "university-of-guelph",
+    "index": 289,
+    "latlng": "@43.5328968,-80.2284277,17z",
+    "location": "Guelph, Ontario"
+  },
+  {
+    "name": "University of Hawai'i at Manoa ",
+    "display": "University of Hawai'i at Manoa ",
+    "shortName": "UH",
+    "id": "university-of-hawai-i-at-manoa",
+    "index": 290,
+    "latlng": "@21.296944,-157.8192951,17z",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "name":
+      "University of Hawaii at Manoa: Information and Computer Sciences Department",
+    "display": "UH Manoa iSchool",
+    "shortName": "UH",
+    "id": "uh-manoa-ischool",
+    "index": 291,
+    "latlng": "@21.2974826,-157.8183969,17z",
+    "location": "Honolulu, Hawaii"
+  },
+  {
+    "name": "University of Houston ",
+    "display": "University of Houston ",
+    "shortName": "UH",
+    "id": "university-of-houston",
+    "index": 292,
+    "latlng": "@29.7203966,-95.3524578,14z",
+    "location": "Houston, Texas"
+  },
+  {
+    "name": "University of Idaho ",
+    "display": "University of Idaho ",
+    "shortName": "UI",
+    "id": "university-of-idaho",
+    "index": 293,
+    "latlng": "@46.7232763,-117.0222849,14z",
+    "location": "Moscow, Indiana"
+  },
+  {
+    "name": "University of Illinois at Chicago ",
+    "display": "University of Illinois at Chicago ",
+    "shortName": "UIC",
+    "id": "university-of-illinois-at-chicago",
+    "index": 294,
+    "latlng": "@41.8697978,-87.6518169,17z",
+    "location": "Chicago, Illinois"
+  },
+  {
+    "name":
+      "University of Illinois at Urbana Champaign: School of Information Sciences",
+    "display": "UIUC iSchool",
+    "shortName": "UIUC",
+    "id": "uiuc-ischool",
+    "index": 295,
+    "latlng": "@40.1076763,-88.2336856,17z",
+    "location": "Champaign, Illinois"
+  },
+  {
+    "name": "University of Illinois at Urbana-Champaign ",
+    "display": "University of Illinois at Urbana-Champaign ",
+    "shortName": "UIUC",
+    "id": "university-of-illinois-at-urbana-champaign",
+    "index": 296,
+    "latlng": "@40.1019564,-88.2293448,17z",
+    "location": "Champaign, Illinois"
+  },
+  {
+    "name": "University of Indianapolis",
+    "display": "University of Indianapolis",
+    "shortName": "UI",
+    "id": "university-of-indianapolis",
+    "index": 297,
+    "latlng": "@39.7097431,-86.1372909,17z",
+    "location": "Indianapolis, Indiana"
+  },
+  {
+    "name": "University of Iowa ",
+    "display": "University of Iowa ",
+    "shortName": "UI",
+    "id": "university-of-iowa",
+    "index": 298,
+    "latlng": "@41.6627003,-91.5570831,17z",
+    "location": "Iowa City, Iowa"
+  },
+  {
+    "name": "University of Iowa: School of Library and Information Sciences",
+    "display": "UIowa iSchool",
+    "shortName": "UI",
+    "id": "uiowa-ischool",
+    "index": 299,
+    "latlng": "@41.6594668,-91.5406081,17z",
+    "location": "Iowa City, Iowa"
+  },
+  {
+    "name": "University of Kansas ",
+    "display": "University of Kansas ",
+    "shortName": "KU",
+    "id": "university-of-kansas",
+    "index": 300,
+    "latlng": "@38.9543481,-95.2579794,17z",
+    "location": "Lawrence, Kansas"
+  },
+  {
+    "name": "University of Kentucky ",
+    "display": "University of Kentucky ",
+    "shortName": "UK",
+    "id": "university-of-kentucky",
+    "index": 301,
+    "latlng": "@38.0306553,-84.506153,17z",
+    "location": "Lexington, Kentucky"
+  },
+  {
+    "name": "University of Kentucky: College of Communication and Information",
+    "display": "UKentucky iSchool",
+    "shortName": "UKS",
+    "id": "ukentucky-ischool",
+    "index": 302,
+    "latlng": "@38.0307683,-84.5047248,17.27z",
+    "location": "Lexington, Kentucky"
+  },
+  {
+    "name": "University of Louisville ",
+    "display": "University of Louisville ",
+    "shortName": "UL",
+    "id": "university-of-louisville",
+    "index": 303,
+    "latlng": "@38.2122803,-85.7606856,17z",
+    "location": "Louisville, Kentucky"
+  },
+  {
+    "name": "University of Maine ",
+    "display": "University of Maine ",
+    "shortName": "UM",
+    "id": "university-of-maine",
+    "index": 304,
+    "latlng": "@44.9001939,-68.6701249,17z",
+    "location": "Orono, Maine"
+  },
+  {
+    "name": "University of Manitoba ",
+    "display": "University of Manitoba ",
+    "shortName": "UM",
+    "id": "university-of-manitoba",
+    "index": 305,
+    "latlng": "@49.8075042,-97.1388092,17z",
+    "location": "Winnipeg, Manitoba"
+  },
+  {
+    "name": "The University of Maryland",
+    "display": "The University of Maryland",
+    "shortName": "UMaryland",
+    "id": "the-university-of-maryland",
+    "index": 306,
+    "latlng": "@38.9869224,-76.9447376,17z",
+    "location": "College Park, Maryland"
+  },
+  {
+    "name":
+      "University of Maryland, Baltimore County: Department of Information Systems",
+    "display": "UMBC iSchool",
+    "shortName": "UMBC",
+    "id": "umbc-ischool",
+    "index": 307,
+    "latlng": "@39.25568,-76.7131507,17z",
+    "location": "Baltimore, Maryland"
+  },
+  {
+    "name":
+      "University of Maryland: College of Information Studies: Maryland's iSchool",
+    "display": "Maryland iSchool",
+    "shortName": "UMaryland",
+    "id": "maryland-ischool",
+    "index": 308,
+    "latlng": "@38.9878317,-76.9439644,17z",
+    "location": "College Park, Maryland"
+  },
+  {
+    "name": "University of Massachusetts at Amherst",
+    "display": "University of Massachusetts at Amherst",
+    "shortName": "MassachusettsSS",
+    "id": "university-of-massachusetts-at-amherst",
+    "index": 309,
+    "latlng": "@42.3911608,-72.5288954,17z",
+    "location": "Amherst, Massachusetts"
+  },
+  {
+    "name": "University of Memphis ",
+    "display": "University of Memphis ",
+    "shortName": "UM",
+    "id": "university-of-memphis",
+    "index": 310,
+    "latlng": "@35.1187454,-89.9393243,17z",
+    "location": "Memphis, Tennessee"
+  },
+  {
+    "name": "University of Miami ",
+    "display": "University of Miami ",
+    "shortName": "UM",
+    "id": "university-of-miami",
+    "index": 311,
+    "latlng": "@25.7538971,-80.3172881,12z",
+    "location": "Coral Gables, Florida"
+  },
+  {
+    "name": "University of Michigan ",
+    "display": "University of Michigan ",
+    "shortName": "UM",
+    "id": "university-of-michigan",
+    "index": 312,
+    "latlng": "@42.2806803,-83.7417851,15z",
+    "location": "Ann Arbor, Michigan"
+  },
+  {
+    "name": "University of Michigan: School of Information",
+    "display": "UMich iSchool",
+    "shortName": "UMS",
+    "id": "umich-ischool",
+    "index": 313,
+    "latlng": "@42.2805544,-83.7424095,17z",
+    "location": "Ann Arbor, Michigan"
+  },
+  {
+    "name": "University of Minnesota ",
+    "display": "University of Minnesota ",
+    "shortName": "UM",
+    "id": "university-of-minnesota",
+    "index": 314,
+    "latlng": "@45.8323451,-94.1125086,8z",
+    "location": "Minneapolis, Minnesota"
+  },
+  {
+    "name": "University of Mississippi ",
+    "display": "University of Mississippi ",
+    "shortName": "OLE",
+    "id": "university-of-mississippi",
+    "index": 315,
+    "latlng": "@34.3647368,-89.5406263,17z",
+    "location": "Oxford, Mississippi"
+  },
+  {
+    "name": "University of Missouri at Columbia ",
+    "display": "University of Missouri at Columbia ",
+    "shortName": "UMC",
+    "id": "university-of-missouri-at-columbia",
+    "index": 316,
+    "latlng": "@38.9442398,-92.3340622,16z",
+    "location": "Columbia, Missouri"
+  },
+  {
+    "name":
+      "University of Missouri-Columbia: School of Information Science and Learning Technologies",
+    "display": "UMissouri iSchool",
+    "shortName": "UMS",
+    "id": "umissouri-ischool",
+    "index": 317,
+    "latlng": "@38.9448335,-92.3322687,17z",
+    "location": "Columbia, Missouri"
+  },
+  {
+    "name": "University of Montana ",
+    "display": "University of Montana ",
+    "shortName": "UM",
+    "id": "university-of-montana",
+    "index": 318,
+    "latlng": "@46.8600708,-113.9873914,17z",
+    "location": "Missoula, Montana"
+  },
+  {
+    "name": "University of Nebraska at Lincoln ",
+    "display": "University of Nebraska at Lincoln ",
+    "shortName": "UNL",
+    "id": "university-of-nebraska-at-lincoln",
+    "index": 319,
+    "latlng": "@40.8202006,-96.7026596,17z",
+    "location": "Lincoln, Nebraska"
+  },
+  {
+    "name": "University of Nevada at Las Vegas ",
+    "display": "University of Nevada at Las Vegas ",
+    "shortName": "UNLV",
+    "id": "university-of-nevada-at-las-vegas",
+    "index": 320,
+    "latlng": "@36.108524,-115.1453542,17z",
+    "location": "Las Vegas, Nevada"
+  },
+  {
+    "name": "University of Nevada at Reno ",
+    "display": "University of Nevada at Reno ",
+    "shortName": "UNR",
+    "id": "university-of-nevada-at-reno",
+    "index": 321,
+    "latlng": "@39.5441958,-119.8185803,17z",
+    "location": "Reno, Nevada"
+  },
+  {
+    "name": "University of New Hampshire ",
+    "display": "University of New Hampshire ",
+    "shortName": "UNH",
+    "id": "university-of-new-hampshire",
+    "index": 322,
+    "latlng": "@43.1389519,-70.9392085,17z",
+    "location": "Durham, New Hampshire"
+  },
+  {
+    "name": "University of New Mexico",
+    "display": "University of New Mexico",
+    "shortName": "UNM",
+    "id": "university-of-new-mexico",
+    "index": 323,
+    "latlng": "@35.0843231,-106.6219645,17z",
+    "location": "Albequerque, New Mexico"
+  },
+  {
+    "name": "University of New Orleans",
+    "display": "University of New Orleans",
+    "shortName": "UNO",
+    "id": "university-of-new-orleans",
+    "index": 324,
+    "latlng": "@30.0286005,-90.0682198,17z",
+    "location": "New Orleans, Louisiana"
+  },
+  {
+    "name": "University of North Carolina at Chapel Hill",
+    "display": "University of North Carolina at Chapel Hill",
+    "shortName": "UNC",
+    "id": "university-of-north-carolina-at-chapel-hill",
+    "index": 325,
+    "latlng": "@35.9049165,-79.0490967,17z",
+    "location": "Chapel Hill, North Carolina"
+  },
+  {
+    "name": "University of North Carolina at Charlotte",
+    "display": "University of North Carolina at Charlotte",
+    "shortName": "UNorth CarolinaC",
+    "id": "university-of-north-carolina-at-charlotte",
+    "index": 326,
+    "latlng": "@35.3070973,-80.7373473,17z",
+    "location": "Charlotte, North Carolina"
+  },
+  {
+    "name": "University of North Dakota ",
+    "display": "University of North Dakota ",
+    "shortName": "UND",
+    "id": "university-of-north-dakota",
+    "index": 327,
+    "latlng": "@47.9228946,-97.0789847,17z",
+    "location": "Grand Forks, North Dakota"
+  },
+  {
+    "name": "University of North Texas ",
+    "display": "University of North Texas ",
+    "shortName": "UNT",
+    "id": "university-of-north-texas",
+    "index": 328,
+    "latlng": "@32.9803017,-97.6410935,9z",
+    "location": "Denton, Texas"
+  },
+  {
+    "name": "University of North Texas: College of Information",
+    "display": "UNT iSchool",
+    "shortName": "UNT",
+    "id": "unt-ischool",
+    "index": 329,
+    "latlng": "@33.2074925,-97.1547695,17z",
+    "location": "Denton, Texas"
+  },
+  {
+    "name": "University of Notre Dame",
+    "display": "University of Notre Dame",
+    "shortName": "UND",
+    "id": "university-of-notre-dame",
+    "index": 330,
+    "latlng": "@41.7055756,-86.2375221,17z",
+    "location": "South Bend, Indiana"
+  },
+  {
+    "name": "The University of Oklahoma ",
+    "display": "The University of Oklahoma ",
+    "shortName": "OU",
+    "id": "the-university-of-oklahoma",
+    "index": 331,
+    "latlng": "@35.205898,-97.447897,17z",
+    "location": "Norman, Oklahoma"
+  },
+  {
+    "name": "University of Oklahoma: School of Library and Information Studies",
+    "display": "UOklahoma iSchool",
+    "shortName": "OU",
+    "id": "uoklahoma-ischool",
+    "index": 332,
+    "latlng": "@35.2074006,-97.4500923,17z",
+    "location": "Norman, Oklahoma"
+  },
+  {
+    "name": "University of Oregon ",
+    "display": "University of Oregon ",
+    "shortName": "UO",
+    "id": "university-of-oregon",
+    "index": 333,
+    "latlng": "@44.044834,-123.0747888,17z",
+    "location": "Bend, Oregon"
+  },
+  {
+    "name": "University of Ottawa ",
+    "display": "University of Ottawa ",
+    "shortName": "UO",
+    "id": "university-of-ottawa",
+    "index": 334,
+    "latlng": "@45.4231101,-75.6853162,17z",
+    "location": "Ottawa, Ontario"
+  },
+  {
+    "name": "University of Ottawa: School of Information Studies",
+    "display": "UOttawa iSchool",
+    "shortName": "UOS",
+    "id": "uottawa-ischool",
+    "index": 335,
+    "latlng": "@45.4231101,-75.6853162,17z",
+    "location": "Ottawa, Ontario"
+  },
+  {
+    "name": "University of Pennsylvania ",
+    "display": "University of Pennsylvania ",
+    "shortName": "PENN",
+    "id": "university-of-pennsylvania",
+    "index": 336,
+    "latlng": "@39.9522229,-75.195397,17z",
+    "location": "Philadelphia, Pennsylvania"
+  },
+  {
+    "name": "University of Pittsburgh ",
+    "display": "University of Pittsburgh ",
+    "shortName": "PITT",
+    "id": "university-of-pittsburgh",
+    "index": 337,
+    "latlng": "@40.4449757,-79.9617426,16z",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "name": "University of Pittsburgh: School of Computing and Information",
+    "display": "Pitt iSchool",
+    "shortName": "PITT",
+    "id": "pitt-ischool",
+    "index": 338,
+    "latlng": "@40.4474098,-79.9548398,17z",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "name": "University of Portland ",
+    "display": "University of Portland ",
+    "shortName": "UP",
+    "id": "university-of-portland",
+    "index": 339,
+    "latlng": "@45.5732083,-122.7297545,17z",
+    "location": "Portland, Oregon"
+  },
+  {
+    "name":
+      "University of Puerto Rico: Escuela Graduada de Ciencias y Technologias de la Informacion",
+    "display": "UPR iSchool",
+    "shortName": "UPR",
+    "id": "upr-ischool",
+    "index": 340,
+    "latlng": "@18.4048522,-66.051995,17z",
+    "location": "San Juan, Puerto Rico"
+  },
+  {
+    "name": "University of Puget Sound ",
+    "display": "University of Puget Sound ",
+    "shortName": "UPS",
+    "id": "university-of-puget-sound",
+    "index": 341,
+    "latlng": "@47.2617676,-122.4836383,17z",
+    "location": "Tacoma, Washington"
+  },
+  {
+    "name": "University of Quebec at Montreal ",
+    "display": "University of Quebec at Montreal ",
+    "shortName": "UQAM",
+    "id": "university-of-quebec-at-montreal",
+    "index": 342,
+    "latlng": "@45.5108832,-73.5733068,15z",
+    "location": "Montreal, Quebec"
+  },
+  {
+    "name":
+      "University of Rhode Island: Harrington School of Communication and Media",
+    "display": "URI iSchool",
+    "shortName": "URI",
+    "id": "uri-ischool",
+    "index": 343,
+    "latlng": "@41.4860687,-71.533037,17z",
+    "location": "Kingston, Rhode Island"
+  },
+  {
+    "name": "University of Richmond ",
+    "display": "University of Richmond ",
+    "shortName": "UR",
+    "id": "university-of-richmond",
+    "index": 344,
+    "latlng": "@37.5758723,-77.5431577,17z",
+    "location": "Richmond, Virginia"
+  },
+  {
+    "name": "University of Rochester ",
+    "display": "University of Rochester ",
+    "shortName": "UR",
+    "id": "university-of-rochester",
+    "index": 345,
+    "latlng": "@43.130557,-77.6281866,17z",
+    "location": "Rochester, New York"
+  },
+  {
+    "name": "University of Saint Francis",
+    "display": "University of Saint Francis",
+    "shortName": "USF",
+    "id": "university-of-saint-francis",
+    "index": 346,
+    "latlng": "@41.2924259,-88.8735593,7z",
+    "location": "Fort Wayne, Indiana"
+  },
+  {
+    "name": "University of San Diego ",
+    "display": "University of San Diego ",
+    "shortName": "USD",
+    "id": "university-of-san-diego",
+    "index": 347,
+    "latlng": "@32.7719236,-117.1903963,17z",
+    "location": "San Diego, California"
+  },
+  {
+    "name": "University of San Francisco ",
+    "display": "University of San Francisco ",
+    "shortName": "USF",
+    "id": "university-of-san-francisco",
+    "index": 348,
+    "latlng": "@37.7765183,-122.4528246,17z",
+    "location": "San Francisco, California"
+  },
+  {
+    "name": "University of Saskatchewan ",
+    "display": "University of Saskatchewan ",
+    "shortName": "US",
+    "id": "university-of-saskatchewan",
+    "index": 349,
+    "latlng": "@52.1319475,-106.6438462,15z",
+    "location": "Saskaton, Saskatchewan"
+  },
+  {
+    "name": "University of South Carolina ",
+    "display": "University of South Carolina ",
+    "shortName": "USC",
+    "id": "university-of-south-carolina",
+    "index": 350,
+    "latlng": "@33.9986444,-81.0291437,16z",
+    "location": "Columbia, South Carolina"
+  },
+  {
+    "name":
+      "University of South Carolina: School of Library & Information Science",
+    "display": "USC iSchool",
+    "shortName": "USC",
+    "id": "usc-ischool",
+    "index": 351,
+    "latlng": "@33.9961164,-81.0296109,17z",
+    "location": "Columbia, South Carolina"
+  },
+  {
+    "name": "University of South Dakota ",
+    "display": "University of South Dakota ",
+    "shortName": "USD",
+    "id": "university-of-south-dakota",
+    "index": 352,
+    "latlng": "@42.7883054,-96.9275214,17z",
+    "location": "Vermillion, South Dakota"
+  },
+  {
+    "name": "University of South Florida ",
+    "display": "University of South Florida ",
+    "shortName": "USF",
+    "id": "university-of-south-florida",
+    "index": 353,
+    "latlng": "@28.0587078,-82.4160372,17z",
+    "location": "Tampa, Florida"
+  },
+  {
+    "name": "University of South Florida: School of Information",
+    "display": "USF iSchool",
+    "shortName": "USF",
+    "id": "usf-ischool",
+    "index": 354,
+    "latlng": "@28.0584871,-82.4133051,17z",
+    "location": "Tampa, Florida"
+  },
+  {
+    "name": "University of Southern California ",
+    "display": "University of Southern California ",
+    "shortName": "USC",
+    "id": "university-of-southern-california",
+    "index": 355,
+    "latlng": "@34.0223563,-118.2873003,17z",
+    "location": "Pasadena, California"
+  },
+  {
+    "name": "University of Southern California: Marshall School of Business",
+    "display": "USC Marshall",
+    "shortName": "USC",
+    "id": "usc-marshall",
+    "index": 356,
+    "latlng": "@34.0188449,-118.2879217,17z",
+    "location": "Pasadena, California"
+  },
+  {
+    "name": "University of Southern Mississippi ",
+    "display": "University of Southern Mississippi ",
+    "shortName": "USM",
+    "id": "university-of-southern-mississippi",
+    "index": 357,
+    "latlng": "@31.3284825,-89.3411461,16z",
+    "location": "Hattiesburg, Mississippi"
+  },
+  {
+    "name":
+      "University of Southern Mississippi: School of Library and Information Science",
+    "display": "Southern Miss iSchool",
+    "shortName": "USM",
+    "id": "southern-miss-ischool",
+    "index": 358,
+    "latlng": "@31.3286781,-89.3363595,17z",
+    "location": "Hattiesburg, Mississippi"
+  },
+  {
+    "name": "University of Tampa ",
+    "display": "University of Tampa ",
+    "shortName": "UT",
+    "id": "university-of-tampa",
+    "index": 359,
+    "latlng": "@27.9468083,-82.4691861,17z",
+    "location": "Tampa, Florida"
+  },
+  {
+    "name": "University of Tennessee at Chattanooga ",
+    "display": "University of Tennessee at Chattanooga ",
+    "shortName": "UTC",
+    "id": "university-of-tennessee-at-chattanooga",
+    "index": 360,
+    "latlng": "@35.0459263,-85.2974495,17z",
+    "location": "Chattanooga, Tennessee"
+  },
+  {
+    "name": "University of Tennessee at Knoxville ",
+    "display": "University of Tennessee, Knoxville ",
+    "shortName": "UTK",
+    "id": "university-of-tennessee-knoxville",
+    "index": 361,
+    "latlng": "@35.9544056,-83.9316397,17z",
+    "location": "Knoxville, Tennessee"
+  },
+  {
+    "name": "University of Tennesseee: School of Information Sciences",
+    "display": "UTK iSchool",
+    "shortName": "UTK",
+    "id": "utk-ischool",
+    "index": 362,
+    "latlng": "@35.9530602,-83.9279787,17z",
+    "location": "Knoxville, Tennessee"
+  },
+  {
+    "name": "University of Texas ",
+    "display": "University of Texas ",
+    "shortName": "UT",
+    "id": "university-of-texas",
+    "index": 363,
+    "latlng": "@31.0607397,-103.1966176,6z",
+    "location": "Austin, Texas"
+  },
+  {
+    "name": "University of Texas: School of Information",
+    "display": "UT Austin iSchool",
+    "shortName": "UT",
+    "id": "ut-austin-ischool",
+    "index": 364,
+    "latlng": "@30.2795088,-97.7449392,17z",
+    "location": "Austin, Texas"
+  },
+  {
+    "name": "University of Texas at Dallas ",
+    "display": "University of Texas at Dallas ",
+    "shortName": "UTD",
+    "id": "university-of-texas-at-dallas",
+    "index": 365,
+    "latlng": "@32.9857664,-96.7522826,17z",
+    "location": "Dallas, Texas"
+  },
+  {
+    "name": "University of Texas at San Antonio ",
+    "display": "University of Texas at San Antonio ",
+    "shortName": "UTSA",
+    "id": "university-of-texas-at-san-antonio",
+    "index": 366,
+    "latlng": "@29.5829745,-98.6219033,17z",
+    "location": "San Antonio, Texas"
+  },
+  {
+    "name": "University of Toronto ",
+    "display": "University of Toronto ",
+    "shortName": "UT",
+    "id": "university-of-toronto",
+    "index": 367,
+    "latlng": "@43.6628956,-79.3978397,17z",
+    "location": "Toronto, Ontario"
+  },
+  {
+    "name": "University of Toronto: Faculty of Information",
+    "display": "UToronto iSchool",
+    "shortName": "UTS",
+    "id": "utoronto-ischool",
+    "index": 368,
+    "latlng": "@43.6650463,-79.4015458,17z",
+    "location": "Toronto, Ontario"
+  },
+  {
+    "name": "University of Utah ",
+    "display": "University of Utah ",
+    "shortName": "UTAH",
+    "id": "university-of-utah",
+    "index": 369,
+    "latlng": "@40.7649408,-111.8442854,17z",
+    "location": "Salt Lake City, Utah"
+  },
+  {
+    "name": "University of Vermont ",
+    "display": "University of Vermont ",
+    "shortName": "UV",
+    "id": "university-of-vermont",
+    "index": 370,
+    "latlng": "@44.4778039,-73.1971871,17z",
+    "location": "Burlington, Vermont"
+  },
+  {
+    "name": "University of Virginia ",
+    "display": "University of Virginia ",
+    "shortName": "UVA",
+    "id": "university-of-virginia",
+    "index": 371,
+    "latlng": "@38.0314918,-78.5272613,13z",
+    "location": "Charlottesville, Virginia"
+  },
+  {
+    "name": "University of Washington ",
+    "display": "University of Washington ",
+    "shortName": "UW",
+    "id": "university-of-washington",
+    "index": 372,
+    "latlng": "@47.5669116,-125.5167502,7z",
+    "location": "Seattle, Washington"
+  },
+  {
+    "name": "University of Washington: Information School",
+    "display": "UWashington iSchool",
+    "shortName": "UWS",
+    "id": "uwashington-ischool",
+    "index": 373,
+    "latlng": "@47.6548323,-122.3098704,17z",
+    "location": "Seattle, Washington"
+  },
+  {
+    "name": "University of Waterloo ",
+    "display": "University of Waterloo ",
+    "shortName": "UW",
+    "id": "university-of-waterloo",
+    "index": 374,
+    "latlng": "@43.4743195,-80.5469505,16z",
+    "location": "Waterloo, Ontario"
+  },
+  {
+    "name": "University of West Virginia ",
+    "display": "University of West Virginia ",
+    "shortName": "WVU",
+    "id": "university-of-west-virginia",
+    "index": 375,
+    "latlng": "@39.6361437,-79.9581191,17z",
+    "location": "Morgantown, West Virgnia"
+  },
+  {
+    "name":
+      "University of Western Ontario: Faculty of Information and Media Studies",
+    "display": "University of Western Ontario FIMS",
+    "shortName": "UWO",
+    "id": "university-of-western-ontario-fims",
+    "index": 376,
+    "latlng": "@43.0060361,-81.2746185,17z",
+    "location": "London, Ontario"
+  },
+  {
+    "name": "University of Wisconsin-Madison ",
+    "display": "University of Wisconsin-Madison ",
+    "shortName": "UW",
+    "id": "university-of-wisconsin-madison",
+    "index": 377,
+    "latlng": "@43.0765959,-89.4146708,17z",
+    "location": "Madison, Wisconsin"
+  },
+  {
+    "name": "University of Wisconsin-Milwaukee: School of Information Studies",
+    "display": "UW Milwaukee iSchool",
+    "shortName": "UWM",
+    "id": "uw-milwaukee-ischool",
+    "index": 378,
+    "latlng": "@43.0780059,-87.8863383,17z",
+    "location": "Milwaukee, Wisconsin"
+  },
+  {
+    "name":
+      "University of Wisconsin: School of Library and Information Studies",
+    "display": "UW Madison iSchool",
+    "shortName": "UWM",
+    "id": "uw-madison-ischool",
+    "index": 379,
+    "latlng": "@43.0766647,-89.403429,17z",
+    "location": "Madison, Wisconsin"
+  },
+  {
+    "name": "University of Wyoming ",
+    "display": "University of Wyoming ",
+    "shortName": "UW",
+    "id": "university-of-wyoming",
+    "index": 380,
+    "latlng": "@41.3148794,-105.5687577,17z",
+    "location": "Laramie, Wyoming"
+  },
+  {
+    "name": "Utah State University ",
+    "display": "Utah State University ",
+    "shortName": "USU",
+    "id": "utah-state-university",
+    "index": 381,
+    "latlng": "@41.745165,-111.8119258,17z",
+    "location": "Logan, Utah"
+  },
+  {
+    "name":
+      "Valdosta State University: Dewar College of Education and Human Services",
+    "display": "Valdosta State iSchool",
+    "shortName": "VSU",
+    "id": "valdosta-state-ischool",
+    "index": 382,
+    "latlng": "@30.8464606,-83.2939189,17z",
+    "location": "Valdosta, Georgia"
+  },
+  {
+    "name": "Vanderbilt University ",
+    "display": "Vanderbilt University ",
+    "shortName": "VU",
+    "id": "vanderbilt-university",
+    "index": 383,
+    "latlng": "@36.126647,-86.821386,14z",
+    "location": "Nashville, Tennessee"
+  },
+  {
+    "name": "Vassar College ",
+    "display": "Vassar College ",
+    "shortName": "V",
+    "id": "vassar-college",
+    "index": 384,
+    "latlng": "@41.6868032,-73.8978835,17z",
+    "location": "Poughkeepsie, New York"
+  },
+  {
+    "name": "Villinova University ",
+    "display": "Villinova University ",
+    "shortName": "VU",
+    "id": "villinova-university",
+    "index": 385,
+    "latlng": "@40.0370601,-75.3457633,17z",
+    "location": "Villanova, Pennsylvania"
+  },
+  {
+    "name": "Virginia Commonwealth University ",
+    "display": "Virginia Commonwealth University ",
+    "shortName": "VCU",
+    "id": "virginia-commonwealth-university",
+    "index": 386,
+    "latlng": "@37.5485071,-77.4501597,17z",
+    "location": "Richmond, Virginia"
+  },
+  {
+    "name": "Virginia Polytechnic University",
+    "display": "Virginia Polytechnic University",
+    "shortName": "Vermont",
+    "id": "virginia-polytechnic-university",
+    "index": 387,
+    "latlng": "@37.4699017,-80.4995176,10z",
+    "location": "Blacksburg, Virgnia"
+  },
+  {
+    "name": "Wabash College",
+    "display": "Wabash College",
+    "shortName": "WC",
+    "id": "wabash-college",
+    "index": 388,
+    "latlng": "@40.0378152,-86.9088385,17z",
+    "location": "Crawfordsville, Indiana"
+  },
+  {
+    "name": "Wake Forest University ",
+    "display": "Wake Forest University ",
+    "shortName": "WFU",
+    "id": "wake-forest-university",
+    "index": 389,
+    "latlng": "@36.1341028,-80.2800784,17z",
+    "location": "Winston-Salem, North Carolina"
+  },
+  {
+    "name": "Washington and Jefferson College ",
+    "display": "Washington and Jefferson College ",
+    "shortName": "WJ",
+    "id": "washington-and-jefferson-college",
+    "index": 390,
+    "latlng": "@40.1704401,-80.2409083,17z",
+    "location": "Washington, Pennsylvania"
+  },
+  {
+    "name": "Washington and Lee University ",
+    "display": "Washington and Lee University ",
+    "shortName": "WL",
+    "id": "washington-and-lee-university",
+    "index": 391,
+    "latlng": "@37.7884993,-79.4469615,17z",
+    "location": "Lexington, Virginia"
+  },
+  {
+    "name": "Washington State University ",
+    "display": "Washington State University ",
+    "shortName": "WSU",
+    "id": "washington-state-university",
+    "index": 392,
+    "latlng": "@46.7444928,-120.3374543,7z",
+    "location": "Pullman, Washington"
+  },
+  {
+    "name": "Washington University in St. Louis ",
+    "display": "Washington University in St. Louis ",
+    "shortName": "WUS",
+    "id": "washington-university-in-st-louis",
+    "index": 393,
+    "latlng": "@38.6487937,-90.3129795,17z",
+    "location": "St. Louis, Missouri"
+  },
+  {
+    "name": "Wayne State University ",
+    "display": "Wayne State University ",
+    "shortName": "WSU",
+    "id": "wayne-state-university",
+    "index": 394,
+    "latlng": "@42.4261649,-83.4613718,10z",
+    "location": "Detroit, Michigan"
+  },
+  {
+    "name": "Wayne State University: School of Information Sciences",
+    "display": "Wayne State SIS",
+    "shortName": "WSU",
+    "id": "wayne-state-sis",
+    "index": 395,
+    "latlng": "@42.3563717,-83.0688628,17z",
+    "location": "Detroit, Michigan"
+  },
+  {
+    "name": "Wellesley College ",
+    "display": "Wellesley College ",
+    "shortName": "WC",
+    "id": "wellesley-college",
+    "index": 396,
+    "latlng": "@42.2935772,-71.308111,17z",
+    "location": "Wellesley, Massachusetts"
+  },
+  {
+    "name": "Wesleyan University ",
+    "display": "Wesleyan University ",
+    "shortName": "WU",
+    "id": "wesleyan-university",
+    "index": 397,
+    "latlng": "@41.5520536,-72.6692774,15z",
+    "location": "Middletown, Connecticut"
+  },
+  {
+    "name": "Western University ",
+    "display": "Western University ",
+    "shortName": "WU",
+    "id": "western-university",
+    "index": 398,
+    "latlng": "@33.5351105,-138.2375501,3z",
+    "location": "London, Ontario"
+  },
+  {
+    "name": "Wheaton College",
+    "display": "Wheaton College",
+    "shortName": "WC",
+    "id": "wheaton-college",
+    "index": 399,
+    "latlng": "@41.9673093,-71.1859066,17z",
+    "location": "Norton, Massachusetts "
+  },
+  {
+    "name": "Whitman College",
+    "display": "Whitman College",
+    "shortName": "WC",
+    "id": "whitman-college",
+    "index": 400,
+    "latlng": "@46.0705836,-118.3328184,17z",
+    "location": "Walla Walla, Washington"
+  },
+  {
+    "name": "Whittier College",
+    "display": "Whittier College",
+    "shortName": "WC",
+    "id": "whittier-college",
+    "index": 401,
+    "latlng": "@33.9781063,-118.0301442,17z",
+    "location": "Whittier, California"
+  },
+  {
+    "name": "Willamette University",
+    "display": "Willamette University",
+    "shortName": "WU",
+    "id": "willamette-university",
+    "index": 402,
+    "latlng": "@44.9358374,-123.0363027,16z",
+    "location": "Salem, Oregon"
+  },
+  {
+    "name": "Williams College ",
+    "display": "Williams College ",
+    "shortName": "WC",
+    "id": "williams-college",
+    "index": 403,
+    "latlng": "@42.712962,-73.2058229,17z",
+    "location": "Williamstown, Massachusetts"
+  },
+  {
+    "name": "Worcester Polytechnic Institute ",
+    "display": "Worcester Polytechnic Institute ",
+    "shortName": "WPI",
+    "id": "worcester-polytechnic-institute",
+    "index": 404,
+    "latlng": "@42.2745793,-71.8084557,17z",
+    "location": "Worcester, Massachusetts"
+  },
+  {
+    "name": "Xavier University of New Orleans ",
+    "display": "Xavier University of New Orleans ",
+    "shortName": "XU",
+    "id": "xavier-university-of-new-orleans",
+    "index": 405,
+    "latlng": "@29.9638676,-90.1092673,17z",
+    "location": "New Orleans, Louisiana"
+  },
+  {
+    "name": "Yale University ",
+    "display": "Yale University ",
+    "shortName": "Y",
+    "id": "yale-university",
+    "index": 406,
+    "latlng": "@41.3163284,-72.9245264,17z",
+    "location": "New Haven, Connecticut"
+  },
+  {
+    "name": "Yeshiva University ",
+    "display": "Yeshiva University ",
+    "shortName": "Y",
+    "id": "yeshiva-university",
+    "index": 407,
+    "latlng": "@40.8506765,-73.9316982,17z",
+    "location": "New York, New York"
+  },
+  {
+    "name": "York University ",
+    "display": "York University ",
+    "shortName": "Y",
+    "id": "york-university",
+    "index": 408,
+    "latlng": "@43.7734574,-79.5040517,17z",
+    "location": "Toronto, Ontario"
+  },
+  {
+    "name": "East Carolina University",
+    "display": "East Carolina University",
+    "shortName": "ECU",
+    "id": "east-carolina-university",
+    "index": 411,
+    "latlng": "@35.6055151,-77.3667486,17z",
+    "location": "Greenville, North Carolina"
+  },
+  {
+    "name":
+      "University of Rhode Island: Harrington School of Communication and Media",
+    "display": "University of Rhode Island - Harrington School",
+    "shortName": "URI",
+    "id": "uri-harrington-school",
+    "index": 412,
+    "latlng": "@41.4860687,-71.533037,17z",
+    "location": "Kingston, Rhode Island"
+  },
+  {
+    "name": "University of Rhode Island",
+    "display": "University of Rhode Island",
+    "shortName": "URI",
+    "id": "university-of-rhode-island",
+    "index": 413,
+    "latlng": "@41.4860687,-71.533037,17z",
+    "location": "Kingston, Rhode Island"
+  },
+  {
+    "name": "Skilltype",
+    "display": "Skilltype",
+    "shortName": "S",
+    "id": "skilltype",
+    "index": 414,
+    "latlng": "@29.9429134,-90.0736769,17z",
+    "location": "Baton Rouge, Louisiana"
+  },
+  {
+    "name": "Index Data",
+    "display": "Index Data",
+    "shortName": "ID",
+    "id": "index-data",
+    "index": 415,
+    "location": "Boston, Massachusetts"
+  },
+  {
+    "name": "Ithaka S+R",
+    "display": "Ithaka S+R",
+    "shortName": "I",
+    "id": "ithaka-s-r",
+    "index": 417,
+    "latlng": "@40.708115,-74.0154023,17z",
+    "location": "New York, New York"
+  },
+  {
+    "name": "East Baton Rouge Parish Library",
+    "display": "EBRPL",
+    "shortName": "EBR",
+    "id": "ebrpl",
+    "index": 419,
+    "latlng": "@30.5352744,-91.242728,11z",
+    "location": "Baton Rouge, Louisiana"
+  },
+  {
+    "name": "Athenaeum21",
+    "display": "Athenaeum21",
+    "shortName": "A21",
+    "id": "athenaeum21",
+    "index": 420,
+    "location": "Boston, Massachusetts"
+  },
+  {
+    "name": "We Here",
+    "display": "We Here",
+    "shortName": "WE",
+    "id": "we-here",
+    "index": 421,
+    "latlng": "@39.307555,-76.6216339,15z",
+    "location": "Baltimore, Maryland"
+  },
+  {
+    "name": "Electronic Resources and Libraries",
+    "display": "ER&L",
+    "shortName": "ERL",
+    "id": "electronic-resources-and-libraries",
+    "index": 422,
+    "location": "Austin, Texas"
+  },
+  {
+    "name": "Black Caucus of American Library Association",
+    "display": "BCALA",
+    "shortName": "BC",
+    "id": "bcala",
+    "index": 423,
+    "location": "New York, New York"
+  },
+  {
+    "name": "Association of College and Research Libraries",
+    "display": "ACRL",
+    "shortName": "AC",
+    "id": "acrl",
+    "index": 424,
+    "latlng": "@41.8951502,-87.6283768,17z",
+    "location": "Chicago, Illinois"
+  },
+  {
+    "name": "Appalachian College Association",
+    "display": "ACA",
+    "shortName": "ACA",
+    "id": "appalachian-college-association",
+    "index": 425,
+    "latlng": "@37.7326028,-84.3283295,17z",
+    "location": "Richmond, Kentucky"
+  },
+  {
+    "name": "Johnson C. Smith University",
+    "display": "Johnson C. Smith University",
+    "shortName": "JCS",
+    "id": "johnson-c-smith-university",
+    "index": 427,
+    "latlng": "@35.2427236,-80.8584011,17z",
+    "location": "Charlotte, North Carolina"
+  },
+  {
+    "name": "Simmons University School of Library and Information Science",
+    "display": "Simmons SILS",
+    "shortName": "SI",
+    "id": "simmons-sils",
+    "index": 428,
+    "latlng": "@42.3382781,-71.1019186,17z",
+    "location": "Boston, Massachusetts"
+  }
+]

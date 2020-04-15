@@ -1,0 +1,82 @@
+{
+  "organizations": {
+    "title": "Organizations",
+    "placeholder":
+      "What organizations would you like to connect to? Skilltype brokers a connection between you and various types of organizations to exchange data.",
+    "searchPlaceholder": "Search organizations",
+    "noResults": {
+      "message": "No organizations found.",
+      "suggest": {
+        "message": "Suggest a new organization",
+        "url": "https://www.skilltype.com/addtag"
+      }
+    },
+    "noTags": {
+      "message": "No organizations yet"
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "placeholder":
+      "What can you do on the job? Skilltype recommends opportunities to earn more income based on this data.",
+    "searchPlaceholder": "Search skills",
+    "noResults": {
+      "message": "No skills found.",
+      "suggest": {
+        "message": "Suggest a new skill",
+        "url": "https://www.skilltype.com/addtag"
+      }
+    },
+    "noTags": {
+      "message": "No skills yet"
+    }
+  },
+  "priorities": {
+    "title": "Priorities",
+    "placeholder":
+    "What types of work gets you excited in the morning? Skilltype uses these to match you with organizations and opportunities.",
+    "searchPlaceholder": "Search Priorities",
+    "noResults": {
+      "message": "No Priorities found.",
+      "suggest": {
+        "message": "Suggest a new priority",
+        "url": "https://www.skilltype.com/addtag"
+      }
+    },
+    "noTags": {
+      "message": "No priorities yet"
+    }
+  },
+  "interests": {
+    "title": "Interests",
+    "placeholder":
+      "What are you curious about? Skilltype recommends professional development opportunities based on this data.",
+    "searchPlaceholder": "Search interests",
+    "noResults": {
+      "message": "No interests found.",
+      "suggest": {
+        "message": "Suggest a new interest",
+        "url": "https://www.skilltype.com/addtag"
+      }
+    },
+    "noTags": {
+      "message": "No interests yet"
+    }
+  },
+  "productExperience": {
+    "title": "Product Experience",
+    "placeholder":
+      "What tools and services have you used? Skilltype uses these to recommend opportunities to leverage your experience and sharpen your skills.",
+    "searchPlaceholder": "Search products and services",
+    "noResults": {
+      "message": "No products or services found.",
+      "suggest": {
+        "message": "Suggest a new product or service",
+        "url": "https://www.skilltype.com/addtag"
+      }
+    },
+    "noTags": {
+      "message": "No products or services yet"
+    }
+  }
+}

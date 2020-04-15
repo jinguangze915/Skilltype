@@ -1,0 +1,990 @@
+[
+  {
+    "Title": "360 Resource Manager",
+    "Id": "resource-manager"
+  },
+  {
+    "Title": "ABELL",
+    "Id": "abell"
+  },
+  {
+    "Title": "ABI/Inform",
+    "Id": "abi-inform"
+  },
+  {
+    "Title": "Academic OneFile",
+    "Id": "academic-onefile"
+  },
+  {
+    "Title": "Academic Search",
+    "Id": "academic-search"
+  },
+  {
+    "Title": "Access WorldNews (NewsBank)",
+    "Id": "access-worldnews-newsbank"
+  },
+  {
+    "Title": "Alexandria",
+    "Id": "alexandria"
+  },
+  {
+    "Title": "Ex Libris Alma",
+    "Id": "ex-libris-alma"
+  },
+  {
+    "Title": "Ex Libris Primo",
+    "Id": "ex-libris-primo"
+  },
+  {
+    "Title": "Ex Libris Aleph",
+    "Id": "ex-libris-aleph"
+  },
+  {
+    "Title": "Altmetric",
+    "Id": "altmetric"
+  },
+  {
+    "Title": "AP Images",
+    "Id": "ap-images"
+  },
+  {
+    "Title": "Apollo",
+    "Id": "apollo"
+  },
+  {
+    "Title": "Archives Space",
+    "Id": "archives-space"
+  },
+  {
+    "Title": "ARTstor",
+    "Id": "artstor"
+  },
+  {
+    "Title": "ATLA",
+    "Id": "atla"
+  },
+  {
+    "Title": "Authorea",
+    "Id": "authorea"
+  },
+  {
+    "Title": "Biography in Context",
+    "Id": "biography-in-context"
+  },
+  {
+    "Title": "Blacklight",
+    "Id": "blacklight"
+  },
+  {
+    "Title": "BLUEcloud",
+    "Id": "bluecloud"
+  },
+  {
+    "Title": "Browzine",
+    "Id": "browzine"
+  },
+  {
+    "Title": "Business Source",
+    "Id": "business-source"
+  },
+  {
+    "Title": "bX Article Recommender",
+    "Id": "bx-article-recommender"
+  },
+  {
+    "Title": "CAB Abstracts",
+    "Id": "cab-abstracts"
+  },
+  {
+    "Title": "Campus-M",
+    "Id": "campus-m"
+  },
+  {
+    "Title": "CARL",
+    "Id": "carl"
+  },
+  {
+    "Title": "CINAHL",
+    "Id": "cinahl"
+  },
+  {
+    "Title": "Compendex",
+    "Id": "compendex"
+  },
+  {
+    "Title": "CQ Researcher",
+    "Id": "cq-researcher"
+  },
+  {
+    "Title": "Credo Reference",
+    "Id": "credo-reference"
+  },
+  {
+    "Title": "Curriculum Builder",
+    "Id": "curriculum-builder"
+  },
+  {
+    "Title": "Directory of Open Access Journals (DOAJ)",
+    "Id": "directory-of-open-access-journals-doaj"
+  },
+  {
+    "Title": "Drupal",
+    "Id": "drupal"
+  },
+  {
+    "Title": "DSpace",
+    "Id": "dspace"
+  },
+  {
+    "Title": "Ebook Central",
+    "Id": "ebook-central"
+  },
+  {
+    "Title": "EBSCO Discovery Service",
+    "Id": "ebsco-discovery-service"
+  },
+  {
+    "Title": "EBSCO Full Text Finder",
+    "Id": "ebsco-full-text-finder"
+  },
+  {
+    "Title": "EBSCO Holdings and Link Management",
+    "Id": "ebsco-holdings-and-link-management"
+  },
+  {
+    "Title": "EconLit",
+    "Id": "econlit"
+  },
+  {
+    "Title": "Education Source",
+    "Id": "education-source"
+  },
+  {
+    "Title": "EMBASE",
+    "Id": "embase"
+  },
+  {
+    "Title": "III Encore",
+    "Id": "iii-encore"
+  },
+  {
+    "Title": "Endnote",
+    "Id": "endnote"
+  },
+  {
+    "Title": "ERIC Database",
+    "Id": "eric-database"
+  },
+  {
+    "Title": "Evergreen",
+    "Id": "evergreen"
+  },
+  {
+    "Title": "Leganto",
+    "Id": "leganto"
+  },
+  {
+    "Title": "EZ Proxy",
+    "Id": "ez-proxy"
+  },
+  {
+    "Title": "Fedora Commons",
+    "Id": "fedora-commons"
+  },
+  {
+    "Title": "FOLIO",
+    "Id": "folio"
+  },
+  {
+    "Title": "Global Issues in Context",
+    "Id": "global-issues-in-context"
+  },
+  {
+    "Title": "GeoRef",
+    "Id": "georef"
+  },
+  {
+    "Title": "GOBI",
+    "Id": "gobi"
+  },
+  {
+    "Title": "Google Scholar",
+    "Id": "google-scholar"
+  },
+  {
+    "Title": "Hathi Trust",
+    "Id": "hathi-trust"
+  },
+  {
+    "Title": "HeinOnline",
+    "Id": "heinonline"
+  },
+  {
+    "Title": "Horizon",
+    "Id": "horizon"
+  },
+  {
+    "Title": "Samvera",
+    "Id": "samvera"
+  },
+  {
+    "Title": "IEEE Xplore",
+    "Id": "ieee-xplore"
+  },
+  {
+    "Title": "III Polaris",
+    "Id": "iii-polaris"
+  },
+  {
+    "Title": "Inspec",
+    "Id": "inspec"
+  },
+  {
+    "Title": "Mergent Intellect",
+    "Id": "mergent-intellect"
+  },
+  {
+    "Title": "Islandora",
+    "Id": "islandora"
+  },
+  {
+    "Title": "JSTOR",
+    "Id": "jstor"
+  },
+  {
+    "Title": "Kanopy",
+    "Id": "kanopy"
+  },
+  {
+    "Title": "Koha",
+    "Id": "koha"
+  },
+  {
+    "Title": "LEXISNEXIS Academic",
+    "Id": "lexisnexis-academic"
+  },
+  {
+    "Title": "Libguides",
+    "Id": "libguides"
+  },
+  {
+    "Title": "MathSciNet",
+    "Id": "mathscinet"
+  },
+  {
+    "Title": "Mendeley",
+    "Id": "mendeley"
+  },
+  {
+    "Title": "MetaLib",
+    "Id": "metalib"
+  },
+  {
+    "Title": "III Millenium",
+    "Id": "iii-millenium"
+  },
+  {
+    "Title": "MLA International Bibliography",
+    "Id": "mla-international-bibliography"
+  },
+  {
+    "Title": "Open Library Environment (OLE)",
+    "Id": "open-library-environment-ole"
+  },
+  {
+    "Title": "OPALS",
+    "Id": "opals"
+  },
+  {
+    "Title": "OpenAthens",
+    "Id": "openathens"
+  },
+  {
+    "Title": "Opposing Viewpoints in Context",
+    "Id": "opposing-viewpoints-in-context"
+  },
+  {
+    "Title": "Oxford English Dictionary",
+    "Id": "oxford-english-dictionary"
+  },
+  {
+    "Title": "PLOS",
+    "Id": "plos"
+  },
+  {
+    "Title": "Plum Analytics",
+    "Id": "plum-analytics"
+  },
+  {
+    "Title": "Ex Libris Primo",
+    "Id": "ex-libris-primo"
+  },
+  {
+    "Title": "Project Muse",
+    "Id": "project-muse"
+  },
+  {
+    "Title": "ProQuest Dissertations",
+    "Id": "proquest-dissertations"
+  },
+  {
+    "Title": "ProQuest Research Library",
+    "Id": "proquest-research-library"
+  },
+  {
+    "Title": "PsycINFO",
+    "Id": "psycinfo"
+  },
+  {
+    "Title": "PubMed",
+    "Id": "pubmed"
+  },
+  {
+    "Title": "Quria",
+    "Id": "quria"
+  },
+  {
+    "Title": "Readers Guide Retrospective",
+    "Id": "readers-guide-retrospective"
+  },
+  {
+    "Title": "Reason CMS",
+    "Id": "reason-cms"
+  },
+  {
+    "Title": "RILM",
+    "Id": "rilm"
+  },
+  {
+    "Title": "Rock's Backpages",
+    "Id": "rock-s-backpages"
+  },
+  {
+    "Title": "Rosetta",
+    "Id": "rosetta"
+  },
+  {
+    "Title": "ScienceDirect",
+    "Id": "sciencedirect"
+  },
+  {
+    "Title": "Scopus",
+    "Id": "scopus"
+  },
+  {
+    "Title": "SFX",
+    "Id": "sfx"
+  },
+  {
+    "Title": "Shibboleth",
+    "Id": "shibboleth"
+  },
+  {
+    "Title": "III Sierra",
+    "Id": "iii-sierra"
+  },
+  {
+    "Title": "Spydus",
+    "Id": "spydus"
+  },
+  {
+    "Title": "SSRN",
+    "Id": "ssrn"
+  },
+  {
+    "Title": "StackMap",
+    "Id": "stackmap"
+  },
+  {
+    "Title": "Stacks",
+    "Id": "stacks"
+  },
+  {
+    "Title": "Summon",
+    "Id": "summon"
+  },
+  {
+    "Title": "Symphony",
+    "Id": "symphony"
+  },
+  {
+    "Title": "Ulrich's Periodicals Dictionary",
+    "Id": "ulrich-s-periodicals-dictionary"
+  },
+  {
+    "Title": "Verso",
+    "Id": "verso"
+  },
+  {
+    "Title": "Voyager",
+    "Id": "voyager"
+  },
+  {
+    "Title": "VuFind",
+    "Id": "vufind"
+  },
+  {
+    "Title": "Web of Science",
+    "Id": "web-of-science"
+  },
+  {
+    "Title": "WestLaw",
+    "Id": "westlaw"
+  },
+  {
+    "Title": "Wordpress",
+    "Id": "wordpress"
+  },
+  {
+    "Title": "WorldCat",
+    "Id": "worldcat"
+  },
+  {
+    "Title": "WorldCat Discovery Services",
+    "Id": "worldcat-discovery-services"
+  },
+  {
+    "Title": "WorldCat Local",
+    "Id": "worldcat-local"
+  },
+  {
+    "Title": "Worldshare Management Services",
+    "Id": "worldshare-management-services"
+  },
+  {
+    "Title": "Zotero",
+    "Id": "zotero"
+  },
+  {
+    "Title": "Tipasa",
+    "Id": "tipasa"
+  },
+  {
+    "Title": "The Scholarly Kitchen",
+    "Id": "the-scholarly-kitchen"
+  },
+  {
+    "Title": "LearningExpress Library",
+    "Id": "learningexpress-library"
+  },
+  {
+    "Title": "SPORTDiscus",
+    "Id": "sportdiscus"
+  },
+  {
+    "Title": "Ebrary",
+    "Id": "ebrary"
+  },
+  {
+    "Title": "Ebooks on EBSCOHost",
+    "Id": "ebooks-on-ebscohost"
+  },
+  {
+    "Title": "Biblioboard",
+    "Id": "biblioboard"
+  },
+  {
+    "Title": "Yewno",
+    "Id": "yewno"
+  },
+  {
+    "Title": "Dropbox",
+    "Id": "dropbox"
+  },
+  {
+    "Title": "Trello",
+    "Id": "trello"
+  },
+  {
+    "Title": "Qualtrics",
+    "Id": "qualtrics"
+  },
+  {
+    "Title": "R",
+    "Id": "r"
+  },
+  {
+    "Title": "Stata",
+    "Id": "stata"
+  },
+  {
+    "Title": "SPSS",
+    "Id": "spss"
+  },
+  {
+    "Title": "Linux",
+    "Id": "linux"
+  },
+  {
+    "Title": "Windows",
+    "Id": "windows"
+  },
+  {
+    "Title": "Unix",
+    "Id": "unix"
+  },
+  {
+    "Title": "Kali Linux",
+    "Id": "kali-linux"
+  },
+  {
+    "Title": "Ubuntu",
+    "Id": "ubuntu"
+  },
+  {
+    "Title": "Redhat",
+    "Id": "redhat"
+  },
+  {
+    "Title": "Cisco",
+    "Id": "cisco"
+  },
+  {
+    "Title": "AWS",
+    "Id": "aws"
+  },
+  {
+    "Title": "Tableau Software",
+    "Id": "tableau-software"
+  },
+  {
+    "Title": "Microsoft Word",
+    "Id": "microsoft-word"
+  },
+  {
+    "Title": "Microsoft Excel",
+    "Id": "microsoft-excel"
+  },
+  {
+    "Title": "Microsoft Outlook",
+    "Id": "microsoft-outlook"
+  },
+  {
+    "Title": "Microsoft Access",
+    "Id": "microsoft-access"
+  },
+  {
+    "Title": "Microsoft OneDrive",
+    "Id": "microsoft-onedrive"
+  },
+  {
+    "Title": "Microsoft PowerPoint",
+    "Id": "microsoft-powerpoint"
+  },
+  {
+    "Title": "SharePoint",
+    "Id": "sharepoint"
+  },
+  {
+    "Title": "Microsoft OneNote",
+    "Id": "microsoft-onenote"
+  },
+  {
+    "Title": "Yammer",
+    "Id": "yammer"
+  },
+  {
+    "Title": "Microsoft Project",
+    "Id": "microsoft-project"
+  },
+  {
+    "Title": "Microsoft Exchange",
+    "Id": "microsoft-exchange"
+  },
+  {
+    "Title": "Microsoft Visio",
+    "Id": "microsoft-visio"
+  },
+  {
+    "Title": "Microsoft Teams",
+    "Id": "microsoft-teams"
+  },
+  {
+    "Title": "Microsoft Bookings",
+    "Id": "microsoft-bookings"
+  },
+  {
+    "Title": "Microsoft Invoicing",
+    "Id": "microsoft-invoicing"
+  },
+  {
+    "Title": "Microsoft MileIQ",
+    "Id": "microsoft-mileiq"
+  },
+  {
+    "Title": "Microsoft MyAnalytics",
+    "Id": "microsoft-myanalytics"
+  },
+  {
+    "Title": "Microsoft Planner",
+    "Id": "microsoft-planner"
+  },
+  {
+    "Title": "Skype for Business",
+    "Id": "skype-for-business"
+  },
+  {
+    "Title": "Microsoft Outlook Customer Manager",
+    "Id": "microsoft-outlook-customer-manager"
+  },
+  {
+    "Title": "Microsoft StaffHub",
+    "Id": "microsoft-staffhub"
+  },
+  {
+    "Title": "Microsoft Stream",
+    "Id": "microsoft-stream"
+  },
+  {
+    "Title": "Microsoft Sway",
+    "Id": "microsoft-sway"
+  },
+  {
+    "Title": "Microsoft To-Do",
+    "Id": "microsoft-to-do"
+  },
+  {
+    "Title": "Microsoft Whiteboard",
+    "Id": "microsoft-whiteboard"
+  },
+  {
+    "Title": "LibLime Koha",
+    "Id": "liblime-koha"
+  },
+  {
+    "Title": "Adobe Dreamweaver",
+    "Id": "adobe-dreamweaver"
+  },
+  {
+    "Title": "Adobe Photoshop",
+    "Id": "adobe-photoshop"
+  },
+  {
+    "Title": "Adobe Acrobat",
+    "Id": "adobe-acrobat"
+  },
+  {
+    "Title": "Adobe Premiere",
+    "Id": "adobe-premiere"
+  },
+  {
+    "Title": "Adobe After Effects",
+    "Id": "adobe-after-effects"
+  },
+  {
+    "Title": "Adobe Flash",
+    "Id": "adobe-flash"
+  },
+  {
+    "Title": "Adobe Illustrator",
+    "Id": "adobe-illustrator"
+  },
+  {
+    "Title": "Adobe InDesign",
+    "Id": "adobe-indesign"
+  },
+  {
+    "Title": "Adobe Animate",
+    "Id": "adobe-animate"
+  },
+  {
+    "Title": "Adobe Scan",
+    "Id": "adobe-scan"
+  },
+  {
+    "Title": "Adobe PostScript",
+    "Id": "adobe-postscript"
+  },
+  {
+    "Title": "Adobe Sign",
+    "Id": "adobe-sign"
+  },
+  {
+    "Title": "Adobe Spark",
+    "Id": "adobe-spark"
+  },
+  {
+    "Title": "Adobe Analytics",
+    "Id": "adobe-analytics"
+  },
+  {
+    "Title": "Adobe AIR",
+    "Id": "adobe-air"
+  },
+  {
+    "Title": "Adobe Bridge",
+    "Id": "adobe-bridge"
+  },
+  {
+    "Title": "Adobe Behance",
+    "Id": "adobe-behance"
+  },
+  {
+    "Title": "Adobe Campaign",
+    "Id": "adobe-campaign"
+  },
+  {
+    "Title": "Adobe Capture",
+    "Id": "adobe-capture"
+  },
+  {
+    "Title": "Adobe Character Animator",
+    "Id": "adobe-character-animator"
+  },
+  {
+    "Title": "Adobe Captivate",
+    "Id": "adobe-captivate"
+  },
+  {
+    "Title": "Adobe ColdFusion",
+    "Id": "adobe-coldfusion"
+  },
+  {
+    "Title": "Adobe Comp",
+    "Id": "adobe-comp"
+  },
+  {
+    "Title": "Adobe Connect",
+    "Id": "adobe-connect"
+  },
+  {
+    "Title": "Zoom",
+    "Id": "zoom"
+  },
+  {
+    "Title": "Adobe Dimension",
+    "Id": "adobe-dimension"
+  },
+  {
+    "Title": "Adobe Experience Manager",
+    "Id": "adobe-experience-manager"
+  },
+  {
+    "Title": "Adobe Audience Manager",
+    "Id": "adobe-audience-manager"
+  },
+  {
+    "Title": "Adobe Audition",
+    "Id": "adobe-audition"
+  },
+  {
+    "Title": "Adobe Digital Editions",
+    "Id": "adobe-digital-editions"
+  },
+  {
+    "Title": "Adobe Content Manager",
+    "Id": "adobe-content-manager"
+  },
+  {
+    "Title": "CreateSpace",
+    "Id": "createspace"
+  },
+  {
+    "Title": "Adobe Dimension",
+    "Id": "adobe-dimension"
+  },
+  {
+    "Title": "Adobe Document Cloud",
+    "Id": "adobe-document-cloud"
+  },
+  {
+    "Title": "Adobe Export PDF",
+    "Id": "adobe-export-pdf"
+  },
+  {
+    "Title": "Adobe Fill & Sign",
+    "Id": "adobe-fill-sign"
+  },
+  {
+    "Title": "Adobe Flex",
+    "Id": "adobe-flex"
+  },
+  {
+    "Title": "Adobe FrameMaker",
+    "Id": "adobe-framemaker"
+  },
+  {
+    "Title": "Adobe InCopy",
+    "Id": "adobe-incopy"
+  },
+  {
+    "Title": "Adobe InDesign",
+    "Id": "adobe-indesign"
+  },
+  {
+    "Title": "Adobe Lightroom",
+    "Id": "adobe-lightroom"
+  },
+  {
+    "Title": "Adobe LiveCycle",
+    "Id": "adobe-livecycle"
+  },
+  {
+    "Title": "Adobe Media",
+    "Id": "adobe-media"
+  },
+  {
+    "Title": "Adobe Photoshop Elements",
+    "Id": "adobe-photoshop-elements"
+  },
+  {
+    "Title": "Adobe Photoshop Express",
+    "Id": "adobe-photoshop-express"
+  },
+  {
+    "Title": "Adobe Prelude",
+    "Id": "adobe-prelude"
+  },
+  {
+    "Title": "Adobe Portfolio",
+    "Id": "adobe-portfolio"
+  },
+  {
+    "Title": "Adobe Presenter",
+    "Id": "adobe-presenter"
+  },
+  {
+    "Title": "Adobe Primetime",
+    "Id": "adobe-primetime"
+  },
+  {
+    "Title": "Adobe Stock",
+    "Id": "adobe-stock"
+  },
+  {
+    "Title": "Adobe Target",
+    "Id": "adobe-target"
+  },
+  {
+    "Title": "Adobe Team Projects",
+    "Id": "adobe-team-projects"
+  },
+  {
+    "Title": "Adobe Creative Cloud",
+    "Id": "adobe-creative-cloud"
+  },
+  {
+    "Title": "Gmail",
+    "Id": "gmail"
+  },
+  {
+    "Title": "Google Drive",
+    "Id": "google-drive"
+  },
+  {
+    "Title": "Apple Pay",
+    "Id": "apple-pay"
+  },
+  {
+    "Title": "Google Pay",
+    "Id": "google-pay"
+  },
+  {
+    "Title": "Google Alerts",
+    "Id": "google-alerts"
+  },
+  {
+    "Title": "Google Earth",
+    "Id": "google-earth"
+  },
+  {
+    "Title": "Google Maps",
+    "Id": "google-maps"
+  },
+  {
+    "Title": "Google Sheets",
+    "Id": "google-sheets"
+  },
+  {
+    "Title": "Google Slides",
+    "Id": "google-slides"
+  },
+  {
+    "Title": "Google Photos",
+    "Id": "google-photos"
+  },
+  {
+    "Title": "Google Pixel",
+    "Id": "google-pixel"
+  },
+  {
+    "Title": "Waze",
+    "Id": "waze"
+  },
+  {
+    "Title": "Google News",
+    "Id": "google-news"
+  },
+  {
+    "Title": "Google Scholar",
+    "Id": "google-scholar"
+  },
+  {
+    "Title": "Google Translate",
+    "Id": "google-translate"
+  },
+  {
+    "Title": "Google Sites",
+    "Id": "google-sites"
+  },
+  {
+    "Title": "Google Docs",
+    "Id": "google-docs"
+  },
+  {
+    "Title": "Google Drawings",
+    "Id": "google-drawings"
+  },
+  {
+    "Title": "Google Calendar",
+    "Id": "google-calendar"
+  },
+  {
+    "Title": "Google Hangouts",
+    "Id": "google-hangouts"
+  },
+  {
+    "Title": "Google Keep",
+    "Id": "google-keep"
+  },
+  {
+    "Title": "Google Groups",
+    "Id": "google-groups"
+  },
+  {
+    "Title": "Twitch",
+    "Id": "twitch"
+  },
+  {
+    "Title": "Slack",
+    "Id": "slack"
+  },
+  {
+    "Title": "Intercom",
+    "Id": "intercom"
+  },
+  {
+    "Title": "Twitter",
+    "Id": "twitter"
+  },
+  {
+    "Title": "Facebook",
+    "Id": "facebook"
+  },
+  {
+    "Title": "Instagram",
+    "Id": "instagram"
+  },
+  {
+    "Title": "Pinterest",
+    "Id": "pinterest"
+  },
+  {
+    "Title": "Snapchat",
+    "Id": "snapchat"
+  },
+  {
+    "Title": "WhatsApp",
+    "Id": "whatsapp"
+  }
+]

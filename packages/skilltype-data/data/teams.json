@@ -1,0 +1,130 @@
+[
+  {
+    "Title": "Architecture Library",
+    "Id": "architecture-library"
+  },
+  {
+    "Title": "Archives and Special Collections",
+    "Id": "archives-and-special-collections"
+  },
+  {
+    "Title": "Asian Library",
+    "Id": "asian-library"
+  },
+  {
+    "Title": "Botany Library",
+    "Id": "botany-library"
+  },
+  {
+    "Title": "Business Library",
+    "Id": "business-library"
+  },
+  {
+    "Title": "Collection Development",
+    "Id": "collection-development"
+  },
+  {
+    "Title": "Entrepreneurship Center",
+    "Id": "entrepreneurship-center"
+  },
+  {
+    "Title": "Facilities",
+    "Id": "facilities"
+  },
+  {
+    "Title": "Film Archive",
+    "Id": "film-archive"
+  },
+  {
+    "Title": "Government Library",
+    "Id": "government-library"
+  },
+  {
+    "Title": "Health Sciences Library",
+    "Id": "health-sciences-library"
+  },
+  {
+    "Title": "Horticultural Library",
+    "Id": "horticultural-library"
+  },
+  {
+    "Title": "International Studies",
+    "Id": "international-studies"
+  },
+  {
+    "Title": "iSchool",
+    "Id": "ischool"
+  },
+  {
+    "Title": "IT and Computing",
+    "Id": "it-and-computing"
+  },
+  {
+    "Title": "Judaica Library",
+    "Id": "judaica-library"
+  },
+  {
+    "Title": "Law Library",
+    "Id": "law-library"
+  },
+  {
+    "Title": "Map Collections",
+    "Id": "map-collections"
+  },
+  {
+    "Title": "Medical Library",
+    "Id": "medical-library"
+  },
+  {
+    "Title": "Museum",
+    "Id": "museum"
+  },
+  {
+    "Title": "Music Library",
+    "Id": "music-library"
+  },
+  {
+    "Title": "Office of Research",
+    "Id": "office-of-research"
+  },
+  {
+    "Title": "Operations and Administration",
+    "Id": "operations-and-administration"
+  },
+  {
+    "Title": "Papyrology Collection",
+    "Id": "papyrology-collection"
+  },
+  {
+    "Title": "Philosophy Library",
+    "Id": "philosophy-library"
+  },
+  {
+    "Title": "Public Services and Access",
+    "Id": "public-services-and-access"
+  },
+  {
+    "Title": "Publishing and University Press",
+    "Id": "publishing-and-university-press"
+  },
+  {
+    "Title": "Rare Books and Archives",
+    "Id": "rare-books-and-archives"
+  },
+  {
+    "Title": "Research and Instruction",
+    "Id": "research-and-instruction"
+  },
+  {
+    "Title": "Scholarly Communications and Discovery",
+    "Id": "scholarly-communications-and-discovery"
+  },
+  {
+    "Title": "Technical Services and Innovation",
+    "Id": "technical-services-and-innovation"
+  },
+  {
+    "Title": "Theology Library",
+    "Id": "theology-library"
+  }
+]

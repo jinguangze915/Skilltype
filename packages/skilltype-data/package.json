@@ -1,0 +1,13 @@
+{
+  "name": "@skilltype/data",
+  "version": "1.4.99",
+  "repository": "https://github.com/skilltype/skilltype-web",
+  "author": "pzhine <paul@hine.works>",
+  "license": "MIT",
+  "private": true,
+  "module": "index.js",
+  "dependencies": {
+    "lodash.camelcase": "^4.3.0",
+    "lodash.kebabcase": "^4.1.1"
+  }
+}

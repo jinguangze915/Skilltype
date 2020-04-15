@@ -1,0 +1,16 @@
+{
+  "name": "@skilltype/user",
+  "version": "1.4.99",
+  "main": "index.js",
+  "repository": "https://github.com/skilltype/skilltype-web",
+  "author": "pzhine <paul@hine.works>",
+  "license": "MIT",
+  "private": true,
+  "peerDependencies": {
+    "@skilltype/ui": "1.4.99",
+    "@skilltype/services": "1.4.99",
+    "@skilltype/data": "1.4.99",
+    "@skilltype/user": "1.4.99",
+    "@skilltype/login": "1.4.99"
+  }
+}

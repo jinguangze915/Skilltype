@@ -1,0 +1,13 @@
+[
+  {
+    "id": "staff",
+    "name": "Staff",
+    "description":
+      "I currently work for or retain active membership in this organization."
+  },
+  {
+    "id": "follower",
+    "name": "Follower",
+    "description": "I am interested in connecting with this organization."
+  }
+]
